@@ -1,4 +1,4 @@
-# Awesome Meshtastic List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Meshtastic List [![Awesome](./media/awesome-list-badge.svg)](https://awesome.re)
 
 ![Awesome Meshtastic List](media/awesome-meshtastic-list-logo.svg)
 
@@ -10,7 +10,7 @@ This is a curated list of useful resources, tools, tutorials, projects, and comm
 - [Officicial Repositories](#officicial-repositories)
     - [Core Repositories](#core-repositories)
     - [Mobile, Web & Desktop Clients](#mobile-web-and-desktop-clients)
-    - [Device Interaction and Firmware](#device-interaction-and-firmware)
+    - [Device Interaction and Integrations](#device-interaction-and-integrations)
     - [Tools & Utilities](#tools--utilities)
     - [Hardware and Sensors](#hardware-and-sensors)
 - [Contribute](#contribute)
@@ -37,19 +37,20 @@ These repositories offer various client applications for different platforms.
 - [Meshtastic-Apple](https://github.com/meshtastic/Meshtastic-Apple) - iOS, iPadOS & macOS Clients for Meshtastic
 - [Meshtastic-Android](https://github.com/meshtastic/Meshtastic-Android) - Android app for Meshtastic
 - [network-management-client](https://github.com/meshtastic/network-management-client) - Desktop client for offline deployment and mesh network management
-- [home-assistant](https://github.com/meshtastic/home-assistant) - Home Assistant integration for Meshtastic
-- [python](https://github.com/meshtastic/python) - Python CLI and API for interacting with Meshtastic devices.
-- [node-red-contrib-meshtastic](https://github.com/meshtastic/node-red-contrib-meshtastic) - Node-RED integration for Meshtastic.
 
 <small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
 
-### Device Interaction and Firmware
-Repositories related to firmware, device configuration, and interactions.
-
+### Device Interaction and Integrations
+Repositories related to firmware, device configuration, interactions and integrations
+- [home-assistant](https://github.com/meshtastic/home-assistant) - Home Assistant integration for Meshtastic
+- [python](https://github.com/meshtastic/python) - Python CLI and API for interacting with Meshtastic devices.
+- [node-red-contrib-meshtastic](https://github.com/meshtastic/node-red-contrib-meshtastic) - Node-RED integration for Meshtastic.
 - [Meshtastic-arduino](https://github.com/meshtastic/Meshtastic-arduino) - Arduino drivers for interfacing with Meshtastic nodes over WiFi and Serial.
 - [firmware-ota-wifi](https://github.com/meshtastic/firmware-ota-wifi) - WiFi-based OTA (Over The Air) firmware updates for Meshtastic devices.
 - [nrf52_factory_erase](https://github.com/meshtastic/nrf52_factory_erase) - Firmware for factory erasing the nRF52 chips used in Meshtastic devices.
 - [firmware-ota](https://github.com/meshtastic/firmware-ota) - BLE-OTA Mini firmware for Meshtastic devices.
+- [rust](https://github.com/meshtastic/rust) - A Rust library for interacting with Meshtastic radios.
+- [c-sharp](https://github.com/meshtastic/c-sharp) - C#/.NET command-line interface and library for Meshtastic.
 
 <small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
 
