@@ -10,6 +10,8 @@ This is a curated list of useful resources, tools, tutorials, projects, and comm
 - [Officicial Repositories](#officicial-repositories)
     - [Core Repositories](#core-repositories)
     - [Mobile, Web & Desktop Clients](#mobile-web-and-desktop-clients)
+    - [Device Interaction and Firmware](#device-interaction-and-firmware)
+    - [Tools & Utilities](#tools--utilities)
 - [Contribute](#contribute)
 - [Legal Notice](#legal-notice)
 
@@ -41,13 +43,23 @@ These repositories offer various client applications for different platforms.
 <small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
 
 ### Device Interaction and Firmware
-
 Repositories related to firmware, device configuration, and interactions.
 
 - [Meshtastic-arduino](https://github.com/meshtastic/Meshtastic-arduino) - Arduino drivers for interfacing with Meshtastic nodes over WiFi and Serial.
 - [firmware-ota-wifi](https://github.com/meshtastic/firmware-ota-wifi) - WiFi-based OTA (Over The Air) firmware updates for Meshtastic devices.
 - [nrf52_factory_erase](https://github.com/meshtastic/nrf52_factory_erase) - Firmware for factory erasing the nRF52 chips used in Meshtastic devices.
 - [firmware-ota](https://github.com/meshtastic/firmware-ota) - BLE-OTA Mini firmware for Meshtastic devices.
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+### Tools & Utilities
+For managing, simulating, and testing Meshtastic networks and devices.
+
+- [meshtasticator](https://github.com/meshtastic/meshtasticator) - Simulator for Meshtastic, supporting discrete-event and interactive simulations.
+- [meshTestic](https://github.com/meshtastic/meshTestic) - End-to-end test suite for Meshtastic devices.
+- [meshtastic](https://github.com/meshtastic/meshtastic)-site-planner - Site planning tool based on RF analysis using SPLAT! software.
+- [mqtt](https://github.com/meshtastic/mqtt) - MQTT broker boilerplate designed for Meshtastic’s native packet-aware MQTT support.
+- [RadioHead](https://github.com/meshtastic/RadioHead) - A fork of the RadioHead library, with custom fixes for Meshtastic devices.
 
 <small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
 
