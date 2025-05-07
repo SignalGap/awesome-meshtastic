@@ -13,6 +13,8 @@ This is a curated list of useful resources, tools, tutorials, projects, and comm
     - [Device Interaction and Integrations](#device-interaction-and-integrations)
     - [Tools & Utilities](#tools--utilities)
     - [Hardware and Sensors](#hardware-and-sensors)
+- [Community](#community)
+    - [Local Groups](#local-groups)
 - [Contribute](#contribute)
 - [Legal Notice](#legal-notice)
 - [License](#license)
@@ -73,6 +75,329 @@ Repos related to the hardware components and sensor integration for Meshtastic.
 - [enclosures](https://github.com/meshtastic/enclosures) - 3D models for enclosures used in Meshtastic devices.
 - [i2c-sensor](https://github.com/meshtastic/i2c-sensor) - Arduino boilerplate for creating custom I2C sensors for Meshtastic.
 - [ETHClass2](https://github.com/meshtastic/ETHClass2) - Provides ETHClass2 integration for Meshtastic, originally from LilyGO T-ETH series.
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+## Community
+
+- [Official Discussion Board](https://github.com/orgs/meshtastic/discussions)
+- [Official Discord Server](https://discord.com/invite/ktMAKGBnBs)
+- [Offical Subreddit](https://www.reddit.com/r/meshtastic/)
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+## Local Groups
+
+A list of groups that have been actively organizing Meshtastic networks in their regions.
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+### Argentina
+
+- [Meshtastic Argentina Community](https://github.com/Meshtastic-Argentina/)
+
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+### Australia
+
+- Australian Capital Territory
+  - [Canberra Meshtastic Community - Discord](https://discord.gg/4QgFsuaC3Z)
+- New South Wale
+  - [Meshtastic Sydney - Facebook](https://www.facebook.com/groups/1041534027106861)
+- Queensland 
+  - [Meshtastic Brisbane User Group - Discord](https://discord.com/invite/rN66wEedMY)
+- Tasmania
+  - [Meshtastic User Group Tasmania](https://www.facebook.com/groups/1556630645195649)
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+### Brazil
+
+- [Comunidade Meshtastic Brasil](https://t.me/+xS_5ZqDoP6BlODNh)
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+### Bulgaria
+
+- [Meshtastic BG Community Group](https://facebook.com/groups/meshtasticbulgaria)
+- Burgas
+  - [Burgas Mesh](https://discord.gg/Kbs233rmq3)
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+### Canada
+- [Canadaverse Mesh Wiki](https://wiki.mt.gt/)
+- [Mesh Canada](https://t.me/meshtastic_canada)
+- Alberta
+  - [YYC Mesh](https://yycmesh.com/)
+  - [Mesht Calgary](https://t.me/meshtcalgary)
+  - [Mesht Alberta](https://t.me/meshtAlta)
+- British Columbia
+  - [Meshtastic BC users group](https://t.me/Mesh_BC)
+  - [Meshtastic Dawson Creek BC users group](https://t.me/Mesh_BC_Dawson_Creek)
+- Manitoba
+  - [Mesht Manitoba](https://t.me/MeshtManitoba)
+- New Brunswick
+  - [Mesht New Brunswick](https://t.me/MeshtNB)
+- Newfoundland
+  - [Mesht Newfoundland](https://t.me/MeshtNewfoundland)
+- Northwest Territories
+  - [Mesht Northwest Territories](https://t.me/MeshtNWT)
+- Nova Scotia
+  - [Mesht Nova Scotia](https://t.me/MeshtNovaScotia)
+- Ontario
+  - [Mesht Ontario](https://t.me/meshtOnt)
+  - [Greater Ottawa Meshtastic Enthusiasts Discord](https://discord.gg/njcQ4BnKDU)
+- Prince Edward Island
+  - [Mesht PEI](https://t.me/MeshtPEI)
+- Quebec
+  - [Mesht Quebec](https://t.me/meshtQuebec)
+- Saskatchewan
+  - [Mesht Saskatchewan](https://t.me/MeshtSaska)
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+### China
+
+- [Meshtastic 中国社区](https://meshcn.net)
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+### Colombia
+
+- [Meshtastic Users Colombia - General Telegram](https://t.me/meshtasticco)
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+### Denmark
+
+- [Danske Meshtastic Brugere](https://discord.gg/EXWWwDmfBN)
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+### Finland
+
+- [Mesh Finland Discord](https://discord.com/invite/GHnaVAjqed)
+- [Mesh Finland Website](https://mesh-finland.github.io)
+- [MeshAbout](https://www.meshabout.fi/)
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+### France
+
+- [Autour de Meshtastic - Telegram](https://t.me/+EYBkU17mlcU2MWI8)
+- [Collectif Meshtastic France](https://www.facebook.com/groups/meshtastic.france)
+- [Réseau Gaulix - Telegram](https://t.me/+bkCEaiI-i-Q2ZTBk)
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+### Germany
+
+- [Meshtastic Users D-A-CH](https://t.me/meshtasticgermany) for technical chat
+- [Meshtastic Users Germany - Facebook](https://www.facebook.com/share/o6CZ9E35UmDKjp9U/)
+- [Mesh Hessen (Website)](https://meshhessen.de/)
+- [Mesh Hessen (Telegram)](https://t.me/Mesh_Hessen)
+- [Meshtastic Users Hannover](https://discord.gg/eEnDkQKEFJ)
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+### India
+
+- [India Bir Paragliding](https://bircom.in)
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+### Israel
+
+- [Israel Meshtastic Club](https://www.mesh-il.com)
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+### Italy
+
+- [Meshtastic Italia Community](https://t.me/meshtastic_italia_community)
+- [Mesh_ITA Discord Server](https://discord.gg/ETFmtyzbFT)
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+### Japan
+
+- [Meshtastic Japan Community](https://www.facebook.com/share/g/BQCGxZhw9SxFQja8/?mibextid=K35XfP)
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+### Latvia
+
+- [Meshtastic Latvija](https://mesh.dodies.lv)
+- [Meshtastic Latvija Matrix Space](https://matrix.to/#/#meshtastic-lv:matrix.org)
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+### Lithuania
+
+- [Meshtastic Lietuva](https://www.facebook.com/groups/1122509422249414)
+- [LithMesh Signal Group](https://signal.group/#CjQKIBScbOkXSG2bkFh_omdxjOM-XqYIU4eERDmGEDrm3jjmEhDyZhh-EeCLSfjfV-DoPvEQ)
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+### Mexico
+
+- [Meshtastic Mexico Community](https://radioaficionados.mx/meshtastic)
+- [Meshtastic User Group Mexico (MUG-Mexico) - Telegram](https://t.me/meshtastic_mexico)
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+### Netherlands, The
+
+- [Meshtastic Netherlands Telegram](https://t.me/meshtastic_nl)
+- [MeshNet Meshtastic Community](https://www.meshnet.nl/)
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+### New Zealand
+
+- [New Zealand Meshtastic Community Discord](https://discord.gg/xb9bBZJUpz)
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+### Poland
+
+- [Meshtastic Poland Matrix Space](https://matrix.to/#/#meshtasticpl:matrix.org)
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+### Slovenia
+
+- [MeshNet.si](https://meshnet.si)
+- [Slovenian Amature Radio Discord](https://discord.gg/uHDDE734DD)
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+### Spain
+
+- [Meshtastic Spanish Community](https://t.me/meshtastic_esp)
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+### Sweden
+
+- [STHLM-MESH.se - Discord](https://discord.gg/gchSzHkPGG)
+- [STHLM-MESH.se - Website](https://sthlm-mesh.se)
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+### Taiwan
+
+- [Meshtastic Taiwan Community 臺灣鏈網 - Facebook](https://www.facebook.com/groups/413628121046386)
+- [Meshtastic Taiwan Community 臺灣鏈網 - Discord](https://discord.gg/2vZkuckp8E)
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+### Türkiye
+
+- [Meshtastic Türkiye Community - Telegram](https://t.me/trmesh)
+- [Meshtastic Türkiye Community - Discord](https://discord.gg/7TGnZSSA)
+- [Meshtastic Türkiye Community - Web](https://trmesh.org)
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+### Ukraine
+
+- [WiKi Meshtastic UA](https://wikimesh.pp.ua)
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+### United States
+
+- [Midwest Mesh](https://discord.gg/wYwD56K439)
+- [Mountain Mesh (North GA / East TN)](https://mtnme.sh)
+- [DMV (DC-MD-VA) Mesh](https://www.reddit.com/r/Meshtastic_DMV_Users/)
+- Alabama
+  - [Birmingham Mesh](https://birminghammesh.org/)
+- Arizona
+  - [Tucson Meshtastic Community](https://discord.gg/7MzbMMd2kg)
+  - [Arizona Meshtastic Community](https://azmsh.net)
+- Arkansas
+  - [Central Arkansas](https://lrme.sh)
+  - [Fort Smith Mesh](https://discord.com/invite/nwsvcXeqMX)
+- California
+  - [SoCal Mesh](https://socalmesh.org)
+  - [Laguna Mesh](https://lagunamesh.com)
+  - [Mission Viejo Mesh](https://missionviejomesh.org/)
+  - [Meshtastic Bay Area Group](https://bayme.sh/)
+  - [MontereyBayMesh](https://mrymesh.net/)
+  - [San Diego Mesh](https://discord.gg/k8RputgWgD)
+  - [Antelope Valley Mesh](https://www.avmesh.org/)
+  - [AltaMesh](https://altamesh.net/)
+  - [Central Valley](https://centralvalleymesh.net/)
+  - [Sac Valley Mesh](http://www.sacvalleymesh.com)
+  - [Inter-Canyon Mesh   Orange County Canyons](https://icmesh.com)
+- Colorado
+  - [Denver Mesh](https://denvermesh.org)
+  - [Colorado Springs Meshtastic Network](https://www.facebook.com/groups/cosmeshtastic)
+- Connecticut
+  - [CT Mesh](https://ctmesh.org)
+- Florida
+  - [Space Coast Mesh](https://scmesh.org/)
+  - [JAXMesh](https://jaxmesh.com/)
+  - [Florida Mesh](https://areyoumeshingwith.us/)
+- Georgia
+  - [CSRA Mesh   Augusta, GA/North Augusta, SC Area](https://discord.gg/rQSTQDZKgs)
+- Hawaii
+  - [Hawaii Meshnet](https://www.hawaiimesh.net/)
+- Illinois
+  - [Chicagoland Mesh](https://chicagolandmesh.org)
+- Iowa
+  - [Iowa Mesh](https://iowamesh.org)
+- Kansas
+  - [SecKC Amateur Radio Club of Kansas City and Surrounding Cities for Amateur Radio](https://ks3ckc.radio/home)
+- Maine
+  - [Maine Mesh](https://github.com/JFRHorton/MaineMesh)
+- Massachusetts
+  - [Boston Meshnet](https://github.com/Darachnid/Boston-Meshnet)
+  - [SouthCoast Mesh](https://southcoastmesh.com)
+- Michigan
+  - [Michigan Meshtastic Network](https://discord.gg/3A5RREcBcc)
+- Missouri
+  - [Kansas City Meshtastic Group](https://www.facebook.com/share/XZ9jnhxy1YT4wWqC/)
+  - [MeshSTL   St. Louis](https://discord.gg/QYxUdKZpBd)
+  - [CMRG Mesh   Jefferson City](https://www.mo-mesh.com)
+- Nevada
+  - [VegasMesh Discord](https://discord.gg/vUmWuZxYPh)
+- New Hampshire
+  - [NHMesh Discord](https://discord.gg/PkbHWSEXBv)
+- New Mexico
+  - [Albuquerque Mesh](https://www.abqm.net)
+- North Carolina
+- Ohio
+  - [Cincy Mesh](https://www.cincymesh.org)
+  - [Dayton Mesh](https://daytonmesh.org/)
+  - [Central Ohio (Columbus Metro Area) Mesh](https://meshcolumb.us/)
+- Oklahoma
+  - [Oklahoma Meshtastic Group](https://www.facebook.com/groups/942404880478488)
+- Oregon
+  - [Southern Oregon Meshtastic Community](https://sites.google.com/view/someshtastic/home)
+  - [PDXMesh for Portland & SW Washington](https://pdxmesh.com)
+  - [Willamette Valley Mesh Eugene / Springfield](https://discord.gg/gf4mShtJz4)
+- Pennsylvania
+  - [Philly Radio & Meshtastic](https://discord.gg/MWWbAkRR9v)
+- Tennessee
+  - [Nashville Meshville](https://meshville.org/)
+- Texas
+  - [Austin Mesh](https://austinmesh.org/)
+  - [Cypress, Texas Meshtastic Club](https://discord.gg/KzuwNRwE6q)
+  - [DFW / North Texas Mesh](https://ntxmesh.net)
+- Virginia
+  - [MadisonMesh](https://madisonmesh.com/)
+  - [Albemarle Mesh](https://albemarlemesh.com/)
+  - [Shenandoah Valley Mesh](https://svmesh.org)
+- Wisconsin
+  - [Meshconsin](https://meshconsin.org)
+- Washington
+  - [Puget Mesh](https://PugetMesh.org)
+- Washington DC
+  - [DC Mesh](https://dcmesh.org)
 
 <small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
 
