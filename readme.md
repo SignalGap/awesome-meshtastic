@@ -7,7 +7,7 @@ This is a curated list of useful resources, tools, tutorials, projects, and comm
 
 ## Table of Contents
 
-- [Officicial Repositories](#officicial-repositories)
+- [Official Source Code Repositories](#official-source-code-repositories)
     - [Core Repositories](#core-repositories)
     - [Mobile, Web & Desktop Clients](#mobile-web-and-desktop-clients)
     - [Device Interaction and Integrations](#device-interaction-and-integrations)
@@ -20,7 +20,7 @@ This is a curated list of useful resources, tools, tutorials, projects, and comm
 - [License](#license)
 
 
-## Officicial Source Code Repositories
+## Official Source Code Repositories
 
 ### Core Repositories
 These repositories are at the heart of the Meshtastic project, containing firmware, APIs, and other essential code.
@@ -31,7 +31,7 @@ These repositories are at the heart of the Meshtastic project, containing firmwa
 - [meshtastic](https://github.com/meshtastic/meshtastic) - Meshtastic project website and documentation
 - [api](https://github.com/meshtastic/api) - Meshtastic Website API
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### Mobile, Web & Desktop Clients
 These repositories offer various client applications for different platforms.
@@ -41,82 +41,82 @@ These repositories offer various client applications for different platforms.
 - [Meshtastic-Android](https://github.com/meshtastic/Meshtastic-Android) - Android app for Meshtastic
 - [network-management-client](https://github.com/meshtastic/network-management-client) - Desktop client for offline deployment and mesh network management
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### Device Interaction and Integrations
 Repositories related to firmware, device configuration, interactions and integrations
 - [home-assistant](https://github.com/meshtastic/home-assistant) - Home Assistant integration for Meshtastic
-- [python](https://github.com/meshtastic/python) - Python CLI and API for interacting with Meshtastic devices.
-- [node-red-contrib-meshtastic](https://github.com/meshtastic/node-red-contrib-meshtastic) - Node-RED integration for Meshtastic.
-- [Meshtastic-arduino](https://github.com/meshtastic/Meshtastic-arduino) - Arduino drivers for interfacing with Meshtastic nodes over WiFi and Serial.
-- [firmware-ota-wifi](https://github.com/meshtastic/firmware-ota-wifi) - WiFi-based OTA (Over The Air) firmware updates for Meshtastic devices.
-- [nrf52_factory_erase](https://github.com/meshtastic/nrf52_factory_erase) - Firmware for factory erasing the nRF52 chips used in Meshtastic devices.
-- [firmware-ota](https://github.com/meshtastic/firmware-ota) - BLE-OTA Mini firmware for Meshtastic devices.
-- [rust](https://github.com/meshtastic/rust) - A Rust library for interacting with Meshtastic radios.
-- [c-sharp](https://github.com/meshtastic/c-sharp) - C#/.NET command-line interface and library for Meshtastic.
+- [python](https://github.com/meshtastic/python) - Python CLI and API for interacting with Meshtastic devices
+- [node-red-contrib-meshtastic](https://github.com/meshtastic/node-red-contrib-meshtastic) - Node-RED integration for Meshtastic
+- [Meshtastic-arduino](https://github.com/meshtastic/Meshtastic-arduino) - Arduino drivers for interfacing with Meshtastic nodes over WiFi and Serial
+- [firmware-ota-wifi](https://github.com/meshtastic/firmware-ota-wifi) - WiFi-based OTA (Over The Air) firmware updates for Meshtastic devices
+- [nrf52_factory_erase](https://github.com/meshtastic/nrf52_factory_erase) - Firmware for factory erasing the nRF52 chips used in Meshtastic devices
+- [firmware-ota](https://github.com/meshtastic/firmware-ota) - BLE-OTA Mini firmware for Meshtastic devices
+- [rust](https://github.com/meshtastic/rust) - A Rust library for interacting with Meshtastic radios
+- [c-sharp](https://github.com/meshtastic/c-sharp) - C#/.NET command-line interface and library for Meshtastic
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### Tools & Utilities
 For managing, simulating, and testing Meshtastic networks and devices.
 
-- [meshtasticator](https://github.com/meshtastic/meshtasticator) - Simulator for Meshtastic, supporting discrete-event and interactive simulations.
-- [meshTestic](https://github.com/meshtastic/meshTestic) - End-to-end test suite for Meshtastic devices.
-- [meshtastic-site-planner](https://github.com/meshtastic/meshtastic-site-planner) - Site planning tool based on RF analysis using SPLAT! software.
-- [mqtt](https://github.com/meshtastic/mqtt) - MQTT broker boilerplate designed for Meshtastic’s native packet-aware MQTT support.
-- [RadioHead](https://github.com/meshtastic/RadioHead) - A fork of the RadioHead library, with custom fixes for Meshtastic devices.
+- [meshtasticator](https://github.com/meshtastic/meshtasticator) - Simulator for Meshtastic, supporting discrete-event and interactive simulations
+- [meshTestic](https://github.com/meshtastic/meshTestic) - End-to-end test suite for Meshtastic devices
+- [meshtastic-site-planner](https://github.com/meshtastic/meshtastic-site-planner) - Site planning tool based on RF analysis using SPLAT! software
+- [mqtt](https://github.com/meshtastic/mqtt) - MQTT broker boilerplate designed for Meshtastic’s native packet-aware MQTT support
+- [RadioHead](https://github.com/meshtastic/RadioHead) - A fork of the RadioHead library, with custom fixes for Meshtastic devices
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### Hardware and Sensors
 Repos related to the hardware components and sensor integration for Meshtastic.
 
-- [antenna-reports](https://github.com/meshtastic/antenna-reports) - Community-contributed antenna testing reports and evaluations for Meshtastic devices.
-- [enclosures](https://github.com/meshtastic/enclosures) - 3D models for enclosures used in Meshtastic devices.
-- [i2c-sensor](https://github.com/meshtastic/i2c-sensor) - Arduino boilerplate for creating custom I2C sensors for Meshtastic.
-- [ETHClass2](https://github.com/meshtastic/ETHClass2) - Provides ETHClass2 integration for Meshtastic, originally from LilyGO T-ETH series.
+- [antenna-reports](https://github.com/meshtastic/antenna-reports) - Community-contributed antenna testing reports and evaluations for Meshtastic devices
+- [enclosures](https://github.com/meshtastic/enclosures) - 3D models for enclosures used in Meshtastic devices
+- [i2c-sensor](https://github.com/meshtastic/i2c-sensor) - Arduino boilerplate for creating custom I2C sensors for Meshtastic
+- [ETHClass2](https://github.com/meshtastic/ETHClass2) - Provides ETHClass2 integration for Meshtastic, originally from LilyGO T-ETH series
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ## Community
 
 - [Official Discussion Board](https://github.com/orgs/meshtastic/discussions)
 - [Official Discord Server](https://discord.com/invite/ktMAKGBnBs)
-- [Offical Subreddit](https://www.reddit.com/r/meshtastic/)
+- [Official Subreddit](https://www.reddit.com/r/meshtastic/)
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ## Local Groups
 
 A list of groups that have been actively organizing Meshtastic networks in their regions.
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### Argentina
 
 - [Meshtastic Argentina Community](https://github.com/Meshtastic-Argentina/)
 
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### Australia
 
 - Australian Capital Territory
   - [Canberra Meshtastic Community - Discord](https://discord.gg/4QgFsuaC3Z)
-- New South Wale
+- New South Wales
   - [Meshtastic Sydney - Facebook](https://www.facebook.com/groups/1041534027106861)
 - Queensland 
   - [Meshtastic Brisbane User Group - Discord](https://discord.com/invite/rN66wEedMY)
 - Tasmania
   - [Meshtastic User Group Tasmania](https://www.facebook.com/groups/1556630645195649)
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### Brazil
 
 - [Comunidade Meshtastic Brasil](https://t.me/+xS_5ZqDoP6BlODNh)
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### Bulgaria
 
@@ -124,7 +124,7 @@ A list of groups that have been actively organizing Meshtastic networks in their
 - Burgas
   - [Burgas Mesh](https://discord.gg/Kbs233rmq3)
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### Canada
 - [Canadaverse Mesh Wiki](https://wiki.mt.gt/)
@@ -156,25 +156,25 @@ A list of groups that have been actively organizing Meshtastic networks in their
 - Saskatchewan
   - [Mesht Saskatchewan](https://t.me/MeshtSaska)
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### China
 
 - [Meshtastic 中国社区](https://meshcn.net)
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### Colombia
 
 - [Meshtastic Users Colombia - General Telegram](https://t.me/meshtasticco)
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### Denmark
 
 - [Danske Meshtastic Brugere](https://discord.gg/EXWWwDmfBN)
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### Finland
 
@@ -182,7 +182,7 @@ A list of groups that have been actively organizing Meshtastic networks in their
 - [Mesh Finland Website](https://mesh-finland.github.io)
 - [MeshAbout](https://www.meshabout.fi/)
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### France
 
@@ -190,7 +190,7 @@ A list of groups that have been actively organizing Meshtastic networks in their
 - [Collectif Meshtastic France](https://www.facebook.com/groups/meshtastic.france)
 - [Réseau Gaulix - Telegram](https://t.me/+bkCEaiI-i-Q2ZTBk)
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### Germany
 
@@ -200,99 +200,99 @@ A list of groups that have been actively organizing Meshtastic networks in their
 - [Mesh Hessen (Telegram)](https://t.me/Mesh_Hessen)
 - [Meshtastic Users Hannover](https://discord.gg/eEnDkQKEFJ)
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### India
 
 - [India Bir Paragliding](https://bircom.in)
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### Israel
 
 - [Israel Meshtastic Club](https://www.mesh-il.com)
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### Italy
 
 - [Meshtastic Italia Community](https://t.me/meshtastic_italia_community)
 - [Mesh_ITA Discord Server](https://discord.gg/ETFmtyzbFT)
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### Japan
 
 - [Meshtastic Japan Community](https://www.facebook.com/share/g/BQCGxZhw9SxFQja8/?mibextid=K35XfP)
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### Latvia
 
 - [Meshtastic Latvija](https://mesh.dodies.lv)
 - [Meshtastic Latvija Matrix Space](https://matrix.to/#/#meshtastic-lv:matrix.org)
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### Lithuania
 
 - [Meshtastic Lietuva](https://www.facebook.com/groups/1122509422249414)
 - [LithMesh Signal Group](https://signal.group/#CjQKIBScbOkXSG2bkFh_omdxjOM-XqYIU4eERDmGEDrm3jjmEhDyZhh-EeCLSfjfV-DoPvEQ)
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### Mexico
 
 - [Meshtastic Mexico Community](https://radioaficionados.mx/meshtastic)
 - [Meshtastic User Group Mexico (MUG-Mexico) - Telegram](https://t.me/meshtastic_mexico)
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### Netherlands, The
 
 - [Meshtastic Netherlands Telegram](https://t.me/meshtastic_nl)
 - [MeshNet Meshtastic Community](https://www.meshnet.nl/)
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### New Zealand
 
 - [New Zealand Meshtastic Community Discord](https://discord.gg/xb9bBZJUpz)
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### Poland
 
 - [Meshtastic Poland Matrix Space](https://matrix.to/#/#meshtasticpl:matrix.org)
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### Slovenia
 
 - [MeshNet.si](https://meshnet.si)
 - [Slovenian Amature Radio Discord](https://discord.gg/uHDDE734DD)
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### Spain
 
 - [Meshtastic Spanish Community](https://t.me/meshtastic_esp)
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### Sweden
 
 - [STHLM-MESH.se - Discord](https://discord.gg/gchSzHkPGG)
 - [STHLM-MESH.se - Website](https://sthlm-mesh.se)
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### Taiwan
 
 - [Meshtastic Taiwan Community 臺灣鏈網 - Facebook](https://www.facebook.com/groups/413628121046386)
 - [Meshtastic Taiwan Community 臺灣鏈網 - Discord](https://discord.gg/2vZkuckp8E)
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### Türkiye
 
@@ -300,13 +300,13 @@ A list of groups that have been actively organizing Meshtastic networks in their
 - [Meshtastic Türkiye Community - Discord](https://discord.gg/7TGnZSSA)
 - [Meshtastic Türkiye Community - Web](https://trmesh.org)
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### Ukraine
 
 - [WiKi Meshtastic UA](https://wikimesh.pp.ua)
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### United States
 
@@ -332,7 +332,7 @@ A list of groups that have been actively organizing Meshtastic networks in their
   - [AltaMesh](https://altamesh.net/)
   - [Central Valley](https://centralvalleymesh.net/)
   - [Sac Valley Mesh](http://www.sacvalleymesh.com)
-  - [Inter-Canyon Mesh   Orange County Canyons](https://icmesh.com)
+  - [Inter-Canyon Mesh - Orange County Canyons](https://icmesh.com)
 - Colorado
   - [Denver Mesh](https://denvermesh.org)
   - [Colorado Springs Meshtastic Network](https://www.facebook.com/groups/cosmeshtastic)
@@ -343,7 +343,7 @@ A list of groups that have been actively organizing Meshtastic networks in their
   - [JAXMesh](https://jaxmesh.com/)
   - [Florida Mesh](https://areyoumeshingwith.us/)
 - Georgia
-  - [CSRA Mesh   Augusta, GA/North Augusta, SC Area](https://discord.gg/rQSTQDZKgs)
+  - [CSRA Mesh - Augusta, GA/North Augusta, SC Area](https://discord.gg/rQSTQDZKgs)
 - Hawaii
   - [Hawaii Meshnet](https://www.hawaiimesh.net/)
 - Illinois
@@ -361,15 +361,14 @@ A list of groups that have been actively organizing Meshtastic networks in their
   - [Michigan Meshtastic Network](https://discord.gg/3A5RREcBcc)
 - Missouri
   - [Kansas City Meshtastic Group](https://www.facebook.com/share/XZ9jnhxy1YT4wWqC/)
-  - [MeshSTL   St. Louis](https://discord.gg/QYxUdKZpBd)
-  - [CMRG Mesh   Jefferson City](https://www.mo-mesh.com)
+  - [MeshSTL - St. Louis](https://discord.gg/QYxUdKZpBd)
+  - [CMRG Mesh - Jefferson City](https://www.mo-mesh.com)
 - Nevada
   - [VegasMesh Discord](https://discord.gg/vUmWuZxYPh)
 - New Hampshire
   - [NHMesh Discord](https://discord.gg/PkbHWSEXBv)
 - New Mexico
   - [Albuquerque Mesh](https://www.abqm.net)
-- North Carolina
 - Ohio
   - [Cincy Mesh](https://www.cincymesh.org)
   - [Dayton Mesh](https://daytonmesh.org/)
@@ -399,12 +398,12 @@ A list of groups that have been actively organizing Meshtastic networks in their
 - Washington DC
   - [DC Mesh](https://dcmesh.org)
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ## License
 
@@ -412,9 +411,9 @@ This Awesome Meshtastic List is licensed under the [Creative Commons Zero (CC0) 
 
 You are free to copy, modify, and distribute this list, even for commercial purposes, without asking permission.
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ## Legal Notice
 Meshtastic&reg; is a registered trademark of Meshtastic LLC. This project is in no way affiliated with, endorsed, or sponsored by the trademark holder. No infringement is intended.
 
-<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+<small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
