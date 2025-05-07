@@ -264,6 +264,9 @@ A list of groups that have been actively organizing Meshtastic networks in their
 ### Poland
 
 - [Meshtastic Poland Matrix Space](https://matrix.to/#/#meshtasticpl:matrix.org)
+- Warsaw
+  - [Meshtastic Warsaw - Signal Group](https://signal.group/#CjQKIH6ht6sTWQDyjV7FMBAU4ko6xHVTRjIp1Eo-q44ZHVxYEhBuR--ztVU0JCa-196WxJmV)
+  - [Meshtastic Warsaw - Wiki](https://wiki.868.band/Home)
 
 <small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
