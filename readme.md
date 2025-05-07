@@ -204,7 +204,7 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 ### India
 
-- [India Bir Paragliding](https://bircom.in)
+- [Bir Paragliding Community](https://bircom.in)
 
 <small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
@@ -270,7 +270,7 @@ A list of groups that have been actively organizing Meshtastic networks in their
 ### Slovenia
 
 - [MeshNet.si](https://meshnet.si)
-- [Slovenian Amature Radio Discord](https://discord.gg/uHDDE734DD)
+- [Slovenian Amateur Radio Discord](https://discord.gg/uHDDE734DD)
 
 <small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
