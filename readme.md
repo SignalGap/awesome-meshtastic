@@ -15,6 +15,7 @@ This is a curated list of useful resources, tools, tutorials, projects, and comm
     - [Hardware and Sensors](#hardware-and-sensors)
 - [Contribute](#contribute)
 - [Legal Notice](#legal-notice)
+- [License](#license)
 
 
 ## Officicial Source Code Repositories
@@ -77,6 +78,14 @@ Repos related to the hardware components and sensor integration for Meshtastic.
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+<small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
+
+## License
+
+This Awesome Meshtastic List is licensed under the [Creative Commons Zero (CC0) 1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/).
+
+You are free to copy, modify, and distribute this list, even for commercial purposes, without asking permission.
 
 <small>[🔝](#table-of-contents) [Table of Content](#table-of-contents)</small>
 
