@@ -148,7 +148,6 @@ A list of groups that have been actively organizing Meshtastic networks in their
   - [Mesht Nova Scotia](https://t.me/MeshtNovaScotia)
 - Ontario
   - [Mesht Ontario](https://t.me/meshtOnt)
-  - [Greater Ottawa Meshtastic Enthusiasts Discord](https://discord.gg/njcQ4BnKDU)
 - Prince Edward Island
   - [Mesht PEI](https://t.me/MeshtPEI)
 - Quebec
@@ -301,13 +300,13 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 - [Meshtastic Türkiye Community - Telegram](https://t.me/trmesh)
 - [Meshtastic Türkiye Community - Discord](https://discord.gg/7TGnZSSA)
-- [Meshtastic Türkiye Community - Web](https://trmesh.org)
+- ~~Meshtastic Türkiye Community - Web~~ - [Archived](https://web.archive.org/web/20241207225721/http://trmesh.org/)
 
 <small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
 ### Ukraine
 
-- [WiKi Meshtastic UA](https://wikimesh.pp.ua)
+- ~~WiKi Meshtastic UA~~ - [Archived](https://web.archive.org/web/20241012101501/https://wikimesh.pp.ua/uk/home)
 
 <small>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</small>
 
@@ -332,7 +331,7 @@ A list of groups that have been actively organizing Meshtastic networks in their
   - [MontereyBayMesh](https://mrymesh.net/)
   - [San Diego Mesh](https://discord.gg/k8RputgWgD)
   - [Antelope Valley Mesh](https://www.avmesh.org/)
-  - [AltaMesh](https://altamesh.net/)
+  - ~~AltaMesh~~ - [Archived](https://web.archive.org/web/20250122193410/https://altamesh.net/)
   - [Central Valley](https://centralvalleymesh.net/)
   - [Sac Valley Mesh](http://www.sacvalleymesh.com)
   - [Inter-Canyon Mesh - Orange County Canyons](https://icmesh.com)
@@ -389,11 +388,11 @@ A list of groups that have been actively organizing Meshtastic networks in their
 - Texas
   - [Austin Mesh](https://austinmesh.org/)
   - [Cypress, Texas Meshtastic Club](https://discord.gg/KzuwNRwE6q)
-  - [DFW / North Texas Mesh](https://ntxmesh.net)
+  - ~~DFW / North Texas Mesh~~ - [Archived](https://web.archive.org/web/20250122194857/https://ntxmesh.net/)
 - Virginia
   - [MadisonMesh](https://madisonmesh.com/)
   - [Albemarle Mesh](https://albemarlemesh.com/)
-  - [Shenandoah Valley Mesh](https://svmesh.org)
+  - ~~Shenandoah Valley Mesh~~ - [Archived](https://web.archive.org/web/20250216025925/https://svmesh.org/)
 - Wisconsin
   - [Meshconsin](https://meshconsin.org)
 - Washington
