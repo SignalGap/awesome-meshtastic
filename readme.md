@@ -14,6 +14,7 @@ This is a curated list of useful resources, tools, tutorials, projects, and comm
     - [Tools & Utilities](#tools--utilities)
     - [Hardware and Sensors](#hardware-and-sensors)
 - [Community](#community)
+    - [Official](#official)
     - [Local Groups](#local-groups)
       - [Argentina](#argentina)
       - [Australia](#australia)
@@ -37,6 +38,7 @@ This is a curated list of useful resources, tools, tutorials, projects, and comm
       - [New Zealand](#new-zealand)
       - [Poland](#poland)
       - [Slovenia](#slovenia)
+      - [South Africa](#south-africa)
       - [Spain](#spain)
       - [Sweden](#sweden)
       - [Taiwan](#taiwan)
@@ -108,6 +110,8 @@ Repos related to the hardware components and sensor integration for Meshtastic.
 
 ## Community
 
+## Official
+
 - [Official Discussion Board](https://github.com/orgs/meshtastic/discussions)
 - [Official Discord Server](https://discord.com/invite/ktMAKGBnBs)
 - [Official Subreddit](https://www.reddit.com/r/meshtastic/)
@@ -137,6 +141,8 @@ A list of groups that have been actively organizing Meshtastic networks in their
   - [Meshtastic Brisbane User Group - Discord](https://discord.com/invite/rN66wEedMY)
 - Tasmania
   - [Meshtastic User Group Tasmania](https://www.facebook.com/groups/1556630645195649)
+- Victoria
+  - [Meshtastic Victoria](https://www.facebook.com/groups/meshtasticvictoria)
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
@@ -149,8 +155,7 @@ A list of groups that have been actively organizing Meshtastic networks in their
 ### Bulgaria
 
 - [Meshtastic BG Community Group](https://facebook.com/groups/meshtasticbulgaria)
-- Burgas
-  - [Burgas Mesh](https://discord.gg/Kbs233rmq3)
+- [Burgas Mesh](https://discord.gg/Kbs233rmq3)
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
@@ -301,6 +306,13 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 - [MeshNet.si](https://meshnet.si)
 - [Slovenian Amateur Radio Discord](https://discord.gg/uHDDE734DD)
+
+<sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
+
+### South Africa
+
+- [Meshtastic ZA Discord](https://discord.gg/tKGFwFYvsT)
+- [ZA Mesh](https://mesh.zr1rf.za.net/)
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
