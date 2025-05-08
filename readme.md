@@ -375,6 +375,7 @@ A list of groups that have been actively organizing Meshtastic networks in their
   - [Central Valley](https://centralvalleymesh.net/)
   - [Sac Valley Mesh](http://www.sacvalleymesh.com)
   - [Inter-Canyon Mesh - Orange County Canyons](https://icmesh.com)
+  - [Meshtastic Santa Cruz County](https://groups.io/g/Meshtastic-Santa-Cruz)
 - Colorado
   - [Denver Mesh](https://denvermesh.org)
   - [Colorado Springs Meshtastic Network](https://www.facebook.com/groups/cosmeshtastic)
@@ -390,6 +391,7 @@ A list of groups that have been actively organizing Meshtastic networks in their
   - [Hawaii Meshnet](https://www.hawaiimesh.net/)
 - Illinois
   - [Chicagoland Mesh](https://chicagolandmesh.org)
+  - [Clark County Illinois Meshtastic Network](https://clarkcountyill.localmesh.org/)
 - Iowa
   - [Iowa Mesh](https://iowamesh.org)
 - Kansas
@@ -411,6 +413,8 @@ A list of groups that have been actively organizing Meshtastic networks in their
   - [NHMesh Discord](https://discord.gg/PkbHWSEXBv)
 - New Mexico
   - [Albuquerque Mesh](https://www.abqm.net)
+- North Carolina
+  - [North Carolina Mesh](https://ncmesh.net/)
 - Ohio
   - [Cincy Mesh](https://www.cincymesh.org)
   - [Dayton Mesh](https://daytonmesh.org/)
@@ -433,10 +437,12 @@ A list of groups that have been actively organizing Meshtastic networks in their
   - [MadisonMesh](https://madisonmesh.com/)
   - [Albemarle Mesh](https://albemarlemesh.com/)
   - ~~Shenandoah Valley Mesh~~ - [Archived](https://web.archive.org/web/20250216025925/https://svmesh.org/)
+  - [Northern Virginia Meshtastic](https://groups.io/g/NoVa-Meshtastic)
 - Wisconsin
   - [Meshconsin](https://meshconsin.org)
 - Washington
   - [Puget Mesh](https://PugetMesh.org)
+  - [Tacoma.localmesh](https://tacoma.localmesh.org)
 - Washington DC
   - [DC Mesh](https://dcmesh.org)
 
