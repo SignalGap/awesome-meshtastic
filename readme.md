@@ -4,55 +4,54 @@
 
 This is a curated list of useful resources, tools, tutorials, projects, and community contributions related to the Meshtastic open-source mesh communication project. Whether you're a beginner or advanced user, this list helps you explore and get the most out of your Meshtastic devices.
 
-
 ## Table of Contents
 
 - [Official Source Code Repositories](#official-source-code-repositories)
-    - [Core Repositories](#core-repositories)
-    - [Mobile, Web & Desktop Clients](#mobile-web-and-desktop-clients)
-    - [Device Interaction and Integrations](#device-interaction-and-integrations)
-    - [Tools & Utilities](#tools--utilities)
-    - [Hardware and Sensors](#hardware-and-sensors)
+  - [Core Repositories](#core-repositories)
+  - [Mobile, Web and Desktop Clients](#mobile-web-and-desktop-clients)
+  - [Device Interaction and Integrations](#device-interaction-and-integrations)
+  - [Tools & Utilities](#tools--utilities)
+  - [Hardware and Sensors](#hardware-and-sensors)
 - [Community](#community)
-    - [Official](#official)
-    - [Local Groups](#local-groups)
-      - [Argentina](#argentina)
-      - [Australia](#australia)
-      - [Brazil](#brazil)
-      - [Bulgaria](#bulgaria)
-      - [Canada](#canada)
-      - [China](#china)
-      - [Colombia](#colombia)
-      - [Denmark](#denmark)
-      - [Finland](#finland)
-      - [France](#france)
-      - [Germany](#germany)
-      - [India](#india)
-      - [Israel](#israel)
-      - [Italy](#italy)
-      - [Japan](#japan)
-      - [Latvia](#latvia)
-      - [Lithuania](#lithuania)
-      - [Mexico](#mexico)
-      - [Netherlands, The](#netherlands-the)
-      - [New Zealand](#new-zealand)
-      - [Poland](#poland)
-      - [Slovenia](#slovenia)
-      - [South Africa](#south-africa)
-      - [Spain](#spain)
-      - [Sweden](#sweden)
-      - [Taiwan](#taiwan)
-      - [Türkiye](#türkiye)
-      - [Ukraine](#ukraine)
-      - [United States](#united-states)
+  - [Official](#official)
+  - [Local Groups](#local-groups)
+    - 🇦🇷 [Argentina](#argentina)
+    - 🇦🇺 [Australia](#australia)
+    - 🇧🇷 [Brazil](#brazil)
+    - 🇧🇬 [Bulgaria](#bulgaria)
+    - 🇨🇦 [Canada](#canada)
+    - 🇨🇳 [China](#china)
+    - 🇨🇴 [Colombia](#colombia)
+    - 🇩🇰 [Denmark](#denmark)
+    - 🇫🇮 [Finland](#finland)
+    - 🇫🇷 [France](#france)
+    - 🇩🇪 [Germany](#germany)
+    - 🇮🇳 [India](#india)
+    - 🇮🇱 [Israel](#israel)
+    - 🇮🇹 [Italy](#italy)
+    - 🇯🇵 [Japan](#japan)
+    - 🇱🇻 [Latvia](#latvia)
+    - 🇱🇹 [Lithuania](#lithuania)
+    - 🇲🇽 [Mexico](#mexico)
+    - 🇳🇱 [Netherlands, The](#netherlands-the)
+    - 🇳🇿 [New Zealand](#new-zealand)
+    - 🇵🇱 [Poland](#poland)
+    - 🇸🇮 [Slovenia](#slovenia)
+    - 🇿🇦 [South Africa](#south-africa)
+    - 🇪🇸 [Spain](#spain)
+    - 🇸🇪 [Sweden](#sweden)
+    - 🇹🇼 [Taiwan](#taiwan)
+    - 🇹🇷 [Türkiye](#türkiye)
+    - 🇺🇦 [Ukraine](#ukraine)
+    - 🇺🇸 [United States](#united-states)
 - [Contribute](#contribute)
 - [Legal Notice](#legal-notice)
 - [License](#license)
 
-
 ## Official Source Code Repositories
 
 ### Core Repositories
+
 These repositories are at the heart of the Meshtastic project, containing firmware, APIs, and other essential code.
 
 - [firmware](https://github.com/meshtastic/firmware) - Meshtastic device firmware
@@ -64,6 +63,7 @@ These repositories are at the heart of the Meshtastic project, containing firmwa
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
 ### Mobile, Web & Desktop Clients
+
 These repositories offer various client applications for different platforms.
 
 - [web](https://github.com/meshtastic/web) - Meshtastic Web Client
@@ -74,7 +74,9 @@ These repositories offer various client applications for different platforms.
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
 ### Device Interaction and Integrations
+
 Repositories related to firmware, device configuration, interactions and integrations
+
 - [home-assistant](https://github.com/meshtastic/home-assistant) - Home Assistant integration for Meshtastic
 - [python](https://github.com/meshtastic/python) - Python CLI and API for interacting with Meshtastic devices
 - [node-red-contrib-meshtastic](https://github.com/meshtastic/node-red-contrib-meshtastic) - Node-RED integration for Meshtastic
@@ -88,6 +90,7 @@ Repositories related to firmware, device configuration, interactions and integra
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
 ### Tools & Utilities
+
 For managing, simulating, and testing Meshtastic networks and devices.
 
 - [meshtasticator](https://github.com/meshtastic/meshtasticator) - Simulator for Meshtastic, supporting discrete-event and interactive simulations
@@ -99,6 +102,7 @@ For managing, simulating, and testing Meshtastic networks and devices.
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
 ### Hardware and Sensors
+
 Repos related to the hardware components and sensor integration for Meshtastic.
 
 - [antenna-reports](https://github.com/meshtastic/antenna-reports) - Community-contributed antenna testing reports and evaluations for Meshtastic devices
@@ -124,20 +128,19 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-### Argentina
+### 🇦🇷Argentina
 
 - [Meshtastic Argentina Community](https://github.com/Meshtastic-Argentina/)
 
-
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-### Australia
+### 🇦🇺Australia
 
 - Australian Capital Territory
   - [Canberra Meshtastic Community - Discord](https://discord.gg/4QgFsuaC3Z)
 - New South Wales
   - [Meshtastic Sydney - Facebook](https://www.facebook.com/groups/1041534027106861)
-- Queensland 
+- Queensland
   - [Meshtastic Brisbane User Group - Discord](https://discord.com/invite/rN66wEedMY)
 - Tasmania
   - [Meshtastic User Group Tasmania](https://www.facebook.com/groups/1556630645195649)
@@ -146,20 +149,21 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-### Brazil
+### 🇧🇷Brazil
 
 - [Comunidade Meshtastic Brasil](https://t.me/+xS_5ZqDoP6BlODNh)
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-### Bulgaria
+### 🇧🇬Bulgaria
 
 - [Meshtastic BG Community Group](https://facebook.com/groups/meshtasticbulgaria)
 - [Burgas Mesh](https://discord.gg/Kbs233rmq3)
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-### Canada
+### 🇨🇦Canada
+
 - [Canadaverse Mesh Wiki](https://wiki.mt.gt/)
 - [Mesh Canada](https://t.me/meshtastic_canada)
 - Alberta
@@ -190,13 +194,13 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-### China
+### 🇨🇳China
 
 - [Meshtastic 中国社区](https://meshcn.net)
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-### Colombia
+### 🇨🇴Colombia
 
 - [Meshtastic Users Colombia - General Telegram](https://t.me/meshtasticco)
 
@@ -208,7 +212,7 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-### Finland
+### 🇫🇮Finland
 
 - [Mesh Finland Discord](https://discord.com/invite/GHnaVAjqed)
 - [Mesh Finland Website](https://mesh-finland.github.io)
@@ -216,7 +220,7 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-### France
+### 🇫🇷France
 
 - [Autour de Meshtastic - Telegram](https://t.me/+EYBkU17mlcU2MWI8)
 - [Collectif Meshtastic France](https://www.facebook.com/groups/meshtastic.france)
@@ -224,7 +228,7 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-### Germany
+### 🇩🇪Germany
 
 - [Meshtastic Users D-A-CH](https://t.me/meshtasticgermany) for technical chat
 - [Meshtastic Users Germany - Facebook](https://www.facebook.com/share/o6CZ9E35UmDKjp9U/)
@@ -234,66 +238,66 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-### India
+### 🇮🇳India
 
 - [Bir Paragliding Community](https://bircom.in)
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-### Israel
+### 🇮🇱Israel
 
 - [Israel Meshtastic Club](https://www.mesh-il.com)
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-### Italy
+### 🇮🇹Italy
 
 - [Meshtastic Italia Community](https://t.me/meshtastic_italia_community)
 - [Mesh_ITA Discord Server](https://discord.gg/ETFmtyzbFT)
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-### Japan
+### 🇯🇵Japan
 
 - [Meshtastic Japan Community](https://www.facebook.com/share/g/BQCGxZhw9SxFQja8/?mibextid=K35XfP)
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-### Latvia
+### 🇱🇻Latvia
 
 - [Meshtastic Latvija](https://mesh.dodies.lv)
 - [Meshtastic Latvija Matrix Space](https://matrix.to/#/#meshtastic-lv:matrix.org)
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-### Lithuania
+### 🇱🇹Lithuania
 
 - [Meshtastic Lietuva](https://www.facebook.com/groups/1122509422249414)
 - [LithMesh Signal Group](https://signal.group/#CjQKIBScbOkXSG2bkFh_omdxjOM-XqYIU4eERDmGEDrm3jjmEhDyZhh-EeCLSfjfV-DoPvEQ)
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-### Mexico
+### 🇲🇽Mexico
 
 - [Meshtastic Mexico Community](https://radioaficionados.mx/meshtastic)
 - [Meshtastic User Group Mexico (MUG-Mexico) - Telegram](https://t.me/meshtastic_mexico)
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-### Netherlands, The
+### 🇳🇱Netherlands, The
 
 - [Meshtastic Netherlands Telegram](https://t.me/meshtastic_nl)
 - [MeshNet Meshtastic Community](https://www.meshnet.nl/)
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-### New Zealand
+### 🇳🇿New Zealand
 
 - [New Zealand Meshtastic Community Discord](https://discord.gg/xb9bBZJUpz)
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-### Poland
+### 🇵🇱Poland
 
 - [Meshtastic Poland Matrix Space](https://matrix.to/#/#meshtasticpl:matrix.org)
 - Warsaw
@@ -302,41 +306,41 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-### Slovenia
+### 🇸🇮Slovenia
 
 - [MeshNet.si](https://meshnet.si)
 - [Slovenian Amateur Radio Discord](https://discord.gg/uHDDE734DD)
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-### South Africa
+### 🇿🇦South Africa
 
 - [Meshtastic ZA Discord](https://discord.gg/tKGFwFYvsT)
 - [ZA Mesh](https://mesh.zr1rf.za.net/)
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-### Spain
+### 🇪🇸Spain
 
 - [Meshtastic Spanish Community](https://t.me/meshtastic_esp)
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-### Sweden
+### 🇸🇪Sweden
 
 - [STHLM-MESH.se - Discord](https://discord.gg/gchSzHkPGG)
 - [STHLM-MESH.se - Website](https://sthlm-mesh.se)
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-### Taiwan
+### 🇹🇼Taiwan
 
 - [Meshtastic Taiwan Community 臺灣鏈網 - Facebook](https://www.facebook.com/groups/413628121046386)
 - [Meshtastic Taiwan Community 臺灣鏈網 - Discord](https://discord.gg/2vZkuckp8E)
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-### Türkiye
+### 🇹🇷Türkiye
 
 - [Meshtastic Türkiye Community - Telegram](https://t.me/trmesh)
 - [Meshtastic Türkiye Community - Discord](https://discord.gg/7TGnZSSA)
@@ -344,13 +348,13 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-### Ukraine
+### 🇺🇦Ukraine
 
 - ~~WiKi Meshtastic UA~~ - [Archived](https://web.archive.org/web/20241012101501/https://wikimesh.pp.ua/uk/home)
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-### United States
+### 🇺🇸United States
 
 - [Midwest Mesh](https://discord.gg/wYwD56K439)
 - [Mountain Mesh (North GA / East TN)](https://mtnme.sh)
@@ -449,6 +453,7 @@ A list of groups that have been actively organizing Meshtastic networks in their
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
 ## Contribute
+
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
@@ -462,6 +467,7 @@ You are free to copy, modify, and distribute this list, even for commercial purp
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
 ## Legal Notice
+
 Meshtastic&reg; is a registered trademark of Meshtastic LLC. This project is in no way affiliated with, endorsed, or sponsored by the trademark holder. No infringement is intended.
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
