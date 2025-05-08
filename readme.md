@@ -447,7 +447,7 @@ A list of groups that have been actively organizing Meshtastic networks in their
 - Texas
   - [Austin Mesh](https://austinmesh.org/)
   - [Cypress, Texas Meshtastic Club](https://discord.gg/KzuwNRwE6q)
-  - ~~DFW / North Texas Mesh~~ - [Archived](https://web.archive.org/web/20250122194857/https://ntxmesh.net/)
+  - [DFW / North Texas Mesh](https://ntxmesh.com/)
 - Virginia
   - [MadisonMesh](https://madisonmesh.com/)
   - [Albemarle Mesh](https://albemarlemesh.com/)
