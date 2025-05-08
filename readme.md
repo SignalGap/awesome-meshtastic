@@ -43,6 +43,7 @@ This is a curated list of useful resources, tools, tutorials, projects, and comm
     - 🇹🇼 [Taiwan](#taiwan)
     - 🇹🇷 [Türkiye](#türkiye)
     - 🇺🇦 [Ukraine](#ukraine)
+    - 🇬🇧 [United Kingdom](#united-kingdom)
     - 🇺🇸 [United States](#united-states)
 - [Contribute](#contribute)
 - [Legal Notice](#legal-notice)
@@ -62,7 +63,7 @@ These repositories are at the heart of the Meshtastic project, containing firmwa
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-### Mobile, Web & Desktop Clients
+### Mobile, Web and Desktop Clients
 
 These repositories offer various client applications for different platforms.
 
@@ -354,6 +355,16 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
+### 🇬🇧United Kingdom
+
+- [UK Meshtastic Kent / South East (Facebook)](https://www.facebook.com/groups/ukmeshtastickent/)
+- [UK Meshtastic Brighton (Facebook)](https://www.facebook.com/groups/3696312513946679/)
+- [UK Meshtastic North East England (Facebook)](https://www.facebook.com/groups/meshtasticnortheastengland/)
+- [Swansea Meshtastic Group / Meshtastic Wales](https://swansea.localmesh.org/)
+- [UK Meshtastic Berkshire (Facebook)](https://www.facebook.com/groups/1083395923209693)
+
+<sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
+
 ### 🇺🇸United States
 
 - [Midwest Mesh](https://discord.gg/wYwD56K439)
@@ -452,13 +463,13 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-## Contribute
+## 🤝Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-## License
+## 📝License
 
 This Awesome Meshtastic List is licensed under the [Creative Commons Zero (CC0) 1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -466,7 +477,7 @@ You are free to copy, modify, and distribute this list, even for commercial purp
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
-## Legal Notice
+## ⚖️Legal Notice
 
 Meshtastic&reg; is a registered trademark of Meshtastic LLC. This project is in no way affiliated with, endorsed, or sponsored by the trademark holder. No infringement is intended.
 
