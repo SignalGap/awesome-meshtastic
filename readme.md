@@ -131,22 +131,27 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 ### 🇦🇷Argentina
 
-- [Meshtastic Argentina Community](https://github.com/Meshtastic-Argentina/)
+- [Meshtastic Argentina Community](https://github.com/Meshtastic-Argentina/) - (Github)
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
 ### 🇦🇺Australia
 
+- [Meshtastic Australia](https://meshtastic.au) - (Website)
 - Australian Capital Territory
-  - [Canberra Meshtastic Community - Discord](https://discord.gg/4QgFsuaC3Z)
+  - [Canberra Meshtastic Community](https://www.meshcanberra.com/) - (Website)
+  - [Canberra Meshtastic Community](https://discord.com/invite/4QgFsuaC3Z) - (Discord)
 - New South Wales
-  - [Meshtastic Sydney - Facebook](https://www.facebook.com/groups/1041534027106861)
+  - [Meshtastic & Meshcore Sydney Community](https://www.facebook.com/groups/1041534027106861) - (Facebook)
+  - [Sydney and Greater NSW Community](https://github.com/orgs/meshtastic/discussions/10) - (Github Discussions)
 - Queensland
-  - [Meshtastic Brisbane User Group - Discord](https://discord.com/invite/rN66wEedMY)
+  - [Meshtastic Brisbane User Group](https://discord.com/invite/rN66wEedMY) - (Discord)
 - Tasmania
-  - [Meshtastic User Group Tasmania](https://www.facebook.com/groups/1556630645195649)
+  - [Meshtastic User Group Tasmania](https://www.facebook.com/groups/1556630645195649) - (Facebook)
 - Victoria
-  - [Meshtastic Victoria](https://www.facebook.com/groups/meshtasticvictoria)
+  - [Meshtastic Victoria](https://www.facebook.com/groups/meshtasticvictoria) - (Facebook)
+  - [VicMesh - r/VicMesh](https://www.reddit.com/r/VicMesh/) - (Reddit)
+  - [Melbourne Meshtastic Users, Australia](https://github.com/orgs/meshtastic/discussions/7) - (Github Discussions)
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
