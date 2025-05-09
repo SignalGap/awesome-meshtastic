@@ -157,7 +157,7 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 ### 🇧🇷Brazil
 
-- [Comunidade Meshtastic Brasil](https://t.me/+xS_5ZqDoP6BlODNh)
+- [Meshtastic Community Brazil](https://t.me/meshtastic_br) - (Telegram)
 
 <sub>[🔝](#table-of-contents) [Table of Contents](#table-of-contents)</sub>
 
@@ -372,6 +372,7 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 ### 🇺🇸United States
 
+- [Meshtastic USA Community](https://www.facebook.com/groups/meshtasticusa/) - (Facebook)
 - [Midwest Mesh](https://discord.gg/wYwD56K439)
 - [Mountain Mesh (North GA / East TN)](https://mtnme.sh)
 - [DMV (DC-MD-VA) Mesh](https://www.reddit.com/r/Meshtastic_DMV_Users/)
