@@ -453,9 +453,13 @@ A list of groups that have been actively organizing Meshtastic networks in their
 - Tennessee
   - [Nashville Meshville](https://meshville.org/)
 - Texas
-  - [Austin Mesh](https://austinmesh.org/)
+  - [Austin Mesh](https://austinmesh.org/) - <sub><sup>(Website)</sup></sub>
+  - [Austin Mesh](https://www.instagram.com/austinmesh/) - <sub><sup>(Instagram)</sup></sub>
+  - [Austin Mesh](https://discord.com/invite/6a5Sv2s9bG) - <sub><sup>(Discord)</sup></sub>
+  - [Austin Mesh](https://www.youtube.com/@austinmesh) - <sub><sup>(YouTube)</sup></sub>
   - [Cypress, Texas Meshtastic Club](https://discord.gg/KzuwNRwE6q) - <sub><sup>(Discord)</sup></sub>
-  - [DFW / North Texas Mesh](https://ntxmesh.com/)
+  - [DFW / North Texas Mesh (NTX Mesh)](https://ntxmesh.com/) - <sub><sup>(Website)</sup></sub>
+  - [DFW / North Texas Mesh (NTX Mesh)](https://discord.com/invite/nGeQ8cbSM3) - <sub><sup>(Discord)</sup></sub>
 - Virginia
   - [MadisonMesh](https://madisonmesh.com/)
   - [Albemarle Mesh](https://albemarlemesh.com/)
