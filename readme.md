@@ -133,40 +133,40 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 ### 🇦🇷Argentina
 
-- [Meshtastic Argentina Community](https://github.com/Meshtastic-Argentina/) - (Github)
+- [Meshtastic Argentina Community](https://github.com/Meshtastic-Argentina/) - <sub><sup>(Github)</sup></sub>
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
 ### 🇦🇺Australia
 
-- [Meshtastic Australia](https://meshtastic.au) - (Website)
+- [Meshtastic Australia](https://meshtastic.au) - <sub><sup>(Website)</sup></sub>
 - Australian Capital Territory
-  - [Canberra Meshtastic Community](https://www.meshcanberra.com/) - (Website)
-  - [Canberra Meshtastic Community](https://discord.com/invite/4QgFsuaC3Z) - (Discord)
+  - [Canberra Meshtastic Community](https://www.meshcanberra.com/) - <sub><sup>(Website)</sup></sub>
+  - [Canberra Meshtastic Community](https://discord.com/invite/4QgFsuaC3Z) - <sub><sup>(Discord)</sup></sub>
 - New South Wales
-  - [Meshtastic & Meshcore Sydney Community](https://www.facebook.com/groups/1041534027106861) - (Facebook)
-  - [Sydney and Greater NSW Community](https://github.com/orgs/meshtastic/discussions/10) - (Github Discussions)
+  - [Meshtastic & Meshcore Sydney Community](https://www.facebook.com/groups/1041534027106861) - <sub><sup>(Facebook)</sup></sub>
+  - [Sydney and Greater NSW Community](https://github.com/orgs/meshtastic/discussions/10) - <sub><sup>(Github Discussions)</sup></sub>
 - Queensland
-  - [Meshtastic Brisbane User Group](https://discord.com/invite/rN66wEedMY) - (Discord)
+  - [Meshtastic Brisbane User Group](https://discord.com/invite/rN66wEedMY) - <sub><sup>(Discord)</sup></sub>
 - Tasmania
-  - [Meshtastic User Group Tasmania](https://www.facebook.com/groups/1556630645195649) - (Facebook)
+  - [Meshtastic User Group Tasmania](https://www.facebook.com/groups/1556630645195649) - <sub><sup>(Facebook)</sup></sub>
 - Victoria
-  - [Meshtastic Victoria](https://www.facebook.com/groups/meshtasticvictoria) - (Facebook)
-  - [VicMesh - r/VicMesh](https://www.reddit.com/r/VicMesh/) - (Reddit)
-  - [Melbourne Meshtastic Users, Australia](https://github.com/orgs/meshtastic/discussions/7) - (Github Discussions)
+  - [Meshtastic Victoria](https://www.facebook.com/groups/meshtasticvictoria) - <sub><sup>(Facebook)</sup></sub>
+  - [VicMesh - r/VicMesh](https://www.reddit.com/r/VicMesh/) - <sub><sup>(Reddit)</sup></sub>
+  - [Melbourne Meshtastic Users, Australia](https://github.com/orgs/meshtastic/discussions/7) - <sub><sup>(Github Discussions)</sup></sub>
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
 ### 🇧🇷Brazil
 
-- [Meshtastic Community Brazil](https://t.me/meshtastic_br) - (Telegram)
+- [Meshtastic Community Brazil](https://t.me/meshtastic_br) - <sub><sup>(Telegram)</sup></sub>
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
 ### 🇧🇬Bulgaria
 
-- [Meshtastic BG Community Group](https://facebook.com/groups/meshtasticbulgaria)
-- [Burgas Mesh](https://discord.gg/Kbs233rmq3)
+- [Meshtastic BG Community Group](https://facebook.com/groups/meshtasticbulgaria) - <sub><sup>(Facebook)</sup></sub>
+- [Burgas Mesh](https://discord.gg/Kbs233rmq3) - <sub><sup>(Discord)</sup></sub>
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
@@ -222,7 +222,7 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 ### 🇫🇮Finland
 
-- [Mesh Finland Discord](https://discord.com/invite/GHnaVAjqed)
+- [Mesh Finland](https://discord.com/invite/GHnaVAjqed) - <sub><sup>(Discord)</sup></sub>
 - [Mesh Finland Website](https://mesh-finland.github.io)
 - [MeshAbout](https://www.meshabout.fi/)
 
@@ -239,10 +239,10 @@ A list of groups that have been actively organizing Meshtastic networks in their
 ### 🇩🇪Germany
 
 - [Meshtastic Users D-A-CH](https://t.me/meshtasticgermany) for technical chat
-- [Meshtastic Users Germany - Facebook](https://www.facebook.com/share/o6CZ9E35UmDKjp9U/)
+- [Meshtastic Users Germany](https://www.facebook.com/share/o6CZ9E35UmDKjp9U/) - <sub><sup>(Facebook)</sup></sub>
 - [Mesh Hessen (Website)](https://meshhessen.de/)
 - [Mesh Hessen (Telegram)](https://t.me/Mesh_Hessen)
-- [Meshtastic Users Hannover](https://discord.gg/eEnDkQKEFJ)
+- [Meshtastic Users Hannover](https://discord.gg/eEnDkQKEFJ) - <sub><sup>(Discord)</sup></sub>
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
@@ -261,13 +261,13 @@ A list of groups that have been actively organizing Meshtastic networks in their
 ### 🇮🇹Italy
 
 - [Meshtastic Italia Community](https://t.me/meshtastic_italia_community)
-- [Mesh_ITA Discord Server](https://discord.gg/ETFmtyzbFT)
+- [Mesh_ITA](https://discord.gg/ETFmtyzbFT) - <sub><sup>(Discord)</sup></sub>
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
 ### 🇯🇵Japan
 
-- [Meshtastic Japan Community](https://www.facebook.com/share/g/BQCGxZhw9SxFQja8/?mibextid=K35XfP)
+- [Meshtastic Japan Community](https://www.facebook.com/share/g/BQCGxZhw9SxFQja8/?mibextid=K35XfP) - <sub><sup>(Facebook)</sup></sub>
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
@@ -280,7 +280,7 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 ### 🇱🇹Lithuania
 
-- [Meshtastic Lietuva](https://www.facebook.com/groups/1122509422249414)
+- [Meshtastic Lietuva](https://www.facebook.com/groups/1122509422249414) - <sub><sup>(Facebook)</sup></sub>
 - [LithMesh Signal Group](https://signal.group/#CjQKIBScbOkXSG2bkFh_omdxjOM-XqYIU4eERDmGEDrm3jjmEhDyZhh-EeCLSfjfV-DoPvEQ)
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
@@ -301,7 +301,7 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 ### 🇳🇿New Zealand
 
-- [New Zealand Meshtastic Community Discord](https://discord.gg/xb9bBZJUpz)
+- [New Zealand Meshtastic Community](https://discord.gg/xb9bBZJUpz) - <sub><sup>(Discord)</sup></sub>
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
@@ -317,13 +317,13 @@ A list of groups that have been actively organizing Meshtastic networks in their
 ### 🇸🇮Slovenia
 
 - [MeshNet.si](https://meshnet.si)
-- [Slovenian Amateur Radio Discord](https://discord.gg/uHDDE734DD)
+- [Slovenian Amateur Radio](https://discord.gg/uHDDE734DD) - <sub><sup>(Discord)</sup></sub>
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
 ### 🇿🇦South Africa
 
-- [Meshtastic ZA Discord](https://discord.gg/tKGFwFYvsT)
+- [Meshtastic ZA](https://discord.gg/tKGFwFYvsT) - <sub><sup>(Discord)</sup></sub>
 - [ZA Mesh](https://mesh.zr1rf.za.net/)
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
@@ -336,22 +336,22 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 ### 🇸🇪Sweden
 
-- [STHLM-MESH.se - Discord](https://discord.gg/gchSzHkPGG)
+- [STHLM-MESH.se](https://discord.gg/gchSzHkPGG) - <sub><sup>(Discord)</sup></sub>
 - [STHLM-MESH.se - Website](https://sthlm-mesh.se)
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
 ### 🇹🇼Taiwan
 
-- [Meshtastic Taiwan Community 臺灣鏈網 - Facebook](https://www.facebook.com/groups/413628121046386)
-- [Meshtastic Taiwan Community 臺灣鏈網 - Discord](https://discord.gg/2vZkuckp8E)
+- [Meshtastic Taiwan Community 臺灣鏈網](https://www.facebook.com/groups/413628121046386) - <sub><sup>(Facebook)</sup></sub>
+- [Meshtastic Taiwan Community 臺灣鏈網](https://discord.gg/2vZkuckp8E) - <sub><sup>(Discord)</sup></sub>
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
 ### 🇹🇷Türkiye
 
 - [Meshtastic Türkiye Community - Telegram](https://t.me/trmesh)
-- [Meshtastic Türkiye Community - Discord](https://discord.gg/7TGnZSSA)
+- [Meshtastic Türkiye Community](https://discord.gg/7TGnZSSA) - <sub><sup>(Discord)</sup></sub>
 - ~~Meshtastic Türkiye Community - Web~~ - [Archived](https://web.archive.org/web/20241207225721/http://trmesh.org/)
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
@@ -364,35 +364,35 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 ### 🇬🇧United Kingdom
 
-- [UK Meshtastic Kent / South East (Facebook)](https://www.facebook.com/groups/ukmeshtastickent/)
-- [UK Meshtastic Brighton (Facebook)](https://www.facebook.com/groups/3696312513946679/)
-- [UK Meshtastic North East England (Facebook)](https://www.facebook.com/groups/meshtasticnortheastengland/)
+- [UK Meshtastic Kent / South East](https://www.facebook.com/groups/ukmeshtastickent/) - <sub><sup>(Facebook)</sup></sub>
+- [UK Meshtastic Brighton](https://www.facebook.com/groups/3696312513946679/) - <sub><sup>(Facebook)</sup></sub>
+- [UK Meshtastic North East England](https://www.facebook.com/groups/meshtasticnortheastengland/) - <sub><sup>(Facebook)</sup></sub>
 - [Swansea Meshtastic Group / Meshtastic Wales](https://swansea.localmesh.org/)
-- [UK Meshtastic Berkshire (Facebook)](https://www.facebook.com/groups/1083395923209693)
+- [UK Meshtastic Berkshire](https://www.facebook.com/groups/1083395923209693) - <sub><sup>(Facebook)</sup></sub>
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
 ### 🇺🇸United States
 
-- [Meshtastic USA Community](https://www.facebook.com/groups/meshtasticusa/) - (Facebook)
-- [Midwest Mesh](https://discord.gg/wYwD56K439)
+- [Meshtastic USA Community](https://www.facebook.com/groups/meshtasticusa/) - <sub><sup>(Facebook)</sup></sub>
+- [Midwest Mesh](https://discord.gg/wYwD56K439) - <sub><sup>(Discord)</sup></sub>
 - [Mountain Mesh (North GA / East TN)](https://mtnme.sh)
 - [DMV (DC-MD-VA) Mesh](https://www.reddit.com/r/Meshtastic_DMV_Users/)
 - Alabama
   - [Birmingham Mesh](https://birminghammesh.org/)
 - Arizona
-  - [Tucson Meshtastic Community](https://discord.gg/7MzbMMd2kg)
+  - [Tucson Meshtastic Community](https://discord.gg/7MzbMMd2kg) - <sub><sup>(Discord)</sup></sub>
   - [Arizona Meshtastic Community](https://azmsh.net)
 - Arkansas
   - [Central Arkansas](https://lrme.sh)
-  - [Fort Smith Mesh](https://discord.com/invite/nwsvcXeqMX)
+  - [Fort Smith Mesh](https://discord.com/invite/nwsvcXeqMX) - <sub><sup>(Discord)</sup></sub>
 - California
   - [SoCal Mesh](https://socalmesh.org)
   - [Laguna Mesh](https://lagunamesh.com)
   - [Mission Viejo Mesh](https://missionviejomesh.org/)
   - [Meshtastic Bay Area Group](https://bayme.sh/)
   - [MontereyBayMesh](https://mrymesh.net/)
-  - [San Diego Mesh](https://discord.gg/k8RputgWgD)
+  - [San Diego Mesh](https://discord.gg/k8RputgWgD) - <sub><sup>(Discord)</sup></sub>
   - [Antelope Valley Mesh](https://www.avmesh.org/)
   - ~~AltaMesh~~ - [Archived](https://web.archive.org/web/20250122193410/https://altamesh.net/)
   - [Central Valley](https://centralvalleymesh.net/)
@@ -401,7 +401,7 @@ A list of groups that have been actively organizing Meshtastic networks in their
   - [Meshtastic Santa Cruz County](https://groups.io/g/Meshtastic-Santa-Cruz)
 - Colorado
   - [Denver Mesh](https://denvermesh.org)
-  - [Colorado Springs Meshtastic Network](https://www.facebook.com/groups/cosmeshtastic)
+  - [Colorado Springs Meshtastic Network](https://www.facebook.com/groups/cosmeshtastic) - <sub><sup>(Facebook)</sup></sub>
 - Connecticut
   - [CT Mesh](https://ctmesh.org)
 - Florida
@@ -409,7 +409,7 @@ A list of groups that have been actively organizing Meshtastic networks in their
   - [JAXMesh](https://jaxmesh.com/)
   - [Florida Mesh](https://areyoumeshingwith.us/)
 - Georgia
-  - [CSRA Mesh - Augusta, GA/North Augusta, SC Area](https://discord.gg/rQSTQDZKgs)
+  - [CSRA Mesh - Augusta, GA/North Augusta, SC Area](https://discord.gg/rQSTQDZKgs) - <sub><sup>(Discord)</sup></sub>
 - Hawaii
   - [Hawaii Meshnet](https://www.hawaiimesh.net/)
 - Illinois
@@ -425,15 +425,15 @@ A list of groups that have been actively organizing Meshtastic networks in their
   - [Boston Meshnet](https://github.com/Darachnid/Boston-Meshnet)
   - [SouthCoast Mesh](https://southcoastmesh.com)
 - Michigan
-  - [Michigan Meshtastic Network](https://discord.gg/3A5RREcBcc)
+  - [Michigan Meshtastic Network](https://discord.gg/3A5RREcBcc) - <sub><sup>(Discord)</sup></sub>
 - Missouri
-  - [Kansas City Meshtastic Group](https://www.facebook.com/share/XZ9jnhxy1YT4wWqC/)
-  - [MeshSTL - St. Louis](https://discord.gg/QYxUdKZpBd)
+  - [Kansas City Meshtastic Group](https://www.facebook.com/share/XZ9jnhxy1YT4wWqC/) - <sub><sup>(Facebook)</sup></sub>
+  - [MeshSTL - St. Louis](https://discord.gg/QYxUdKZpBd) - <sub><sup>(Discord)</sup></sub>
   - [CMRG Mesh - Jefferson City](https://www.mo-mesh.com)
 - Nevada
-  - [VegasMesh Discord](https://discord.gg/vUmWuZxYPh)
+  - [VegasMesh](https://discord.gg/vUmWuZxYPh) - <sub><sup>(Discord)</sup></sub>
 - New Hampshire
-  - [NHMesh Discord](https://discord.gg/PkbHWSEXBv)
+  - [NHMesh](https://discord.gg/PkbHWSEXBv) - <sub><sup>(Discord)</sup></sub>
 - New Mexico
   - [Albuquerque Mesh](https://www.abqm.net)
 - North Carolina
@@ -443,18 +443,18 @@ A list of groups that have been actively organizing Meshtastic networks in their
   - [Dayton Mesh](https://daytonmesh.org/)
   - [Central Ohio (Columbus Metro Area) Mesh](https://meshcolumb.us/)
 - Oklahoma
-  - [Oklahoma Meshtastic Group](https://www.facebook.com/groups/942404880478488)
+  - [Oklahoma Meshtastic Group](https://www.facebook.com/groups/942404880478488) - <sub><sup>(Facebook)</sup></sub>
 - Oregon
   - [Southern Oregon Meshtastic Community](https://sites.google.com/view/someshtastic/home)
   - [PDXMesh for Portland & SW Washington](https://pdxmesh.com)
-  - [Willamette Valley Mesh Eugene / Springfield](https://discord.gg/gf4mShtJz4)
+  - [Willamette Valley Mesh Eugene / Springfield](https://discord.gg/gf4mShtJz4) - <sub><sup>(Discord)</sup></sub>
 - Pennsylvania
-  - [Philly Radio & Meshtastic](https://discord.gg/MWWbAkRR9v)
+  - [Philly Radio & Meshtastic](https://discord.gg/MWWbAkRR9v) - <sub><sup>(Discord)</sup></sub>
 - Tennessee
   - [Nashville Meshville](https://meshville.org/)
 - Texas
   - [Austin Mesh](https://austinmesh.org/)
-  - [Cypress, Texas Meshtastic Club](https://discord.gg/KzuwNRwE6q)
+  - [Cypress, Texas Meshtastic Club](https://discord.gg/KzuwNRwE6q) - <sub><sup>(Discord)</sup></sub>
   - [DFW / North Texas Mesh](https://ntxmesh.com/)
 - Virginia
   - [MadisonMesh](https://madisonmesh.com/)
