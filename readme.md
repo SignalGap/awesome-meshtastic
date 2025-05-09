@@ -173,32 +173,32 @@ A list of groups that have been actively organizing Meshtastic networks in their
 ### 🇨🇦Canada
 
 - [Canadaverse Mesh Wiki](https://wiki.mt.gt/)
-- [Mesh Canada](https://t.me/meshtastic_canada)
+- [Mesh Canada](https://t.me/meshtastic_canada) - <sub><sup>(Telegram)</sup></sub>
 - Alberta
   - [YYC Mesh](https://yycmesh.com/)
-  - [Mesht Calgary](https://t.me/meshtcalgary)
-  - [Mesht Alberta](https://t.me/meshtAlta)
+  - [Mesht Calgary](https://t.me/meshtcalgary) - <sub><sup>(Telegram)</sup></sub>
+  - [Mesht Alberta](https://t.me/meshtAlta) - <sub><sup>(Telegram)</sup></sub>
 - British Columbia
-  - [Meshtastic BC users group](https://t.me/Mesh_BC)
-  - [Meshtastic Dawson Creek BC users group](https://t.me/Mesh_BC_Dawson_Creek)
+  - [Meshtastic BC users group](https://t.me/Mesh_BC) - <sub><sup>(Telegram)</sup></sub>
+  - [Meshtastic Dawson Creek BC users group](https://t.me/Mesh_BC_Dawson_Creek) - <sub><sup>(Telegram)</sup></sub>
 - Manitoba
-  - [Mesht Manitoba](https://t.me/MeshtManitoba)
+  - [Mesht Manitoba](https://t.me/MeshtManitoba) - <sub><sup>(Telegram)</sup></sub>
 - New Brunswick
-  - [Mesht New Brunswick](https://t.me/MeshtNB)
+  - [Mesht New Brunswick](https://t.me/MeshtNB) - <sub><sup>(Telegram)</sup></sub>
 - Newfoundland
-  - [Mesht Newfoundland](https://t.me/MeshtNewfoundland)
+  - [Mesht Newfoundland](https://t.me/MeshtNewfoundland) - <sub><sup>(Telegram)</sup></sub>
 - Northwest Territories
-  - [Mesht Northwest Territories](https://t.me/MeshtNWT)
+  - [Mesht Northwest Territories](https://t.me/MeshtNWT) - <sub><sup>(Telegram)</sup></sub>
 - Nova Scotia
-  - [Mesht Nova Scotia](https://t.me/MeshtNovaScotia)
+  - [Mesht Nova Scotia](https://t.me/MeshtNovaScotia) - <sub><sup>(Telegram)</sup></sub>
 - Ontario
-  - [Mesht Ontario](https://t.me/meshtOnt)
+  - [Mesht Ontario](https://t.me/meshtOnt) - <sub><sup>(Telegram)</sup></sub>
 - Prince Edward Island
-  - [Mesht PEI](https://t.me/MeshtPEI)
+  - [Mesht PEI](https://t.me/MeshtPEI) - <sub><sup>(Telegram)</sup></sub>
 - Quebec
-  - [Mesht Quebec](https://t.me/meshtQuebec)
+  - [Mesht Quebec](https://t.me/meshtQuebec) - <sub><sup>(Telegram)</sup></sub>
 - Saskatchewan
-  - [Mesht Saskatchewan](https://t.me/MeshtSaska)
+  - [Mesht Saskatchewan](https://t.me/MeshtSaska) - <sub><sup>(Telegram)</sup></sub>
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
@@ -210,7 +210,7 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 ### 🇨🇴Colombia
 
-- [Meshtastic Users Colombia - General Telegram](https://t.me/meshtasticco)
+- [Meshtastic Users Colombia](https://t.me/meshtasticco) - <sub><sup>(Telegram)</sup></sub>
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
@@ -230,18 +230,18 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 ### 🇫🇷France
 
-- [Autour de Meshtastic - Telegram](https://t.me/+EYBkU17mlcU2MWI8)
+- [Autour de Meshtastic](https://t.me/+EYBkU17mlcU2MWI8) - <sub><sup>(Telegram)</sup></sub>
 - [Collectif Meshtastic France](https://www.facebook.com/groups/meshtastic.france)
-- [Réseau Gaulix - Telegram](https://t.me/+bkCEaiI-i-Q2ZTBk)
+- [Réseau Gaulix](https://t.me/+bkCEaiI-i-Q2ZTBk) - <sub><sup>(Telegram)</sup></sub>
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
 ### 🇩🇪Germany
 
-- [Meshtastic Users D-A-CH](https://t.me/meshtasticgermany) for technical chat
+- [Meshtastic Users D-A-CH](https://t.me/meshtasticgermany) - <sub><sup>(Telegram)</sup></sub>
 - [Meshtastic Users Germany](https://www.facebook.com/share/o6CZ9E35UmDKjp9U/) - <sub><sup>(Facebook)</sup></sub>
 - [Mesh Hessen (Website)](https://meshhessen.de/)
-- [Mesh Hessen (Telegram)](https://t.me/Mesh_Hessen)
+- [Mesh Hessen (Telegram)](https://t.me/Mesh_Hessen) - <sub><sup>(Telegram)</sup></sub>
 - [Meshtastic Users Hannover](https://discord.gg/eEnDkQKEFJ) - <sub><sup>(Discord)</sup></sub>
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
@@ -260,7 +260,7 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 ### 🇮🇹Italy
 
-- [Meshtastic Italia Community](https://t.me/meshtastic_italia_community)
+- [Meshtastic Italia Community](https://t.me/meshtastic_italia_community) - <sub><sup>(Telegram)</sup></sub>
 - [Mesh_ITA](https://discord.gg/ETFmtyzbFT) - <sub><sup>(Discord)</sup></sub>
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
@@ -288,13 +288,13 @@ A list of groups that have been actively organizing Meshtastic networks in their
 ### 🇲🇽Mexico
 
 - [Meshtastic Mexico Community](https://radioaficionados.mx/meshtastic)
-- [Meshtastic User Group Mexico (MUG-Mexico) - Telegram](https://t.me/meshtastic_mexico)
+- [Meshtastic User Group Mexico (MUG-Mexico)](https://t.me/meshtastic_mexico) - <sub><sup>(Telegram)</sup></sub>
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
 ### 🇳🇱Netherlands, The
 
-- [Meshtastic Netherlands Telegram](https://t.me/meshtastic_nl)
+- [Meshtastic Netherlands](https://t.me/meshtastic_nl) - <sub><sup>(Telegram)</sup></sub>
 - [MeshNet Meshtastic Community](https://www.meshnet.nl/)
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
@@ -330,7 +330,7 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 ### 🇪🇸Spain
 
-- [Meshtastic Spanish Community](https://t.me/meshtastic_esp)
+- [Meshtastic Spanish Community](https://t.me/meshtastic_esp) - <sub><sup>(Telegram)</sup></sub>
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
@@ -350,7 +350,7 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 ### 🇹🇷Türkiye
 
-- [Meshtastic Türkiye Community - Telegram](https://t.me/trmesh)
+- [Meshtastic Türkiye Community](https://t.me/trmesh) - <sub><sup>(Telegram)</sup></sub>
 - [Meshtastic Türkiye Community](https://discord.gg/7TGnZSSA) - <sub><sup>(Discord)</sup></sub>
 - ~~Meshtastic Türkiye Community - Web~~ - [Archived](https://web.archive.org/web/20241207225721/http://trmesh.org/)
 
