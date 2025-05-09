@@ -14,6 +14,7 @@ This is a curated list of useful resources, tools, tutorials, projects, and comm
   - [Hardware and Sensors](#hardware-and-sensors)
 - [Community](#community)
   - [Official](#official)
+  - [Unofficial](#unofficial)
   - [Local Groups](#local-groups)
     - 🇦🇷 [Argentina](#argentina)
     - 🇦🇺 [Australia](#australia)
@@ -119,7 +120,16 @@ Repos related to the hardware components and sensor integration for Meshtastic.
 
 ## Official
 
-- [Official Discussion Board](https://github.com/orgs/meshtastic/discussions)
+- [Official Discord Server](https://discord.com/invite/ktMAKGBnBs)
+- [Official Github Discussions](https://github.com/orgs/meshtastic/discussions)
+- [Official Subreddit](https://www.reddit.com/r/meshtastic/)
+- [Official Telegram](https://t.me/meshint)
+
+<sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
+
+## Unofficial
+
+- [Meshtastic - English](https://t.me/meshtastic_eng) - <sub><sup>(Telegram)</sup></sub>
 - [Official Discord Server](https://discord.com/invite/ktMAKGBnBs)
 - [Official Subreddit](https://www.reddit.com/r/meshtastic/)
 
@@ -151,9 +161,9 @@ A list of groups that have been actively organizing Meshtastic networks in their
 - Tasmania
   - [Meshtastic User Group Tasmania](https://www.facebook.com/groups/1556630645195649) - <sub><sup>(Facebook)</sup></sub>
 - Victoria
+  - [Melbourne Meshtastic Users, Australia](https://github.com/orgs/meshtastic/discussions/7) - <sub><sup>(Github Discussions)</sup></sub>
   - [Meshtastic Victoria](https://www.facebook.com/groups/meshtasticvictoria) - <sub><sup>(Facebook)</sup></sub>
   - [VicMesh - r/VicMesh](https://www.reddit.com/r/VicMesh/) - <sub><sup>(Reddit)</sup></sub>
-  - [Melbourne Meshtastic Users, Australia](https://github.com/orgs/meshtastic/discussions/7) - <sub><sup>(Github Discussions)</sup></sub>
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
@@ -165,33 +175,38 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 ### 🇧🇬Bulgaria
 
-- [Meshtastic BG Community Group](https://facebook.com/groups/meshtasticbulgaria) - <sub><sup>(Facebook)</sup></sub>
+- [Meshtastic Community Bulgaria](https://facebook.com/groups/meshtasticbulgaria) - <sub><sup>(Facebook)</sup></sub>
 - [Burgas Mesh](https://discord.gg/Kbs233rmq3) - <sub><sup>(Discord)</sup></sub>
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
 ### 🇨🇦Canada
 
-- [Canadaverse Mesh Wiki](https://wiki.mt.gt/)
+- [Canadaverse Mesh Wiki](https://wiki.mt.gt/) - <sub><sup>(Website)</sup></sub>
 - [Mesh Canada](https://t.me/meshtastic_canada) - <sub><sup>(Telegram)</sup></sub>
+- [r/meshtasticCanada](https://www.reddit.com/r/meshtasticCanada/) - <sub><sup>(Reddit)</sup></sub>
 - Alberta
-  - [YYC Mesh](https://yycmesh.com/)
-  - [Mesht Calgary](https://t.me/meshtcalgary) - <sub><sup>(Telegram)</sup></sub>
   - [Mesht Alberta](https://t.me/meshtAlta) - <sub><sup>(Telegram)</sup></sub>
+  - [Mesht Calgary](https://t.me/meshtcalgary) - <sub><sup>(Telegram)</sup></sub>
+  - [Meshtastic Calgary](https://t.me/+LzO9qeIC7Ok2YTVh) - <sub><sup>(Telegram)</sup></sub>
+  - [YYC Mesh](https://yycmesh.com/) - <sub><sup>(Website)</sup></sub>
 - British Columbia
+  - [Meshtastic BC users group](https://matrix.to/#/!kKfPDGFNasdKxwulZL:matrix.org?via=matrix.org) - <sub><sup>(Matrix)</sup></sub>
   - [Meshtastic BC users group](https://t.me/Mesh_BC) - <sub><sup>(Telegram)</sup></sub>
   - [Meshtastic Dawson Creek BC users group](https://t.me/Mesh_BC_Dawson_Creek) - <sub><sup>(Telegram)</sup></sub>
 - Manitoba
   - [Mesht Manitoba](https://t.me/MeshtManitoba) - <sub><sup>(Telegram)</sup></sub>
 - New Brunswick
   - [Mesht New Brunswick](https://t.me/MeshtNB) - <sub><sup>(Telegram)</sup></sub>
-- Newfoundland
+- Newfoundland and Labrador
   - [Mesht Newfoundland](https://t.me/MeshtNewfoundland) - <sub><sup>(Telegram)</sup></sub>
-- Northwest Territories
-  - [Mesht Northwest Territories](https://t.me/MeshtNWT) - <sub><sup>(Telegram)</sup></sub>
+- Northwest Territories, Yukon and Nunavut
+  - [Mesht NWT - YT - NU](https://t.me/MeshtNWT) - <sub><sup>(Telegram)</sup></sub>
 - Nova Scotia
   - [Mesht Nova Scotia](https://t.me/MeshtNovaScotia) - <sub><sup>(Telegram)</sup></sub>
 - Ontario
+  - [Greater Ottawa Meshtastic Enthusiasts](https://discord.com/invite/THXwXWDRyT) - <sub><sup>(Discord)</sup></sub>
+  - [GTA+ Meshtastic Community](https://discord.com/invite/snYp3ghCXC) - <sub><sup>(Discord)</sup></sub>
   - [Mesht Ontario](https://t.me/meshtOnt) - <sub><sup>(Telegram)</sup></sub>
 - Prince Edward Island
   - [Mesht PEI](https://t.me/MeshtPEI) - <sub><sup>(Telegram)</sup></sub>
@@ -199,6 +214,7 @@ A list of groups that have been actively organizing Meshtastic networks in their
   - [Mesht Quebec](https://t.me/meshtQuebec) - <sub><sup>(Telegram)</sup></sub>
 - Saskatchewan
   - [Mesht Saskatchewan](https://t.me/MeshtSaska) - <sub><sup>(Telegram)</sup></sub>
+  - [Meshtastic Saskatoon](https://www.facebook.com/groups/1870643856678060/) - <sub><sup>(Facebook)</sup></sub>
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
@@ -223,15 +239,15 @@ A list of groups that have been actively organizing Meshtastic networks in their
 ### 🇫🇮Finland
 
 - [Mesh Finland](https://discord.com/invite/GHnaVAjqed) - <sub><sup>(Discord)</sup></sub>
-- [Mesh Finland Website](https://mesh-finland.github.io)
-- [MeshAbout](https://www.meshabout.fi/)
+- [Mesh Finland](https://mesh-finland.github.io) - <sub><sup>(Website)</sup></sub>
+- [MeshAbout](https://www.meshabout.fi/) - <sub><sup>(Discord)</sup></sub>
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
 ### 🇫🇷France
 
 - [Autour de Meshtastic](https://t.me/+EYBkU17mlcU2MWI8) - <sub><sup>(Telegram)</sup></sub>
-- [Collectif Meshtastic France](https://www.facebook.com/groups/meshtastic.france)
+- [Collectif Meshtastic France](https://www.facebook.com/groups/meshtastic.france) - <sub><sup>(Facebook)</sup></sub>
 - [Réseau Gaulix](https://t.me/+bkCEaiI-i-Q2ZTBk) - <sub><sup>(Telegram)</sup></sub>
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
@@ -240,8 +256,8 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 - [Meshtastic Users D-A-CH](https://t.me/meshtasticgermany) - <sub><sup>(Telegram)</sup></sub>
 - [Meshtastic Users Germany](https://www.facebook.com/share/o6CZ9E35UmDKjp9U/) - <sub><sup>(Facebook)</sup></sub>
-- [Mesh Hessen (Website)](https://meshhessen.de/)
-- [Mesh Hessen (Telegram)](https://t.me/Mesh_Hessen) - <sub><sup>(Telegram)</sup></sub>
+- [Mesh Hessen](https://meshhessen.de/) - <sub><sup>(Website)</sup></sub>
+- [Mesh Hessen](https://t.me/Mesh_Hessen) - <sub><sup>(Telegram)</sup></sub>
 - [Meshtastic Users Hannover](https://discord.gg/eEnDkQKEFJ) - <sub><sup>(Discord)</sup></sub>
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
@@ -307,10 +323,10 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 ### 🇵🇱Poland
 
-- [Meshtastic Poland Matrix Space](https://matrix.to/#/#meshtasticpl:matrix.org)
+- [Meshtastic Polska](https://matrix.to/#/#meshtasticpl:matrix.org) - <sub><sup>(Matrix)</sup></sub>
 - Warsaw
-  - [Meshtastic Warsaw - Signal Group](https://signal.group/#CjQKIH6ht6sTWQDyjV7FMBAU4ko6xHVTRjIp1Eo-q44ZHVxYEhBuR--ztVU0JCa-196WxJmV)
-  - [Meshtastic Warsaw - Wiki](https://wiki.868.band/Home)
+  - [Meshtastic Warszawa](https://signal.group/#CjQKIH6ht6sTWQDyjV7FMBAU4ko6xHVTRjIp1Eo-q44ZHVxYEhBuR--ztVU0JCa-196WxJmV) - <sub><sup>(Signal)</sup></sub>
+  - [Meshtastic Warszawa](https://wiki.868.band/Home) - <sub><sup>(Website)</sup></sub>
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
@@ -468,7 +484,7 @@ A list of groups that have been actively organizing Meshtastic networks in their
 - Wisconsin
   - [Meshconsin](https://meshconsin.org)
 - Washington
-  - [Puget Mesh](https://PugetMesh.org)
+  - [Puget Mesh](https://pugetmesh.org)
   - [Tacoma.localmesh](https://tacoma.localmesh.org)
 - Washington DC
   - [DC Mesh](https://dcmesh.org)
