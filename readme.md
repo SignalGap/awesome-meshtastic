@@ -144,6 +144,7 @@ A list of groups that have been actively organizing Meshtastic networks in their
 ### 🇦🇷Argentina
 
 - [Meshtastic Argentina Community](https://github.com/Meshtastic-Argentina/) - <sub><sup>(Github)</sup></sub>
+- [Meshtastic Argentina Community](https://t.me/meshtastic_argentina) - <sub><sup>(Telegram)</sup></sub>
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
@@ -352,8 +353,8 @@ A list of groups that have been actively organizing Meshtastic networks in their
 
 ### 🇸🇪Sweden
 
-- [STHLM-MESH.se](https://discord.gg/gchSzHkPGG) - <sub><sup>(Discord)</sup></sub>
-- [STHLM-MESH.se - Website](https://sthlm-mesh.se)
+- [STHLM-MESH](https://discord.gg/gchSzHkPGG) - <sub><sup>(Discord)</sup></sub>
+- [STHLM-MESH](https://sthlm-mesh.se) - <sub><sup>(Website)</sup></sub>
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
