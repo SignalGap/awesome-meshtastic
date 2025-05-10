@@ -12,6 +12,7 @@ This is a curated list of useful resources, tools, tutorials, projects, and comm
   - [Device Interaction and Integrations](#device-interaction-and-integrations)
   - [Tools & Utilities](#tools--utilities)
   - [Hardware and Sensors](#hardware-and-sensors)
+- [Hardware Stores](#hardware-stores)
 - [Projects](#projects)
   - [Fun Projects](#fun-projects)
 - [Communities](#communities)
@@ -116,11 +117,60 @@ Repos related to the hardware components and sensor integration for Meshtastic.
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
+
+## Hardware Stores
+Reputable stores known for offering high-quality hardware, organized alphabetically.
+
+- [AT Labs](https://at-labs.tech/) - <sub><sup>(Jonesborough, Tennessee, USA)</sup></sub>
+  
+  Specializes in developing rugged Mobile Ad Hoc Network (MANET) radios, including their flagship RM-1 series, designed for resilient off-grid communication.
+
+- [B&Q Consulting](https://shop.uniteng.com) - <sub><sup>(Shenzhen, Guangdong, China)</sup></sub>
+
+  Personal R&D lab and documentation hub by Neil Hao, focusing on embedded systems, RF design, and open-source hardware projects like Meshtastic mesh devices and smart home technologies.
+
+- [Canary Radio](https://canaryradio.io/) - <sub><sup>(Portland, Oregon, USA)</sup></sub>
+
+   Specializes in rugged, ready-to-use Meshtastic-compatible communication devices like the CanaryOne, designed for reliable off-grid networking in austere environments.
+
+- [HELTEC®]() - <sub><sup>(Wan Chai, Hong Kong SAR, China)</sup></sub>
+
+   Specializes in designing and manufacturing IoT hardware solutions, including LoRa, LoRaWAN, and Wi-Fi HaLow devices, catering to both makers and industrial automation sectors with products like development boards, gateways, and sensors.
+
+- [LILYGO®](https://lilygo.cc) - <sub><sup>(Shenzhen, Guangdong, China)</sup></sub>
+
+  Specializes in the development, manufacturing, and distribution of IoT (Internet of Things) products.
+
+- [RAK®](https://store.rakwireless.com) - <sub><sup>(Wan Chai, Hong Kong SAR, China)</sup></sub>
+
+   Specializing in modular, easy-to-deploy hardware and software for Mestastic, LoRaWAN®, 5G, and edge computing applications. 
+
+- [Rokland Technologies](https://store.rokland.com/) - <sub><sup>(Gainesville, Florida, USA)</sup></sub>
+
+  Specializes in Meshtastic, LoRaWAN, Wi-Fi, and 4G/5G solutions, and is North America's largest authorized distributor for ALFA Network and RAKwireless products. 
+
+- [Seeed Studio®](https://www.seeedstudio.com) - <sub><sup>(Shenzhen, Guangdong, China)</sup></sub>
+
+   Specializes in IoT hardware, open-source modules, edge computing devices, and agile manufacturing services
+
+- [Spec<sup>5</sup>](https://specfive.com) - <sub><sup>(Florence, Texas, USA)</sup></sub>
+
+  Specializes in advanced off-grid communication solutions, offering Meshtastic-enabled devices and mesh networking tools
+
+- [Yeti Wurks](https://www.yetiwurks.com) - <sub><sup>(Blaine, Minnesota, USA)</sup></sub>
+
+   Specializes in custom firearm accessories for platforms like the CZ Scorpion Evo III, and has recently expanded into off-grid communication solutions with Meshtastic-compatible devices.
+
+<sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
+
 ## Projects
 
+<sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 ### Fun Projects
 
 - [MeshTIEstick: The Wearable LoRa Meshtastic Node](https://www.youtube.com/watch?v=2Wf6BcZS3AY) - Turning a necktie into a fully functional mesh node. 
+
+<sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
 ## Communities
 
