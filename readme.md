@@ -137,7 +137,7 @@ Repos related to the hardware components and sensor integration for Meshtastic.
 
 ## Local Groups
 
-A list of groups that have been actively organizing Meshtastic networks in their regions.
+A list of groups that have been actively setting up Meshtastic networks in their respective regions. For the official list of local groups, visit: [Meshtastic Local Groups](https://meshtastic.org/docs/community/local-groups/).
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
