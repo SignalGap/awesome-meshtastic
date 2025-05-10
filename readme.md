@@ -1,6 +1,6 @@
-# Awesome Meshtastic List [![Awesome](./media/awesome-list-badge.svg)](https://awesome.re)
+# Awesome Meshtastic List [![Awesome List Badge](./media/awesome-list-badge.svg)](https://awesome.re)
 
-![Awesome Meshtastic List](media/awesome-meshtastic-list-logo.svg)
+![Awesome Meshtastic List Logo](media/awesome-meshtastic-list-logo.svg)
 
 This is a curated list of useful resources, tools, tutorials, projects, and community contributions related to the Meshtastic open-source mesh communication project. Whether you're a beginner or advanced user, this list helps you explore and get the most out of your Meshtastic devices.
 
@@ -14,40 +14,40 @@ This is a curated list of useful resources, tools, tutorials, projects, and comm
   - [Hardware and Sensors](#hardware-and-sensors)
 - [Projects](#projects)
   - [Fun Projects](#fun-projects)
-- [Community](#community)
-  - [Official](#official)
-  - [Unofficial](#unofficial)
-  - [Local Groups](#local-groups)
-    - 🇦🇷 [Argentina](#argentina)
-    - 🇦🇺 [Australia](#australia)
-    - 🇧🇷 [Brazil](#brazil)
-    - 🇧🇬 [Bulgaria](#bulgaria)
-    - 🇨🇦 [Canada](#canada)
-    - 🇨🇳 [China](#china)
-    - 🇨🇴 [Colombia](#colombia)
-    - 🇩🇰 [Denmark](#denmark)
-    - 🇫🇮 [Finland](#finland)
-    - 🇫🇷 [France](#france)
-    - 🇩🇪 [Germany](#germany)
-    - 🇮🇳 [India](#india)
-    - 🇮🇱 [Israel](#israel)
-    - 🇮🇹 [Italy](#italy)
-    - 🇯🇵 [Japan](#japan)
-    - 🇱🇻 [Latvia](#latvia)
-    - 🇱🇹 [Lithuania](#lithuania)
-    - 🇲🇽 [Mexico](#mexico)
-    - 🇳🇱 [Netherlands, The](#netherlands-the)
-    - 🇳🇿 [New Zealand](#new-zealand)
-    - 🇵🇱 [Poland](#poland)
-    - 🇸🇮 [Slovenia](#slovenia)
-    - 🇿🇦 [South Africa](#south-africa)
-    - 🇪🇸 [Spain](#spain)
-    - 🇸🇪 [Sweden](#sweden)
-    - 🇹🇼 [Taiwan](#taiwan)
-    - 🇹🇷 [Türkiye](#türkiye)
-    - 🇺🇦 [Ukraine](#ukraine)
-    - 🇬🇧 [United Kingdom](#united-kingdom)
-    - 🇺🇸 [United States](#united-states)
+- [Communities](#communities)
+  - [Official Community](#official-community)
+  - [Unofficial Communities](#unofficial-communities)
+- [Local Groups](#local-groups)
+  - 🇦🇷 [Argentina](#argentina)
+  - 🇦🇺 [Australia](#australia)
+  - 🇧🇷 [Brazil](#brazil)
+  - 🇧🇬 [Bulgaria](#bulgaria)
+  - 🇨🇦 [Canada](#canada)
+  - 🇨🇳 [China](#china)
+  - 🇨🇴 [Colombia](#colombia)
+  - 🇩🇰 [Denmark](#denmark)
+  - 🇫🇮 [Finland](#finland)
+  - 🇫🇷 [France](#france)
+  - 🇩🇪 [Germany](#germany)
+  - 🇮🇳 [India](#india)
+  - 🇮🇱 [Israel](#israel)
+  - 🇮🇹 [Italy](#italy)
+  - 🇯🇵 [Japan](#japan)
+  - 🇱🇻 [Latvia](#latvia)
+  - 🇱🇹 [Lithuania](#lithuania)
+  - 🇲🇽 [Mexico](#mexico)
+  - 🇳🇱 [Netherlands, The](#netherlands-the)
+  - 🇳🇿 [New Zealand](#new-zealand)
+  - 🇵🇱 [Poland](#poland)
+  - 🇸🇮 [Slovenia](#slovenia)
+  - 🇿🇦 [South Africa](#south-africa)
+  - 🇪🇸 [Spain](#spain)
+  - 🇸🇪 [Sweden](#sweden)
+  - 🇹🇼 [Taiwan](#taiwan)
+  - 🇹🇷 [Türkiye](#türkiye)
+  - 🇺🇦 [Ukraine](#ukraine)
+  - 🇬🇧 [United Kingdom](#united-kingdom)
+  - 🇺🇸 [United States](#united-states)
 - [Contribute](#contribute)
 - [Legal Notice](#legal-notice)
 - [License](#license)
@@ -122,11 +122,11 @@ Repos related to the hardware components and sensor integration for Meshtastic.
 
 - [MeshTIEstick: The Wearable LoRa Meshtastic Node](https://www.youtube.com/watch?v=2Wf6BcZS3AY) - Turning a necktie into a fully functional mesh node. 
 
-## Community
+## Communities
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
-## Official
+### Official Community
 
 - [Official Discord Server](https://discord.com/invite/ktMAKGBnBs)
 - [Official Github Discussions](https://github.com/orgs/meshtastic/discussions)
@@ -135,7 +135,7 @@ Repos related to the hardware components and sensor integration for Meshtastic.
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
-## Unofficial
+### Unofficial Communities
 
 - [Meshtastic - English](https://t.me/meshtastic_eng) - <sub><sup>(Telegram)</sup></sub>
 - [Official Discord Server](https://discord.com/invite/ktMAKGBnBs)
@@ -317,10 +317,10 @@ A list of groups that have been actively setting up Meshtastic networks in their
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
-### 🇳🇱Netherlands, The
+### 🇳🇱Netherlands
 
+- [MeshNet Meshtastic Community](https://www.meshnet.nl/) - <sub><sup>(Website)</sup></sub>
 - [Meshtastic Netherlands](https://t.me/meshtastic_nl) - <sub><sup>(Telegram)</sup></sub>
-- [MeshNet Meshtastic Community](https://www.meshnet.nl/)
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
 
