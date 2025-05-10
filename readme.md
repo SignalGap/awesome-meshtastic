@@ -12,6 +12,8 @@ This is a curated list of useful resources, tools, tutorials, projects, and comm
   - [Device Interaction and Integrations](#device-interaction-and-integrations)
   - [Tools & Utilities](#tools--utilities)
   - [Hardware and Sensors](#hardware-and-sensors)
+- [Projects](#projects)
+  - [Fun Projects](#fun-projects)
 - [Community](#community)
   - [Official](#official)
   - [Unofficial](#unofficial)
@@ -113,6 +115,12 @@ Repos related to the hardware components and sensor integration for Meshtastic.
 - [ETHClass2](https://github.com/meshtastic/ETHClass2) - Provides ETHClass2 integration for Meshtastic, originally from LilyGO T-ETH series
 
 <sup>[🔝](#table-of-contents) [Table of Contents](#table-of-contents) [🔝](#table-of-contents)</sup>
+
+## Projects
+
+### Fun Projects
+
+- [MeshTIEstick: The Wearable LoRa Meshtastic Node](https://www.youtube.com/watch?v=2Wf6BcZS3AY) - Turning a necktie into a fully functional mesh node. 
 
 ## Community
 
