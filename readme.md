@@ -13,9 +13,11 @@ This is a curated list of useful resources, tools, tutorials, projects, and comm
   - [Tools & Utilities](#tools--utilities)
   - [Hardware and Sensors](#hardware-and-sensors)
 - [Hardware Stores](#hardware-stores)
+- [Software Projects](#software-projects)
 - [Hardware Projects](#hardware-projects)
   - [Solar Powered Hardware Projects](#solar-powered-hardware-projects)
   - [Fun Hardware Projects](#fun-hardware-projects)
+  - [Inspiring Hardware Projects](#inspiring-hardware-projects)
 - [Communities](#communities)
   - [Official Community](#official-community)
   - [Unofficial Communities](#unofficial-communities)
@@ -144,7 +146,15 @@ Reputable stores known for offering high-quality hardware, organized alphabetica
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
+## Software Projects
+
+- [How to Visualize Meshtastic Telemetry on Grafana](https://hackaday.io/project/202156-how-to-visualize-meshtastic-telemetry-on-grafana) - Integrates Meshtastic telemetry data with Grafana through Telemetry Harbor, enabling real-time visualization and analysis of device metrics and location data.
+
+⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
+
 ## Hardware Projects
+
+- []()
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
@@ -156,7 +166,15 @@ Reputable stores known for offering high-quality hardware, organized alphabetica
 
 ### Fun Hardware Projects
 
-- [MeshTIEstick: The Wearable LoRa Meshtastic Node](https://www.youtube.com/watch?v=2Wf6BcZS3AY) - Turning a necktie into a fully functional mesh node. 
+- [MeshTIEstick: The Wearable LoRa Meshtastic Node](https://www.youtube.com/watch?v=2Wf6BcZS3AY) - Turning a necktie into a fully functional mesh node.
+
+⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
+
+### Inspiring Hardware Projects
+
+These aren't directly related to Meshtastic but may inspire you.
+
+- [ARMAWATCH & ARMACHAT - long range radio messengers](https://hackaday.io/project/171790-armawatch-armachat-long-range-radio-messengers) - Long-range radio communicator featuring a QWERTY keyboard, LoRa connectivity, and a color display, designed for off-grid messaging and disaster resilience.
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
