@@ -150,7 +150,9 @@ Reputable stores known for offering high-quality hardware, organized alphabetica
 
 ### Solar Powered Hardware Projects
 
-- [Harbor Breeze Mesh Node Hack](https://hackaday.io/project/194509-harbor-breeze-mesh-node-hack) - Repurposes a $15 Harbor Breeze solar LED light as a waterproof enclosure to create a solar-powered, weatherproof Meshtastic LoRa node using a WisBlock-based development board. 
+- [Harbor Breeze Mesh Node Hack](https://hackaday.io/project/194509-harbor-breeze-mesh-node-hack) - Repurposes a $15 Harbor Breeze solar LED light as a waterproof enclosure to create a solar-powered, weatherproof Meshtastic LoRa node using a WisBlock-based development board.
+
+- [Meshtastic or Helium Ultrasonic WX Station](https://hackaday.io/project/196990-meshtastic-or-helium-ultrasonic-wx-station) - Transforms the Ecowitt WS85 weather station into a Meshtastic-enabled device by modifying its hardware to output serial data, enabling it to transmit weather telemetry over a LoRa mesh network.
 
 ### Fun Hardware Projects
 
