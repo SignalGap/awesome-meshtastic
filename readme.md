@@ -12,6 +12,9 @@ This is a curated list of useful resources, tools, tutorials, projects, and comm
   - [Device Interaction and Integrations](#device-interaction-and-integrations)
   - [Tools & Utilities](#tools--utilities)
   - [Hardware and Sensors](#hardware-and-sensors)
+- [Applications](#applications)
+  - [Official Apps](#official-apps)
+  - [Community Apps](#community-apps)
 - [Hardware Stores](#hardware-stores)
 - [Software Projects](#software-projects)
 - [Hardware Projects](#hardware-projects)
@@ -120,8 +123,42 @@ Repos related to the hardware components and sensor integration for Meshtastic.
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
+## Applications
+
+⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
+
+### Official Apps
+
+ Official Android application allows you to connect to your Meshtastic device from your Android phone via Bluetooth, Wi-Fi (if on the same network) or USB On-The-Go (OTG).
+
+- [Official Android App on Google Play](https://play.google.com/store/apps/details?id=com.geeksville.mesh)
+- [Official Android App on F-Droid](https://f-droid.org/packages/com.geeksville.mesh/)
+- [Official Android App Sideloading via Github](https://github.com/meshtastic/Meshtastic-Android/releases/latest)
+
+Official MacOS, iPhone, and iPad application allows you to connect to your Meshtastic device from your Android phone via Bluetooth, Wi-Fi (if on the same network) or USB On-The-Go (OTG).
+
+- [Official iOS and MacOS App on Apple App Store](https://apps.apple.com/us/app/meshtastic/id1586432531)
+
+⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
+
+### Community Apps
+
+**Mesh-Tac-Toe** is the world's first Tic-Tac-Toe game designed for the open Meshtastic network.
+
+- [Mesh-Tac-Toe on Google Play](https://play.google.com/store/apps/details?id=com.specfive.meshtactoe)
+
+**CheckTastic** is a checkers game designed for the open Meshtastic network, showcasing how low-bandwidth, long-range LoRa technology can enable multiplayer gaming beyond traditional messaging.
+
+- [CheckTastic on Google Play](https://play.google.com/store/apps/details?id=com.specfive.checkers)
+
+**MeshChess** is a chess game designed for the open Meshtastic network, utilizing low-bandwidth, long-range LoRa technology to enable off-grid multiplayer gameplay.
+
+- [MeshChess on Google Play](https://play.google.com/store/apps/details?id=com.specfive.chess)
+
+⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ## Hardware Stores
+
 Reputable stores known for offering high-quality hardware, organized alphabetically.
 
 - [AT Labs](https://at-labs.tech/) - <sub><sup>(Jonesborough, Tennessee, USA)</sup></sub> Specializes in developing rugged Mobile Ad Hoc Network (MANET) radios, including their flagship RM-1 series, designed for resilient off-grid communication.
@@ -153,8 +190,6 @@ Reputable stores known for offering high-quality hardware, organized alphabetica
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ## Hardware Projects
-
-- []()
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
