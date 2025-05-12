@@ -129,15 +129,21 @@ Repos related to the hardware components and sensor integration for Meshtastic.
 
 ### Official Apps
 
- Official Android application allows you to connect to your Meshtastic device from your Android phone via Bluetooth, Wi-Fi (if on the same network) or USB On-The-Go (OTG).
+ Official **Android** application allows you to connect to your Meshtastic device from your Apple tablet and phone via Bluetooth, Wi-Fi (if on the same network) or USB On-The-Go (OTG).
 
 - [Official Android App on Google Play](https://play.google.com/store/apps/details?id=com.geeksville.mesh)
 - [Official Android App on F-Droid](https://f-droid.org/packages/com.geeksville.mesh/)
 - [Official Android App Sideloading via Github](https://github.com/meshtastic/Meshtastic-Android/releases/latest)
 
-Official MacOS, iPhone, and iPad application allows you to connect to your Meshtastic device from your Android phone via Bluetooth, Wi-Fi (if on the same network) or USB On-The-Go (OTG).
+Official **MacOS, iPhone, and iPad** application allows you to connect to your Meshtastic device from your Apple desktop, laptop, tablet and phone via Bluetooth, Wi-Fi (if on the same network) or USB On-The-Go (OTG).
 
 - [Official iOS and MacOS App on Apple App Store](https://apps.apple.com/us/app/meshtastic/id1586432531)
+
+Official **Web Client*** is a browser-based interface that allows users to manage and configure their Meshtastic devices, offering functionalities such as messaging, device settings, and location tracking, all without the need for a mobile app.
+
+- [Served directly from an ESP32 based node](http://meshtastic.local)
+- [Official hosted version](https://client.meshtastic.org)
+- [The source code for the Web client](https://github.com/meshtastic/web)
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
