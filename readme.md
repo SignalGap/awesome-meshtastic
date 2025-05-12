@@ -139,10 +139,10 @@ Official **MacOS, iPhone, and iPad** application allows you to connect to your M
 
 - [Official iOS and MacOS App on Apple App Store](https://apps.apple.com/us/app/meshtastic/id1586432531)
 
-Official **Web Client*** is a browser-based interface that allows users to manage and configure their Meshtastic devices, offering functionalities such as messaging, device settings, and location tracking, all without the need for a mobile app.
+Official **Web Client** is a browser-based interface that allows users to manage and configure their Meshtastic devices, offering functionalities such as messaging, device settings, and location tracking, all without the need for a mobile app.
 
-- [Served directly from an ESP32 based node](http://meshtastic.local)
 - [Official hosted version](https://client.meshtastic.org)
+- [Served directly from an ESP32 based node](http://meshtastic.local)
 - [The source code for the Web client](https://github.com/meshtastic/web)
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
@@ -196,6 +196,8 @@ Reputable stores known for offering high-quality hardware, organized alphabetica
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ## Hardware Projects
+
+- [A Major Solution to a Miner Problem](https://meshtastic.org/blog/a-major-solution-to-a-miner-problem/) - How to repurpose an unused LoRa-based cryptocurrency mining device into functional Meshtastic node.
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
