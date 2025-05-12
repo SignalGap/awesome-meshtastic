@@ -167,19 +167,19 @@ Official **Web Client*** is a browser-based interface that allows users to manag
 
 Reputable stores known for offering high-quality hardware, organized alphabetically.
 
-- [AT Labs](https://at-labs.tech/) - <sub><sup>(Jonesborough, Tennessee, USA)</sup></sub> Specializes in developing rugged Mobile Ad Hoc Network (MANET) radios, including their flagship RM-1 series, designed for resilient off-grid communication.
+- [AT Labs](https://at-labs.tech) - <sub><sup>(Jonesborough, Tennessee, USA)</sup></sub> Specializes in developing rugged Mobile Ad Hoc Network (MANET) radios, including their flagship RM-1 series, designed for resilient off-grid communication.
 
 - [B&Q Consulting](https://shop.uniteng.com) - <sub><sup>(Shenzhen, Guangdong, China)</sup></sub> Personal R&D lab and documentation hub by Neil Hao, focusing on embedded systems, RF design, and open-source hardware projects like Meshtastic mesh devices and smart home technologies.
 
-- [Canary Radio](https://canaryradio.io/) - <sub><sup>(Portland, Oregon, USA)</sup></sub> Specializes in rugged, ready-to-use Meshtastic-compatible communication devices like the CanaryOne, designed for reliable off-grid networking in austere environments.
+- [Canary Radio](https://canaryradio.io) - <sub><sup>(Portland, Oregon, USA)</sup></sub> Specializes in rugged, ready-to-use Meshtastic-compatible communication devices like the CanaryOne, designed for reliable off-grid networking in austere environments.
 
-- [HELTEC®]() - <sub><sup>(Wan Chai, Hong Kong SAR, China)</sup></sub> Specializes in designing and manufacturing IoT hardware solutions, including LoRa, LoRaWAN, and Wi-Fi HaLow devices, catering to both makers and industrial automation sectors with products like development boards, gateways, and sensors.
+- [HELTEC®](https://heltec.org) - <sub><sup>(Wan Chai, Hong Kong SAR, China)</sup></sub> Specializes in designing and manufacturing IoT hardware solutions, including LoRa, LoRaWAN, and Wi-Fi HaLow devices, catering to both makers and industrial automation sectors with products like development boards, gateways, and sensors.
 
 - [LILYGO®](https://lilygo.cc) - <sub><sup>(Shenzhen, Guangdong, China)</sup></sub> Specializes in the development, manufacturing, and distribution of IoT (Internet of Things) products.
 
 - [RAK®](https://store.rakwireless.com) - <sub><sup>(Wan Chai, Hong Kong SAR, China)</sup></sub> Specializing in modular, easy-to-deploy hardware and software for Mestastic, LoRaWAN®, 5G, and edge computing applications. 
 
-- [Rokland Technologies](https://store.rokland.com/) - <sub><sup>(Gainesville, Florida, USA)</sup></sub> Specializes in Meshtastic, LoRaWAN, Wi-Fi, and 4G/5G solutions, and is North America's largest authorized distributor for ALFA Network and RAKwireless products. 
+- [Rokland Technologies](https://store.rokland.com) - <sub><sup>(Gainesville, Florida, USA)</sup></sub> Specializes in Meshtastic, LoRaWAN, Wi-Fi, and 4G/5G solutions, and is North America's largest authorized distributor for ALFA Network and RAKwireless products. 
 
 - [Seeed Studio®](https://www.seeedstudio.com) - <sub><sup>(Shenzhen, Guangdong, China)</sup></sub> Specializes in IoT hardware, open-source modules, edge computing devices, and agile manufacturing services
 
