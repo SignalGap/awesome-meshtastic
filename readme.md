@@ -207,6 +207,8 @@ Reputable stores known for offering high-quality hardware, organized alphabetica
 
 - [Meshtastic or Helium Ultrasonic WX Station](https://hackaday.io/project/196990-meshtastic-or-helium-ultrasonic-wx-station) - Transforms the Ecowitt WS85 weather station into a Meshtastic-enabled device by modifying its hardware to output serial data, enabling it to transmit weather telemetry over a LoRa mesh network.
 
+- [Meshtastic Solar Buoy](https://www.instructables.com/Meshtastic-Solar-Buoy/) - Converts a waterproof solar fishing buoy lamp into a rugged, solar-powered Meshtastic node for long-range mesh communication.
+
 ### Fun Hardware Projects
 
 - [MeshTIEstick: The Wearable LoRa Meshtastic Node](https://www.youtube.com/watch?v=2Wf6BcZS3AY) - Turning a necktie into a fully functional mesh node.
