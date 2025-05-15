@@ -195,6 +195,8 @@ Reputable stores known for offering high-quality hardware, organized alphabetica
 
 - [MultiMesh](https://github.com/paulocode/multimesh) - The source code for a cross-platform Meshtastic mobile app for iOS and Android, built using Flutter.
 
+- [MeshLink (Beta)](https://github.com/Murturtle/MeshLinkBeta) - A Python-based tool that bridges Meshtastic and Discord, offering messaging, mesh data sharing, and plugin-driven mesh-only features like weather, ping, and HF condition checks.
+
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ## Hardware Projects
