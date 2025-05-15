@@ -392,12 +392,12 @@ A list of groups that have been actively setting up Meshtastic networks in their
 
 - [Meshtastic Italia Community](https://t.me/meshtastic_italia_community) - <sub><sup>(Telegram)</sup></sub>
 - [Mesh_ITA](https://discord.gg/ETFmtyzbFT) - <sub><sup>(Discord)</sup></sub>
-
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇯🇵Japan
 
 - [Meshtastic Japan Community](https://www.facebook.com/share/g/BQCGxZhw9SxFQja8/?mibextid=K35XfP) - <sub><sup>(Facebook)</sup></sub>
+
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇱🇻Latvia
