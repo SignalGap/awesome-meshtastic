@@ -193,6 +193,8 @@ Reputable stores known for offering high-quality hardware, organized alphabetica
 
 - [How to Visualize Meshtastic Telemetry on Grafana](https://hackaday.io/project/202156-how-to-visualize-meshtastic-telemetry-on-grafana) - Integrates Meshtastic telemetry data with Grafana through Telemetry Harbor, enabling real-time visualization and analysis of device metrics and location data.
 
+- [MultiMesh](https://github.com/paulocode/multimesh) - The source code for a cross-platform Meshtastic mobile app for iOS and Android, built using Flutter.
+
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ## Hardware Projects
