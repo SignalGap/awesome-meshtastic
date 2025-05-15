@@ -398,12 +398,11 @@ A list of groups that have been actively setting up Meshtastic networks in their
 ### 🇯🇵Japan
 
 - [Meshtastic Japan Community](https://www.facebook.com/share/g/BQCGxZhw9SxFQja8/?mibextid=K35XfP) - <sub><sup>(Facebook)</sup></sub>
-
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇱🇻Latvia
 
-- [Meshtastic Latvija](https://mesh.dodies.lv)
+- ~~Meshtastic Latvija~~ [Archived](https://web.archive.org/web/20250125044231/https://mesh.dodies.lv/)
 - [Meshtastic Latvija Matrix Space](https://matrix.to/#/#meshtastic-lv:matrix.org)
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
