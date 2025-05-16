@@ -243,8 +243,6 @@ These aren't directly related to Meshtastic but may inspire you.
 ### Unofficial Communities
 
 - [Meshtastic - English](https://t.me/meshtastic_eng) - <sub><sup>(Telegram)</sup></sub>
-- [Official Discord Server](https://discord.com/invite/ktMAKGBnBs)
-- [Official Subreddit](https://www.reddit.com/r/meshtastic/)
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
