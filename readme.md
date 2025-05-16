@@ -235,8 +235,11 @@ These aren't directly related to Meshtastic but may inspire you.
 
 - [Official Discord Server](https://discord.com/invite/ktMAKGBnBs)
 - [Official Github Discussions](https://github.com/orgs/meshtastic/discussions)
+- [Official Instagram](https://www.instagram.com/themeshtastic/)
 - [Official Subreddit](https://www.reddit.com/r/meshtastic/)
 - [Official Telegram](https://t.me/meshint)
+- [Official X (formar Twitter)](https://x.com/TheMeshtastic)
+- [Official YouTube](https://www.youtube.com/@Meshtastic)
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
