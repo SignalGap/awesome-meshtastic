@@ -538,7 +538,7 @@ A list of groups that have been actively setting up Meshtastic networks in their
   - [JAXMesh](https://jaxmesh.com/)
   - [Florida Mesh](https://areyoumeshingwith.us/) - <sub><sup>(Website)</sup></sub>
   - [Florida Mesh](https://github.com/flmesh) - <sub><sup>(Github)</sup></sub>
-  - [Florida Mesh](https://discord.com/invite/JUc8N9nUa8) - <sub><sup>(Discord)</sup></sub>
+  - [Florida Mesh](https://discord.gg/floridamesh) - <sub><sup>(Discord)</sup></sub>
   - [Meshtastic Florida](https://www.reddit.com/r/Meshtastic_Florida/) - <sub><sup>(Reddit)</sup></sub>
 - Georgia
   - [CSRA Mesh - Augusta, GA/North Augusta, SC Area](https://discord.gg/rQSTQDZKgs) - <sub><sup>(Discord)</sup></sub>
