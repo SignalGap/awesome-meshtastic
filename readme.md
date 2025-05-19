@@ -47,6 +47,7 @@ This is a curated list of useful resources, tools, tutorials, projects, and comm
   - 🇳🇱 [Netherlands](#netherlands)
   - 🇳🇿 [New Zealand](#new-zealand)
   - 🇵🇱 [Poland](#poland)
+  - 🇵🇹 [Portugal](#ortugal)
   - 🇸🇮 [Slovenia](#slovenia)
   - 🇿🇦 [South Africa](#south-africa)
   - 🇪🇸 [Spain](#spain)
@@ -453,6 +454,12 @@ A list of groups that have been actively setting up Meshtastic networks in their
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
+### 🇵🇹Portugal
+
+- [Comunidade Meshtastic Portugal](https://t.me/comunidademeshtasticpt) - <sub><sup>(Telegram)</sup></sub>
+
+⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
+
 ### 🇸🇮Slovenia
 
 - [MeshNet.si](https://meshnet.si)
@@ -571,9 +578,12 @@ A list of groups that have been actively setting up Meshtastic networks in their
   - [Maine Mesh](https://github.com/JFRHorton/MaineMesh)
 - Massachusetts
   - [Boston Meshnet](https://github.com/Darachnid/Boston-Meshnet)
+  - [Pioneer Valley Meshtastic Network](https://pvmesh.org)
   - [SouthCoast Mesh](https://southcoastmesh.com)
 - Michigan
   - [Michigan Meshtastic Network](https://discord.gg/3A5RREcBcc) - <sub><sup>(Discord)</sup></sub>
+- Minnesota
+  - [MSP Mesh](https://mspmesh.org/) - <sub><sup>(Website)</sup></sub>
 - Missouri
   - [Kansas City Meshtastic Group](https://www.facebook.com/share/XZ9jnhxy1YT4wWqC/) - <sub><sup>(Facebook)</sup></sub>
   - [MeshSTL - St. Louis](https://discord.gg/QYxUdKZpBd) - <sub><sup>(Discord)</sup></sub>
