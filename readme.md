@@ -12,6 +12,7 @@ This is a curated list of useful resources, tools, tutorials, projects, and comm
   - [Device Interaction and Integrations](#device-interaction-and-integrations)
   - [Tools & Utilities](#tools--utilities)
   - [Hardware and Sensors](#hardware-and-sensors)
+- [How Tos](#how-tos)
 - [Applications](#applications)
   - [Official Apps](#official-apps)
   - [Community Apps](#community-apps)
@@ -120,6 +121,12 @@ Repos related to the hardware components and sensor integration for Meshtastic.
 - [enclosures](https://github.com/meshtastic/enclosures) - 3D models for enclosures used in Meshtastic devices
 - [i2c-sensor](https://github.com/meshtastic/i2c-sensor) - Arduino boilerplate for creating custom I2C sensors for Meshtastic
 - [ETHClass2](https://github.com/meshtastic/ETHClass2) - Provides ETHClass2 integration for Meshtastic, originally from LilyGO T-ETH series
+
+⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
+
+## How Tos
+
+- [Meshtastic for Makers](https://www.youtube.com/watch?v=qjJIVBOWvfc&list=PLPK2l9Knytg6jzOfcqk5y0iBH48ZATVVD) - A 1-hour video course that teaches you how to use the LoRa-powered Meshtastic network to wirelessly send data with microcontrollers, covering setup, sensor data transmission, hardware control, and MQTT integration for long-range maker projects.
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
