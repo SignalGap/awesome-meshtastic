@@ -184,9 +184,9 @@ Reputable stores known for offering high-quality hardware, organized alphabetica
 
 - [LILYGO®](https://lilygo.cc) - <sub><sup>(Shenzhen, Guangdong, China)</sup></sub> Specializes in the development, manufacturing, and distribution of IoT (Internet of Things) products.
 
-- [RAK®](https://store.rakwireless.com) - <sub><sup>(Wan Chai, Hong Kong SAR, China)</sup></sub> Specializing in modular, easy-to-deploy hardware and software for Mestastic, LoRaWAN®, 5G, and edge computing applications. 
+- [RAK®](https://store.rakwireless.com) - <sub><sup>(Wan Chai, Hong Kong SAR, China)</sup></sub> Specializing in modular, easy-to-deploy hardware and software for Mestastic, LoRaWAN®, 5G, and edge computing applications.
 
-- [Rokland Technologies](https://store.rokland.com) - <sub><sup>(Gainesville, Florida, USA)</sup></sub> Specializes in Meshtastic, LoRaWAN, Wi-Fi, and 4G/5G solutions, and is North America's largest authorized distributor for ALFA Network and RAKwireless products. 
+- [Rokland Technologies](https://store.rokland.com) - <sub><sup>(Gainesville, Florida, USA)</sup></sub> Specializes in Meshtastic, LoRaWAN, Wi-Fi, and 4G/5G solutions, and is North America's largest authorized distributor for ALFA Network and RAKwireless products.
 
 - [Seeed Studio®](https://www.seeedstudio.com) - <sub><sup>(Shenzhen, Guangdong, China)</sup></sub> Specializes in IoT hardware, open-source modules, edge computing devices, and agile manufacturing services
 
@@ -241,9 +241,11 @@ These aren't directly related to Meshtastic but may inspire you.
 ### Official Community
 
 - [Official Discord Server](https://discord.com/invite/ktMAKGBnBs)
+- [Official Facebook](https://facebook.com/themeshtastic)
 - [Official Github Discussions](https://github.com/orgs/meshtastic/discussions)
 - [Official Instagram](https://www.instagram.com/themeshtastic/)
-- [Official Subreddit](https://www.reddit.com/r/meshtastic/)
+- [Official Mastodon](https://mastodon.social/@meshtastic)
+- [Official Reddit](https://www.reddit.com/r/meshtastic/)
 - [Official Telegram](https://t.me/meshint)
 - [Official X (formar Twitter)](https://x.com/TheMeshtastic)
 - [Official YouTube](https://www.youtube.com/@Meshtastic)
