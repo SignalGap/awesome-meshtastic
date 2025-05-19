@@ -497,8 +497,12 @@ A list of groups that have been actively setting up Meshtastic networks in their
 
 ### 🇺🇦Ukraine
 
+- [Meshtastic Chernivtsi](https://t.me/mestastic_ua_chernivtsi) - <sub><sup>(Telegram)</sup></sub>
+- [Meshtastic Lviv](https://t.me/meshtastic_lviv ) - <sub><sup>(Telegram)</sup></sub>
+- [Meshtastic Odessa](https://t.me/messtastic_ua_odesa) - <sub><sup>(Telegram)</sup></sub>
+- [Meshtastic Ukraine](https://github.com/meshtastic-ua) - <sub><sup>(Github)</sup></sub>
 - [Meshtastic Ukraine](https://t.me/meshtastic_ua) - <sub><sup>(Telegram)</sup></sub>
-- [Meshtastic Ukraine]https://github.com/meshtastic-ua) - <sub><sup>(Github)</sup></sub>
+- [Mykolaiv Mesh](https://mesh.mk.ua/) - <sub><sup>(Website)</sup></sub>
 - ~~WiKi Meshtastic UA~~ - [Archived](https://web.archive.org/web/20241012101501/https://wikimesh.pp.ua/uk/home)
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
