@@ -497,6 +497,8 @@ A list of groups that have been actively setting up Meshtastic networks in their
 
 ### 🇺🇦Ukraine
 
+- [Meshtastic Ukraine](https://t.me/meshtastic_ua) - <sub><sup>(Telegram)</sup></sub>
+- [Meshtastic Ukraine]https://github.com/meshtastic-ua) - <sub><sup>(Github)</sup></sub>
 - ~~WiKi Meshtastic UA~~ - [Archived](https://web.archive.org/web/20241012101501/https://wikimesh.pp.ua/uk/home)
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
