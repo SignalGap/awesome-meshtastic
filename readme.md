@@ -58,8 +58,8 @@ This is a curated list of useful resources, tools, tutorials, projects, and comm
   - 🇬🇧 [United Kingdom](#united-kingdom)
   - 🇺🇸 [United States](#united-states)
 - [Contribute](#contribute)
-- [Legal Notice](#legal-notice)
 - [License](#license)
+- [Trademark Notice](#trademark-notice)
 
 ## Official Source Code Repositories
 
@@ -659,7 +659,7 @@ You are free to copy, modify, and distribute this list, even for commercial purp
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
-## ⚖️Legal Notice
+## ™️Trademark Notice
 
 Meshtastic&reg; is a registered trademark of Meshtastic LLC. This project is in no way affiliated with, endorsed, or sponsored by the trademark holder. No infringement is intended.
 
