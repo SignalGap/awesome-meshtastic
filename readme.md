@@ -659,8 +659,10 @@ You are free to copy, modify, and distribute this list, even for commercial purp
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
-## ™️Trademark Notice
+## 📢Trademark Notice
 
-Meshtastic&reg; is a registered trademark of Meshtastic LLC. This project is in no way affiliated with, endorsed, or sponsored by the trademark holder. No infringement is intended.
+Meshtastic&reg; is a registered trademark of Meshtastic LLC. This project is not affiliated with, endorsed, or sponsored by Meshtastic LLC.
+
+All trademarks, service marks, and company names are the property of their respective owners.
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
