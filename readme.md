@@ -205,6 +205,18 @@ Reputable stores known for offering high-quality hardware, organized alphabetica
 
 - [MeshLink (Beta)](https://github.com/Murturtle/MeshLinkBeta) - A Python-based tool that bridges Meshtastic and Discord, offering messaging, mesh data sharing, and plugin-driven mesh-only features like weather, ping, and HF condition checks.
 
+- [The Harbor Meshtastic Integration](https://github.com/TelemetryHarbor/harbor-meshtastic) - Seamlessly connect your Meshtastic device to Telemetry Harbor to stream and visualize telemetry data with Grafana.
+
+- [Meshtastic Web API](https://github.com/bmswens/Meshtastic-Web-API) - A RESTful interface to interact with a Meshtastic node via a serial connection.
+
+- [Mesh Metrics](https://github.com/cordelster/mesh-metrics) - Poll Meshtastic repeaters over the mesh network without internet access, using this script with Prometheus-compatible monitoring setups.
+
+- [Node-RED Messages Node](https://github.com/danpeig/node-red-meshtastic-msg) - It allows sending and receiving packets to a Meshtastic mesh network thru a device connected via HTTP.
+
+- [Connect - A Nodeless MQTT Client for Meshtastic](https://github.com/pdxlocations/connect) - A standalone Python client for communicating with Meshtastic devices via MQTT
+
+- [Contact - A Console UI for Meshtastic](https://github.com/pdxlocations/contact) - A terminal-based Python chat and configuration client for Meshtastic devices.
+
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ## Hardware Projects
