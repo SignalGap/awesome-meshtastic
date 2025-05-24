@@ -508,9 +508,14 @@ A list of groups that have been actively setting up Meshtastic networks in their
 
 ### 🇹🇷Türkiye
 
-- [Meshtastic Türkiye Community](https://t.me/trmesh) - <sub><sup>(Telegram)</sup></sub>
-- [Meshtastic Türkiye Community](https://discord.gg/7TGnZSSA) - <sub><sup>(Discord)</sup></sub>
-- ~~Meshtastic Türkiye Community - Web~~ - [Archived](https://web.archive.org/web/20241207225721/http://trmesh.org/)
+- [Meshtastic Türkiye Topluluğu](https://tamesh.org/) - <sub><sup>(Website)</sup></sub>
+- [Meshtastic Türkiye Topluluğu](https://www.facebook.com/groups/tamesh) - <sub><sup>(Facebook Group)</sup></sub>
+- [Purgatory](https://dc.purgatoria.net) - <sub><sup>(Discord)</sup></sub>
+- [TA Mesh](https://www.facebook.com/tamesh.org) - <sub><sup>(Facebook Page)</sup></sub>
+- [TA Meshtastic](https://chat.whatsapp.com/KiLXFGcCygf7UVWwmyvAnV) - <sub><sup>(WhatsApp)</sup></sub>
+- [TA Meshtastic](https://t.me/tameshtastic) - <sub><sup>(Telegram)</sup></sub>
+- [TrMesh.org](https://t.me/trmesh) - <sub><sup>(Telegram)</sup></sub>
+- ~~TRMesh~~ - [Archived](https://web.archive.org/web/20241207225721/http://trmesh.org/) - <sub><sup>(Website)</sup></sub>
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
