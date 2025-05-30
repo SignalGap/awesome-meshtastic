@@ -461,7 +461,7 @@ A list of groups that have been actively setting up Meshtastic networks in their
 
 - [Meshtastic Polska](https://matrix.to/#/#meshtasticpl:matrix.org) - <sub><sup>(Matrix)</sup></sub>
 - Warsaw
-  - [Meshtastic Warszawa](https://signal.group/#CjQKIH6ht6sTWQDyjV7FMBAU4ko6xHVTRjIp1Eo-q44ZHVxYEhBuR--ztVU0JCa-196WxJmV) - <sub><sup>(Signal)</sup></sub>
+  - [Meshtastic Warszawa](https://tinyurl.com/waw-signal) - <sub><sup>(Signal)</sup></sub>
   - [Meshtastic Warszawa](https://wiki.868.band/Home) - <sub><sup>(Website)</sup></sub>
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
