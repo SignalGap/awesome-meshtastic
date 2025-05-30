@@ -625,6 +625,8 @@ A list of groups that have been actively setting up Meshtastic networks in their
   - [Willamette Valley Mesh Eugene / Springfield](https://discord.gg/gf4mShtJz4) - <sub><sup>(Discord)</sup></sub>
 - Pennsylvania
   - [Philly Radio & Meshtastic](https://discord.gg/MWWbAkRR9v) - <sub><sup>(Discord)</sup></sub>
+- South Carolina
+  - [Upstate SC Mesh](https://discord.gg/ZVtQeThnPU) - <sub><sup>(Discord)</sup></sub>
 - Tennessee
   - [Nashville Meshville](https://meshville.org/)
 - Texas
