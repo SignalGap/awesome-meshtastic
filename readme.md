@@ -438,9 +438,9 @@ A list of groups that have been actively setting up Meshtastic networks in their
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
-### 🇲🇾 Malaysia
+### 🇲🇾Malaysia
 
-- [Meshtastic Malaysia](https://linktr.ee/meshtastic)
+- [Meshtastic Malaysia Community](https://linktr.ee/meshtastic)
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
