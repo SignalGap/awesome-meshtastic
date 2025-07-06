@@ -43,6 +43,7 @@ This is a curated list of useful resources, tools, tutorials, projects, and comm
   - 🇯🇵 [Japan](#japan)
   - 🇱🇻 [Latvia](#latvia)
   - 🇱🇹 [Lithuania](#lithuania)
+  - 🇲🇾 [Malaysia](#malaysia)
   - 🇲🇽 [Mexico](#mexico)
   - 🇳🇱 [Netherlands](#netherlands)
   - 🇳🇿 [New Zealand](#new-zealand)
@@ -434,6 +435,12 @@ A list of groups that have been actively setting up Meshtastic networks in their
 
 - [Meshtastic Lietuva](https://www.facebook.com/groups/1122509422249414) - <sub><sup>(Facebook)</sup></sub>
 - [LithMesh Signal Group](https://signal.group/#CjQKIBScbOkXSG2bkFh_omdxjOM-XqYIU4eERDmGEDrm3jjmEhDyZhh-EeCLSfjfV-DoPvEQ)
+
+⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
+
+### 🇲🇾Malaysia
+
+- [Meshtastic Malaysia Community](https://linktr.ee/meshtastic)
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
