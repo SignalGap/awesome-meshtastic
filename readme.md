@@ -654,6 +654,7 @@ A list of groups that have been actively setting up Meshtastic networks in their
 - Wisconsin
   - [Meshconsin](https://meshconsin.org)
 - Washington
+  - [LINC - Lincoln County Mesh Messaging](https://lincme.sh) - <sub><sup>(Website)</sup></sub>
   - [Puget Mesh](https://pugetmesh.org)
   - [Tacoma.localmesh](https://tacoma.localmesh.org)
 - Washington DC
