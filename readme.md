@@ -509,8 +509,10 @@ A list of groups that have been actively setting up Meshtastic networks in their
 
 ### 🇸🇪Sweden
 
-- [STHLM-MESH](https://discord.gg/gchSzHkPGG) - <sub><sup>(Discord)</sup></sub>
-- [STHLM-MESH](https://sthlm-mesh.se) - <sub><sup>(Website)</sup></sub>
+- [Gothenburg Mesh](https://gbg-mesh.se) - <sub><sup>(Website)</sup></sub>
+- [Stockholm Mesh](https://discord.gg/gchSzHkPGG) - <sub><sup>(Discord)</sup></sub>
+- [Stockholm Mesh](https://sthlm-mesh.se) - <sub><sup>(Website)</sup></sub>
+- [Sweden Mesh](https://www.meshat.se) - <sub><sup>(Website)</sup></sub>
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
