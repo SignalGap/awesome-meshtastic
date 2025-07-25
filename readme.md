@@ -187,6 +187,8 @@ Reputable stores known for offering high-quality hardware, organized alphabetica
 
 - [LILYGO®](https://lilygo.cc) - <sub><sup>(Shenzhen, Guangdong, China)</sup></sub> Specializes in the development, manufacturing, and distribution of IoT (Internet of Things) products.
 
+- [Pileup Communications](https://pileupdx.com) - <sub><sup>(Stockholm, Sweden)</sup></sub> E-Commerce site offers software‑defined radio transceivers, receivers, antennas, and accessories for ham‑radio and professional operators across Europe and beyond.
+
 - [RAK®](https://store.rakwireless.com) - <sub><sup>(Wan Chai, Hong Kong SAR, China)</sup></sub> Specializing in modular, easy-to-deploy hardware and software for Mestastic, LoRaWAN®, 5G, and edge computing applications.
 
 - [Rokland Technologies](https://store.rokland.com) - <sub><sup>(Gainesville, Florida, USA)</sup></sub> Specializes in Meshtastic, LoRaWAN, Wi-Fi, and 4G/5G solutions, and is North America's largest authorized distributor for ALFA Network and RAKwireless products.
