@@ -599,7 +599,7 @@ A list of groups that have been actively setting up Meshtastic networks in their
 - Iowa
   - [Iowa Mesh](https://iowamesh.org)
 - Kansas
-  - [SecKC Amateur Radio Club of Kansas City and Surrounding Cities for Amateur Radio](https://ks3ckc.radio/home)
+  - [SecKC Amateur Radio Club of Kansas City and Surrounding Cities for Amateur Radio](https://ks3ckc.radio/meshtastic) - <sub><sup>(Website)</sup></sub>
 - Maine
   - [Maine Mesh](https://github.com/JFRHorton/MaineMesh)
 - Massachusetts
