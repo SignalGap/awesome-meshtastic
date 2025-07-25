@@ -70,11 +70,11 @@ This is a curated list of useful resources, tools, tutorials, projects, and comm
 
 These repositories are at the heart of the Meshtastic project, containing firmware, APIs, and other essential code.
 
-- [firmware](https://github.com/meshtastic/firmware) - Meshtastic device firmware
-- [protobufs](https://github.com/meshtastic/protobufs) - Protobuf definitions for Meshtastic
-- [web-flasher](https://github.com/meshtastic/web-flasher) - Online flasher for Meshtastic device firmware
-- [meshtastic](https://github.com/meshtastic/meshtastic) - Meshtastic project website and documentation
-- [api](https://github.com/meshtastic/api) - Meshtastic Website API
+- [firmware](https://gitHub.com/meshtastic/firmware) - Meshtastic device firmware
+- [protobufs](https://gitHub.com/meshtastic/protobufs) - Protobuf definitions for Meshtastic
+- [web-flasher](https://gitHub.com/meshtastic/web-flasher) - Online flasher for Meshtastic device firmware
+- [meshtastic](https://gitHub.com/meshtastic/meshtastic) - Meshtastic project website and documentation
+- [api](https://gitHub.com/meshtastic/api) - Meshtastic Website API
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
@@ -82,10 +82,10 @@ These repositories are at the heart of the Meshtastic project, containing firmwa
 
 These repositories offer various client applications for different platforms.
 
-- [web](https://github.com/meshtastic/web) - Meshtastic Web Client
-- [Meshtastic-Apple](https://github.com/meshtastic/Meshtastic-Apple) - iOS, iPadOS & macOS Clients for Meshtastic
-- [Meshtastic-Android](https://github.com/meshtastic/Meshtastic-Android) - Android app for Meshtastic
-- [network-management-client](https://github.com/meshtastic/network-management-client) - Desktop client for offline deployment and mesh network management
+- [web](https://gitHub.com/meshtastic/web) - Meshtastic Web Client
+- [Meshtastic-Apple](https://gitHub.com/meshtastic/Meshtastic-Apple) - iOS, iPadOS & macOS Clients for Meshtastic
+- [Meshtastic-Android](https://gitHub.com/meshtastic/Meshtastic-Android) - Android app for Meshtastic
+- [network-management-client](https://gitHub.com/meshtastic/network-management-client) - Desktop client for offline deployment and mesh network management
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
@@ -93,15 +93,15 @@ These repositories offer various client applications for different platforms.
 
 Repositories related to firmware, device configuration, interactions and integrations
 
-- [home-assistant](https://github.com/meshtastic/home-assistant) - Home Assistant integration for Meshtastic
-- [python](https://github.com/meshtastic/python) - Python CLI and API for interacting with Meshtastic devices
-- [node-red-contrib-meshtastic](https://github.com/meshtastic/node-red-contrib-meshtastic) - Node-RED integration for Meshtastic
-- [Meshtastic-arduino](https://github.com/meshtastic/Meshtastic-arduino) - Arduino drivers for interfacing with Meshtastic nodes over WiFi and Serial
-- [firmware-ota-wifi](https://github.com/meshtastic/firmware-ota-wifi) - WiFi-based OTA (Over The Air) firmware updates for Meshtastic devices
-- [nrf52_factory_erase](https://github.com/meshtastic/nrf52_factory_erase) - Firmware for factory erasing the nRF52 chips used in Meshtastic devices
-- [firmware-ota](https://github.com/meshtastic/firmware-ota) - BLE-OTA Mini firmware for Meshtastic devices
-- [rust](https://github.com/meshtastic/rust) - A Rust library for interacting with Meshtastic radios
-- [c-sharp](https://github.com/meshtastic/c-sharp) - C#/.NET command-line interface and library for Meshtastic
+- [home-assistant](https://gitHub.com/meshtastic/home-assistant) - Home Assistant integration for Meshtastic
+- [python](https://gitHub.com/meshtastic/python) - Python CLI and API for interacting with Meshtastic devices
+- [node-red-contrib-meshtastic](https://gitHub.com/meshtastic/node-red-contrib-meshtastic) - Node-RED integration for Meshtastic
+- [Meshtastic-arduino](https://gitHub.com/meshtastic/Meshtastic-arduino) - Arduino drivers for interfacing with Meshtastic nodes over WiFi and Serial
+- [firmware-ota-wifi](https://gitHub.com/meshtastic/firmware-ota-wifi) - WiFi-based OTA (Over The Air) firmware updates for Meshtastic devices
+- [nrf52_factory_erase](https://gitHub.com/meshtastic/nrf52_factory_erase) - Firmware for factory erasing the nRF52 chips used in Meshtastic devices
+- [firmware-ota](https://gitHub.com/meshtastic/firmware-ota) - BLE-OTA Mini firmware for Meshtastic devices
+- [rust](https://gitHub.com/meshtastic/rust) - A Rust library for interacting with Meshtastic radios
+- [c-sharp](https://gitHub.com/meshtastic/c-sharp) - C#/.NET command-line interface and library for Meshtastic
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
@@ -109,11 +109,11 @@ Repositories related to firmware, device configuration, interactions and integra
 
 For managing, simulating, and testing Meshtastic networks and devices.
 
-- [meshtasticator](https://github.com/meshtastic/meshtasticator) - Simulator for Meshtastic, supporting discrete-event and interactive simulations
-- [meshTestic](https://github.com/meshtastic/meshTestic) - End-to-end test suite for Meshtastic devices
-- [meshtastic-site-planner](https://github.com/meshtastic/meshtastic-site-planner) - Site planning tool based on RF analysis using SPLAT! software
-- [mqtt](https://github.com/meshtastic/mqtt) - MQTT broker boilerplate designed for Meshtastic’s native packet-aware MQTT support
-- [RadioHead](https://github.com/meshtastic/RadioHead) - A fork of the RadioHead library, with custom fixes for Meshtastic devices
+- [meshtasticator](https://gitHub.com/meshtastic/meshtasticator) - Simulator for Meshtastic, supporting discrete-event and interactive simulations
+- [meshTestic](https://gitHub.com/meshtastic/meshTestic) - End-to-end test suite for Meshtastic devices
+- [meshtastic-site-planner](https://gitHub.com/meshtastic/meshtastic-site-planner) - Site planning tool based on RF analysis using SPLAT! software
+- [mqtt](https://gitHub.com/meshtastic/mqtt) - MQTT broker boilerplate designed for Meshtastic’s native packet-aware MQTT support
+- [RadioHead](https://gitHub.com/meshtastic/RadioHead) - A fork of the RadioHead library, with custom fixes for Meshtastic devices
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
@@ -121,10 +121,10 @@ For managing, simulating, and testing Meshtastic networks and devices.
 
 Repos related to the hardware components and sensor integration for Meshtastic.
 
-- [antenna-reports](https://github.com/meshtastic/antenna-reports) - Community-contributed antenna testing reports and evaluations for Meshtastic devices
-- [enclosures](https://github.com/meshtastic/enclosures) - 3D models for enclosures used in Meshtastic devices
-- [i2c-sensor](https://github.com/meshtastic/i2c-sensor) - Arduino boilerplate for creating custom I2C sensors for Meshtastic
-- [ETHClass2](https://github.com/meshtastic/ETHClass2) - Provides ETHClass2 integration for Meshtastic, originally from LilyGO T-ETH series
+- [antenna-reports](https://gitHub.com/meshtastic/antenna-reports) - Community-contributed antenna testing reports and evaluations for Meshtastic devices
+- [enclosures](https://gitHub.com/meshtastic/enclosures) - 3D models for enclosures used in Meshtastic devices
+- [i2c-sensor](https://gitHub.com/meshtastic/i2c-sensor) - Arduino boilerplate for creating custom I2C sensors for Meshtastic
+- [ETHClass2](https://gitHub.com/meshtastic/ETHClass2) - Provides ETHClass2 integration for Meshtastic, originally from LilyGO T-ETH series
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
@@ -144,7 +144,7 @@ Repos related to the hardware components and sensor integration for Meshtastic.
 
 - [Official Android App on Google Play](https://play.google.com/store/apps/details?id=com.geeksville.mesh)
 - [Official Android App on F-Droid](https://f-droid.org/packages/com.geeksville.mesh/)
-- [Official Android App Sideloading via Github](https://github.com/meshtastic/Meshtastic-Android/releases/latest)
+- [Official Android App Sideloading via GitHub](https://gitHub.com/meshtastic/Meshtastic-Android/releases/latest)
 
 Official **MacOS, iPhone, and iPad** application allows you to connect to your Meshtastic device from your Apple desktop, laptop, tablet and phone via Bluetooth, Wi-Fi (if on the same network) or USB On-The-Go (OTG).
 
@@ -154,7 +154,7 @@ Official **Web Client** is a browser-based interface that allows users to manage
 
 - [Official hosted version](https://client.meshtastic.org)
 - [Served directly from an ESP32 based node](http://meshtastic.local)
-- [The source code for the Web client](https://github.com/meshtastic/web)
+- [The source code for the Web client](https://gitHub.com/meshtastic/web)
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
@@ -206,21 +206,21 @@ Reputable stores known for offering high-quality hardware, organized alphabetica
 
 - [How to Visualize Meshtastic Telemetry on Grafana](https://hackaday.io/project/202156-how-to-visualize-meshtastic-telemetry-on-grafana) - Integrates Meshtastic telemetry data with Grafana through Telemetry Harbor, enabling real-time visualization and analysis of device metrics and location data.
 
-- [MultiMesh](https://github.com/paulocode/multimesh) - The source code for a cross-platform Meshtastic mobile app for iOS and Android, built using Flutter.
+- [MultiMesh](https://gitHub.com/paulocode/multimesh) - The source code for a cross-platform Meshtastic mobile app for iOS and Android, built using Flutter.
 
-- [MeshLink (Beta)](https://github.com/Murturtle/MeshLinkBeta) - A Python-based tool that bridges Meshtastic and Discord, offering messaging, mesh data sharing, and plugin-driven mesh-only features like weather, ping, and HF condition checks.
+- [MeshLink (Beta)](https://gitHub.com/Murturtle/MeshLinkBeta) - A Python-based tool that bridges Meshtastic and Discord, offering messaging, mesh data sharing, and plugin-driven mesh-only features like weather, ping, and HF condition checks.
 
-- [The Harbor Meshtastic Integration](https://github.com/TelemetryHarbor/harbor-meshtastic) - Seamlessly connect your Meshtastic device to Telemetry Harbor to stream and visualize telemetry data with Grafana.
+- [The Harbor Meshtastic Integration](https://gitHub.com/TelemetryHarbor/harbor-meshtastic) - Seamlessly connect your Meshtastic device to Telemetry Harbor to stream and visualize telemetry data with Grafana.
 
-- [Meshtastic Web API](https://github.com/bmswens/Meshtastic-Web-API) - A RESTful interface to interact with a Meshtastic node via a serial connection.
+- [Meshtastic Web API](https://gitHub.com/bmswens/Meshtastic-Web-API) - A RESTful interface to interact with a Meshtastic node via a serial connection.
 
-- [Mesh Metrics](https://github.com/cordelster/mesh-metrics) - Poll Meshtastic repeaters over the mesh network without internet access, using this script with Prometheus-compatible monitoring setups.
+- [Mesh Metrics](https://gitHub.com/cordelster/mesh-metrics) - Poll Meshtastic repeaters over the mesh network without internet access, using this script with Prometheus-compatible monitoring setups.
 
-- [Node-RED Messages Node](https://github.com/danpeig/node-red-meshtastic-msg) - It allows sending and receiving packets to a Meshtastic mesh network thru a device connected via HTTP.
+- [Node-RED Messages Node](https://gitHub.com/danpeig/node-red-meshtastic-msg) - It allows sending and receiving packets to a Meshtastic mesh network thru a device connected via HTTP.
 
-- [Connect - A Nodeless MQTT Client for Meshtastic](https://github.com/pdxlocations/connect) - A standalone Python client for communicating with Meshtastic devices via MQTT
+- [Connect - A Nodeless MQTT Client for Meshtastic](https://gitHub.com/pdxlocations/connect) - A standalone Python client for communicating with Meshtastic devices via MQTT
 
-- [Contact - A Console UI for Meshtastic](https://github.com/pdxlocations/contact) - A terminal-based Python chat and configuration client for Meshtastic devices.
+- [Contact - A Console UI for Meshtastic](https://gitHub.com/pdxlocations/contact) - A terminal-based Python chat and configuration client for Meshtastic devices.
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
@@ -260,7 +260,7 @@ These aren't directly related to Meshtastic but may inspire you.
 
 - [Official Discord Server](https://discord.com/invite/ktMAKGBnBs)
 - [Official Facebook](https://facebook.com/themeshtastic)
-- [Official Github Discussions](https://github.com/orgs/meshtastic/discussions)
+- [Official GitHub Discussions](https://gitHub.com/orgs/meshtastic/discussions)
 - [Official Instagram](https://www.instagram.com/themeshtastic/)
 - [Official Mastodon](https://mastodon.social/@meshtastic)
 - [Official Reddit](https://www.reddit.com/r/meshtastic/)
@@ -284,7 +284,7 @@ A list of groups that have been actively setting up Meshtastic networks in their
 
 ### 🇦🇷Argentina
 
-- [Meshtastic Argentina Community](https://github.com/Meshtastic-Argentina/) - <sub><sup>(Github)</sup></sub>
+- [Meshtastic Argentina Community](https://gitHub.com/Meshtastic-Argentina/) - <sub><sup>(GitHub)</sup></sub>
 - [Meshtastic Argentina Community](https://t.me/meshtastic_argentina) - <sub><sup>(Telegram)</sup></sub>
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
@@ -297,13 +297,13 @@ A list of groups that have been actively setting up Meshtastic networks in their
   - [Canberra Meshtastic Community](https://discord.com/invite/4QgFsuaC3Z) - <sub><sup>(Discord)</sup></sub>
 - New South Wales
   - [Meshtastic & Meshcore Sydney Community](https://www.facebook.com/groups/1041534027106861) - <sub><sup>(Facebook)</sup></sub>
-  - [Sydney and Greater NSW Community](https://github.com/orgs/meshtastic/discussions/10) - <sub><sup>(Github Discussions)</sup></sub>
+  - [Sydney and Greater NSW Community](https://gitHub.com/orgs/meshtastic/discussions/10) - <sub><sup>(GitHub Discussions)</sup></sub>
 - Queensland
   - [Meshtastic Brisbane User Group](https://discord.com/invite/rN66wEedMY) - <sub><sup>(Discord)</sup></sub>
 - Tasmania
   - [Meshtastic User Group Tasmania](https://www.facebook.com/groups/1556630645195649) - <sub><sup>(Facebook)</sup></sub>
 - Victoria
-  - [Melbourne Meshtastic Users, Australia](https://github.com/orgs/meshtastic/discussions/7) - <sub><sup>(Github Discussions)</sup></sub>
+  - [Melbourne Meshtastic Users, Australia](https://gitHub.com/orgs/meshtastic/discussions/7) - <sub><sup>(GitHub Discussions)</sup></sub>
   - [Meshtastic Victoria](https://www.facebook.com/groups/meshtasticvictoria) - <sub><sup>(Facebook)</sup></sub>
   - [VicMesh - r/VicMesh](https://www.reddit.com/r/VicMesh/) - <sub><sup>(Reddit)</sup></sub>
 
@@ -395,7 +395,7 @@ A list of groups that have been actively setting up Meshtastic networks in their
 ### 🇫🇮Finland
 
 - [Mesh Finland](https://discord.com/invite/GHnaVAjqed) - <sub><sup>(Discord)</sup></sub>
-- [Mesh Finland](https://mesh-finland.github.io) - <sub><sup>(Website)</sup></sub>
+- [Mesh Finland](https://mesh-finland.gitHub.io) - <sub><sup>(Website)</sup></sub>
 - [MeshAbout](https://www.meshabout.fi/) - <sub><sup>(Discord)</sup></sub>
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
@@ -551,7 +551,7 @@ A list of groups that have been actively setting up Meshtastic networks in their
 - [Meshtastic Chernivtsi](https://t.me/mestastic_ua_chernivtsi) - <sub><sup>(Telegram)</sup></sub>
 - [Meshtastic Lviv](https://t.me/meshtastic_lviv ) - <sub><sup>(Telegram)</sup></sub>
 - [Meshtastic Odessa](https://t.me/messtastic_ua_odesa) - <sub><sup>(Telegram)</sup></sub>
-- [Meshtastic Ukraine](https://github.com/meshtastic-ua) - <sub><sup>(Github)</sup></sub>
+- [Meshtastic Ukraine](https://gitHub.com/meshtastic-ua) - <sub><sup>(GitHub)</sup></sub>
 - [Meshtastic Ukraine](https://t.me/meshtastic_ua) - <sub><sup>(Telegram)</sup></sub>
 - [Mykolaiv Mesh](https://mesh.mk.ua/) - <sub><sup>(Website)</sup></sub>
 - ~~WiKi Meshtastic UA~~ - [Archived](https://web.archive.org/web/20241012101501/https://wikimesh.pp.ua/uk/home)
@@ -607,7 +607,7 @@ A list of groups that have been actively setting up Meshtastic networks in their
   - [Space Coast Mesh](https://scmesh.org/)
   - [JAXMesh](https://jaxmesh.com/)
   - [Florida Mesh](https://areyoumeshingwith.us/) - <sub><sup>(Website)</sup></sub>
-  - [Florida Mesh](https://github.com/flmesh) - <sub><sup>(Github)</sup></sub>
+  - [Florida Mesh](https://gitHub.com/flmesh) - <sub><sup>(GitHub)</sup></sub>
   - [Florida Mesh](https://discord.gg/floridamesh) - <sub><sup>(Discord)</sup></sub>
   - [Meshtastic Florida](https://www.reddit.com/r/Meshtastic_Florida/) - <sub><sup>(Reddit)</sup></sub>
 - Georgia
@@ -626,9 +626,9 @@ A list of groups that have been actively setting up Meshtastic networks in their
 - Kansas
   - [SecKC Amateur Radio Club of Kansas City and Surrounding Cities for Amateur Radio](https://ks3ckc.radio/meshtastic) - <sub><sup>(Website)</sup></sub>
 - Maine
-  - [Maine Mesh](https://github.com/JFRHorton/MaineMesh)
+  - [Maine Mesh](https://gitHub.com/JFRHorton/MaineMesh)
 - Massachusetts
-  - [Boston Meshnet](https://github.com/Darachnid/Boston-Meshnet)
+  - [Boston Meshnet](https://gitHub.com/Darachnid/Boston-Meshnet)
   - [Pioneer Valley Meshtastic Network](https://pvmesh.org)
   - [SouthCoast Mesh](https://southcoastmesh.com)
 - Michigan
