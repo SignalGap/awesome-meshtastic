@@ -4,7 +4,7 @@
 
 This is a curated list of useful resources, tools, tutorials, projects, and community contributions related to the Meshtastic open-source mesh communication project. Whether you're a beginner or advanced user, this list helps you explore and get the most out of your Meshtastic devices.
 
-## Table of Contents
+## Contents
 
 - [Official Source Code Repositories](#official-source-code-repositories)
   - [Core Repositories](#core-repositories)
@@ -70,73 +70,66 @@ This is a curated list of useful resources, tools, tutorials, projects, and comm
 
 These repositories are at the heart of the Meshtastic project, containing firmware, APIs, and other essential code.
 
-- [firmware](https://gitHub.com/meshtastic/firmware) - Meshtastic device firmware
-- [protobufs](https://gitHub.com/meshtastic/protobufs) - Protobuf definitions for Meshtastic
-- [web-flasher](https://gitHub.com/meshtastic/web-flasher) - Online flasher for Meshtastic device firmware
-- [meshtastic](https://gitHub.com/meshtastic/meshtastic) - Meshtastic project website and documentation
-- [api](https://gitHub.com/meshtastic/api) - Meshtastic Website API
+- [firmware](https://gitHub.com/meshtastic/firmware) - Meshtastic device firmware.
+- [protobufs](https://gitHub.com/meshtastic/protobufs) - Protobuf definitions for Meshtastic.
+- [web-flasher](https://gitHub.com/meshtastic/web-flasher) - Online flasher for Meshtastic device firmware.
+- [meshtastic](https://gitHub.com/meshtastic/meshtastic) - Meshtastic project website and documentation.
+- [api](https://gitHub.com/meshtastic/api) - Meshtastic Website API.
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### Mobile, Web and Desktop Clients
 
 These repositories offer various client applications for different platforms.
 
-- [web](https://gitHub.com/meshtastic/web) - Meshtastic Web Client
-- [Meshtastic-Apple](https://gitHub.com/meshtastic/Meshtastic-Apple) - iOS, iPadOS & macOS Clients for Meshtastic
-- [Meshtastic-Android](https://gitHub.com/meshtastic/Meshtastic-Android) - Android app for Meshtastic
-- [network-management-client](https://gitHub.com/meshtastic/network-management-client) - Desktop client for offline deployment and mesh network management
+- [web](https://gitHub.com/meshtastic/web) - Meshtastic Web Client.
+- [Meshtastic-Apple](https://gitHub.com/meshtastic/Meshtastic-Apple) - iOS, iPadOS & macOS Clients for Meshtastic.
+- [Meshtastic-Android](https://gitHub.com/meshtastic/Meshtastic-Android) - Android app for Meshtastic.
+- [network-management-client](https://gitHub.com/meshtastic/network-management-client) - Desktop client for offline deployment and mesh network management.
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### Device Interaction and Integrations
 
 Repositories related to firmware, device configuration, interactions and integrations
 
-- [home-assistant](https://gitHub.com/meshtastic/home-assistant) - Home Assistant integration for Meshtastic
-- [python](https://gitHub.com/meshtastic/python) - Python CLI and API for interacting with Meshtastic devices
-- [node-red-contrib-meshtastic](https://gitHub.com/meshtastic/node-red-contrib-meshtastic) - Node-RED integration for Meshtastic
-- [Meshtastic-arduino](https://gitHub.com/meshtastic/Meshtastic-arduino) - Arduino drivers for interfacing with Meshtastic nodes over WiFi and Serial
-- [firmware-ota-wifi](https://gitHub.com/meshtastic/firmware-ota-wifi) - WiFi-based OTA (Over The Air) firmware updates for Meshtastic devices
-- [nrf52_factory_erase](https://gitHub.com/meshtastic/nrf52_factory_erase) - Firmware for factory erasing the nRF52 chips used in Meshtastic devices
-- [firmware-ota](https://gitHub.com/meshtastic/firmware-ota) - BLE-OTA Mini firmware for Meshtastic devices
-- [rust](https://gitHub.com/meshtastic/rust) - A Rust library for interacting with Meshtastic radios
-- [c-sharp](https://gitHub.com/meshtastic/c-sharp) - C#/.NET command-line interface and library for Meshtastic
+- [home-assistant](https://gitHub.com/meshtastic/home-assistant) - Home Assistant integration for Meshtastic.
+- [python](https://gitHub.com/meshtastic/python) - Python CLI and API for interacting with Meshtastic devices.
+- [node-red-contrib-meshtastic](https://gitHub.com/meshtastic/node-red-contrib-meshtastic) - Node-RED integration for Meshtastic.
+- [Meshtastic-arduino](https://gitHub.com/meshtastic/Meshtastic-arduino) - Arduino drivers for interfacing with Meshtastic nodes over WiFi and Serial.
+- [firmware-ota-wifi](https://gitHub.com/meshtastic/firmware-ota-wifi) - WiFi-based OTA (Over The Air) firmware updates for Meshtastic devices.
+- [nrf52_factory_erase](https://gitHub.com/meshtastic/nrf52_factory_erase) - Firmware for factory erasing the nRF52 chips used in Meshtastic devices.
+- [firmware-ota](https://gitHub.com/meshtastic/firmware-ota) - BLE-OTA Mini firmware for Meshtastic devices.
+- [rust](https://gitHub.com/meshtastic/rust) - A Rust library for interacting with Meshtastic radios.
+- [c-sharp](https://gitHub.com/meshtastic/c-sharp) - C#/.NET command-line interface and library for Meshtastic.
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### Tools & Utilities
 
 For managing, simulating, and testing Meshtastic networks and devices.
 
-- [meshtasticator](https://gitHub.com/meshtastic/meshtasticator) - Simulator for Meshtastic, supporting discrete-event and interactive simulations
-- [meshTestic](https://gitHub.com/meshtastic/meshTestic) - End-to-end test suite for Meshtastic devices
-- [meshtastic-site-planner](https://gitHub.com/meshtastic/meshtastic-site-planner) - Site planning tool based on RF analysis using SPLAT! software
-- [mqtt](https://gitHub.com/meshtastic/mqtt) - MQTT broker boilerplate designed for Meshtastic’s native packet-aware MQTT support
-- [RadioHead](https://gitHub.com/meshtastic/RadioHead) - A fork of the RadioHead library, with custom fixes for Meshtastic devices
+- [meshtasticator](https://gitHub.com/meshtastic/meshtasticator) - Simulator for Meshtastic, supporting discrete-event and interactive simulations.
+- [meshTestic](https://gitHub.com/meshtastic/meshTestic) - End-to-end test suite for Meshtastic devices.
+- [meshtastic-site-planner](https://gitHub.com/meshtastic/meshtastic-site-planner) - Site planning tool based on RF analysis using SPLAT! software.
+- [mqtt](https://gitHub.com/meshtastic/mqtt) - MQTT broker boilerplate designed for Meshtastic's native packet-aware MQTT support.
+- [RadioHead](https://gitHub.com/meshtastic/RadioHead) - A fork of the RadioHead library, with custom fixes for Meshtastic devices.
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### Hardware and Sensors
 
 Repos related to the hardware components and sensor integration for Meshtastic.
 
-- [antenna-reports](https://gitHub.com/meshtastic/antenna-reports) - Community-contributed antenna testing reports and evaluations for Meshtastic devices
-- [enclosures](https://gitHub.com/meshtastic/enclosures) - 3D models for enclosures used in Meshtastic devices
-- [i2c-sensor](https://gitHub.com/meshtastic/i2c-sensor) - Arduino boilerplate for creating custom I2C sensors for Meshtastic
-- [ETHClass2](https://gitHub.com/meshtastic/ETHClass2) - Provides ETHClass2 integration for Meshtastic, originally from LilyGO T-ETH series
+- [antenna-reports](https://gitHub.com/meshtastic/antenna-reports) - Community-contributed antenna testing reports and evaluations for Meshtastic devices.
+- [enclosures](https://gitHub.com/meshtastic/enclosures) - 3D models for enclosures used in Meshtastic devices.
+- [i2c-sensor](https://gitHub.com/meshtastic/i2c-sensor) - Arduino boilerplate for creating custom I2C sensors for Meshtastic.
+- [ETHClass2](https://gitHub.com/meshtastic/ETHClass2) - Provides ETHClass2 integration for Meshtastic, originally from LilyGO T-ETH series.
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ## How Tos
 
 - [Meshtastic for Makers](https://www.youtube.com/watch?v=qjJIVBOWvfc&list=PLPK2l9Knytg6jzOfcqk5y0iBH48ZATVVD) - A 1-hour video course that teaches you how to use the LoRa-powered Meshtastic network to wirelessly send data with microcontrollers, covering setup, sensor data transmission, hardware control, and MQTT integration for long-range maker projects.
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ## Applications
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### Official Apps
 
@@ -154,9 +147,6 @@ Official **Web Client** is a browser-based interface that allows users to manage
 
 - [Official hosted version](https://client.meshtastic.org)
 - [Served directly from an ESP32 based node](http://meshtastic.local)
-- [The source code for the Web client](https://gitHub.com/meshtastic/web)
-
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### Community Apps
 
@@ -172,7 +162,6 @@ Official **Web Client** is a browser-based interface that allows users to manage
 
 - [MeshChess on Google Play](https://play.google.com/store/apps/details?id=com.specfive.chess)
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ## Hardware Stores
 
@@ -194,13 +183,12 @@ Reputable stores known for offering high-quality hardware, organized alphabetica
 
 - [Rokland Technologies](https://store.rokland.com) - <sub><sup>(Gainesville, Florida, USA)</sup></sub> Specializes in Meshtastic, LoRaWAN, Wi-Fi, and 4G/5G solutions, and is North America's largest authorized distributor for ALFA Network and RAKwireless products.
 
-- [Seeed Studio®](https://www.seeedstudio.com) - <sub><sup>(Shenzhen, Guangdong, China)</sup></sub> Specializes in IoT hardware, open-source modules, edge computing devices, and agile manufacturing services
+- [Seeed Studio®](https://www.seeedstudio.com) - <sub><sup>(Shenzhen, Guangdong, China)</sup></sub> Specializes in IoT hardware, open-source modules, edge computing devices, and agile manufacturing services.
 
-- [Spec<sup>5</sup>](https://specfive.com) - <sub><sup>(Florence, Texas, USA)</sup></sub> Specializes in advanced off-grid communication solutions, offering Meshtastic-enabled devices and mesh networking tools
+- [Spec5](https://specfive.com) - <sub><sup>(Florence, Texas, USA)</sup></sub> Specializes in advanced off-grid communication solutions, offering Meshtastic-enabled devices and mesh networking tools.
 
 - [Yeti Wurks](https://www.yetiwurks.com) - <sub><sup>(Blaine, Minnesota, USA)</sup></sub> Specializes in custom firearm accessories for platforms like the CZ Scorpion Evo III, and has recently expanded into off-grid communication solutions with Meshtastic-compatible devices.
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ## Software Projects
 
@@ -218,17 +206,15 @@ Reputable stores known for offering high-quality hardware, organized alphabetica
 
 - [Node-RED Messages Node](https://gitHub.com/danpeig/node-red-meshtastic-msg) - It allows sending and receiving packets to a Meshtastic mesh network thru a device connected via HTTP.
 
-- [Connect - A Nodeless MQTT Client for Meshtastic](https://gitHub.com/pdxlocations/connect) - A standalone Python client for communicating with Meshtastic devices via MQTT
+- [Connect - A Nodeless MQTT Client for Meshtastic](https://gitHub.com/pdxlocations/connect) - A standalone Python client for communicating with Meshtastic devices via MQTT.
 
 - [Contact - A Console UI for Meshtastic](https://gitHub.com/pdxlocations/contact) - A terminal-based Python chat and configuration client for Meshtastic devices.
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ## Hardware Projects
 
 - [A Major Solution to a Miner Problem](https://meshtastic.org/blog/a-major-solution-to-a-miner-problem/) - How to repurpose an unused LoRa-based cryptocurrency mining device into functional Meshtastic node.
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### Solar Powered Hardware Projects
 
@@ -242,7 +228,6 @@ Reputable stores known for offering high-quality hardware, organized alphabetica
 
 - [MeshTIEstick: The Wearable LoRa Meshtastic Node](https://www.youtube.com/watch?v=2Wf6BcZS3AY) - Turning a necktie into a fully functional mesh node.
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### Inspiring Hardware Projects
 
@@ -250,11 +235,9 @@ These aren't directly related to Meshtastic but may inspire you.
 
 - [ARMAWATCH & ARMACHAT - long range radio messengers](https://hackaday.io/project/171790-armawatch-armachat-long-range-radio-messengers) - Long-range radio communicator featuring a QWERTY keyboard, LoRa connectivity, and a color display, designed for off-grid messaging and disaster resilience.
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ## Communities
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### Official Community
 
@@ -268,26 +251,22 @@ These aren't directly related to Meshtastic but may inspire you.
 - [Official X (formar Twitter)](https://x.com/TheMeshtastic)
 - [Official YouTube](https://www.youtube.com/@Meshtastic)
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### Unofficial Communities
 
 - [Meshtastic - English](https://t.me/meshtastic_eng) - <sub><sup>(Telegram)</sup></sub>
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ## Local Groups
 
 A list of groups that have been actively setting up Meshtastic networks in their respective regions. For the official list of local groups, visit: [Meshtastic Local Groups](https://meshtastic.org/docs/community/local-groups/).
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇦🇷Argentina
 
 - [Meshtastic Argentina Community](https://gitHub.com/Meshtastic-Argentina/) - <sub><sup>(GitHub)</sup></sub>
 - [Meshtastic Argentina Community](https://t.me/meshtastic_argentina) - <sub><sup>(Telegram)</sup></sub>
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇦🇺Australia
 
@@ -307,33 +286,28 @@ A list of groups that have been actively setting up Meshtastic networks in their
   - [Meshtastic Victoria](https://www.facebook.com/groups/meshtasticvictoria) - <sub><sup>(Facebook)</sup></sub>
   - [VicMesh - r/VicMesh](https://www.reddit.com/r/VicMesh/) - <sub><sup>(Reddit)</sup></sub>
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇦🇹Austria
 
 - [Meshtastic Austria](https://meshtastic.at) - <sub><sup>(Website)</sup></sub>
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇧🇷Brazil
 
 - [Meshtastic Community Brazil](https://t.me/meshtastic_br) - <sub><sup>(Telegram)</sup></sub>
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇧🇬Bulgaria
 
 - [Meshtastic Community Bulgaria](https://facebook.com/groups/meshtasticbulgaria) - <sub><sup>(Facebook)</sup></sub>
 - [Burgas Mesh](https://discord.gg/Kbs233rmq3) - <sub><sup>(Discord)</sup></sub>
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇧🇪Belgium
 
 - [Meshtastic BE](https://www.facebook.com/groups/368474532644811/) - <sub><sup>(Facebook)</sup></sub>
 - [ON-tastic (433MHz)](https://www.facebook.com/groups/1159312151703920) - <sub><sup>(Facebook)</sup></sub>
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇨🇦Canada
 
@@ -371,26 +345,22 @@ A list of groups that have been actively setting up Meshtastic networks in their
   - [Mesht Saskatchewan](https://t.me/MeshtSaska) - <sub><sup>(Telegram)</sup></sub>
   - [Meshtastic Saskatoon](https://www.facebook.com/groups/1870643856678060/) - <sub><sup>(Facebook)</sup></sub>
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇨🇳China
 
 - [Meshtastic 中国社区](https://meshcn.net)
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇨🇴Colombia
 
 - [Meshtastic Colombia Community](https://meshcolombia.co) - <sub><sup>(Website)</sup></sub>
 - [Meshtastic Users Colombia](https://t.me/meshtasticco) - <sub><sup>(Telegram)</sup></sub>
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### Denmark
 
 - [Danske Meshtastic Brugere](https://discord.gg/EXWWwDmfBN)
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇫🇮Finland
 
@@ -398,7 +368,6 @@ A list of groups that have been actively setting up Meshtastic networks in their
 - [Mesh Finland](https://mesh-finland.gitHub.io) - <sub><sup>(Website)</sup></sub>
 - [MeshAbout](https://www.meshabout.fi/) - <sub><sup>(Discord)</sup></sub>
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇫🇷France
 
@@ -406,7 +375,6 @@ A list of groups that have been actively setting up Meshtastic networks in their
 - [Collectif Meshtastic France](https://www.facebook.com/groups/meshtastic.france) - <sub><sup>(Facebook)</sup></sub>
 - [Réseau Gaulix](https://t.me/+bkCEaiI-i-Q2ZTBk) - <sub><sup>(Telegram)</sup></sub>
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇩🇪Germany
 
@@ -416,71 +384,60 @@ A list of groups that have been actively setting up Meshtastic networks in their
 - [Mesh Hessen](https://t.me/Mesh_Hessen) - <sub><sup>(Telegram)</sup></sub>
 - [Meshtastic Users Hannover](https://discord.gg/eEnDkQKEFJ) - <sub><sup>(Discord)</sup></sub>
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇮🇳India
 
 - [Bir Paragliding Community](https://bircom.in)
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇮🇱Israel
 
 - [Israel Meshtastic Club](https://www.mesh-il.com)
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇮🇹Italy
 
 - [Meshtastic Italia Community](https://t.me/meshtastic_italia_community) - <sub><sup>(Telegram)</sup></sub>
 - [Mesh_ITA](https://discord.gg/ETFmtyzbFT) - <sub><sup>(Discord)</sup></sub>
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇯🇵Japan
 
 - [Meshtastic Japan Community](https://www.facebook.com/share/g/BQCGxZhw9SxFQja8/?mibextid=K35XfP) - <sub><sup>(Facebook)</sup></sub>
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇱🇻Latvia
 
 - ~~Meshtastic Latvija~~ [Archived](https://web.archive.org/web/20250125044231/https://mesh.dodies.lv/)
 - [Meshtastic Latvija Matrix Space](https://matrix.to/#/#meshtastic-lv:matrix.org)
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇱🇹Lithuania
 
 - [Meshtastic Lietuva](https://www.facebook.com/groups/1122509422249414) - <sub><sup>(Facebook)</sup></sub>
 - [LithMesh Signal Group](https://signal.group/#CjQKIBScbOkXSG2bkFh_omdxjOM-XqYIU4eERDmGEDrm3jjmEhDyZhh-EeCLSfjfV-DoPvEQ)
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇲🇾Malaysia
 
 - [Meshtastic Malaysia Community](https://linktr.ee/meshtastic)
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇲🇽Mexico
 
 - [Meshtastic Mexico Community](https://radioaficionados.mx/meshtastic)
 - [Meshtastic User Group Mexico (MUG-Mexico)](https://t.me/meshtastic_mexico) - <sub><sup>(Telegram)</sup></sub>
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇳🇱Netherlands
 
 - [MeshNet Meshtastic Community](https://www.meshnet.nl/) - <sub><sup>(Website)</sup></sub>
 - [Meshtastic Netherlands](https://t.me/meshtastic_nl) - <sub><sup>(Telegram)</sup></sub>
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇳🇿New Zealand
 
 - [New Zealand Meshtastic Community](https://discord.gg/xb9bBZJUpz) - <sub><sup>(Discord)</sup></sub>
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇵🇱Poland
 
@@ -489,33 +446,28 @@ A list of groups that have been actively setting up Meshtastic networks in their
   - [Meshtastic Warszawa](https://tinyurl.com/waw-signal) - <sub><sup>(Signal)</sup></sub>
   - [Meshtastic Warszawa](https://wiki.868.band/Home) - <sub><sup>(Website)</sup></sub>
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇵🇹Portugal
 
 - [Comunidade Meshtastic Portugal](https://t.me/comunidademeshtasticpt) - <sub><sup>(Telegram)</sup></sub>
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇸🇮Slovenia
 
 - [MeshNet.si](https://meshnet.si)
 - [Slovenian Amateur Radio](https://discord.gg/uHDDE734DD) - <sub><sup>(Discord)</sup></sub>
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇿🇦South Africa
 
 - [Meshtastic ZA](https://discord.gg/tKGFwFYvsT) - <sub><sup>(Discord)</sup></sub>
 - [ZA Mesh](https://mesh.zr1rf.za.net/)
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇪🇸Spain
 
 - [Meshtastic Spanish Community](https://t.me/meshtastic_esp) - <sub><sup>(Telegram)</sup></sub>
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇸🇪Sweden
 
@@ -524,14 +476,12 @@ A list of groups that have been actively setting up Meshtastic networks in their
 - [Stockholm Mesh](https://sthlm-mesh.se) - <sub><sup>(Website)</sup></sub>
 - [Sweden Mesh](https://www.meshat.se) - <sub><sup>(Website)</sup></sub>
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇹🇼Taiwan
 
 - [Meshtastic Taiwan Community 臺灣鏈網](https://www.facebook.com/groups/413628121046386) - <sub><sup>(Facebook)</sup></sub>
 - [Meshtastic Taiwan Community 臺灣鏈網](https://discord.gg/2vZkuckp8E) - <sub><sup>(Discord)</sup></sub>
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇹🇷Türkiye
 
@@ -544,7 +494,6 @@ A list of groups that have been actively setting up Meshtastic networks in their
 - [TrMesh.org](https://t.me/trmesh) - <sub><sup>(Telegram)</sup></sub>
 - ~~TRMesh~~ - [Archived](https://web.archive.org/web/20241207225721/http://trmesh.org/) - <sub><sup>(Website)</sup></sub>
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇺🇦Ukraine
 
@@ -556,7 +505,6 @@ A list of groups that have been actively setting up Meshtastic networks in their
 - [Mykolaiv Mesh](https://mesh.mk.ua/) - <sub><sup>(Website)</sup></sub>
 - ~~WiKi Meshtastic UA~~ - [Archived](https://web.archive.org/web/20241012101501/https://wikimesh.pp.ua/uk/home)
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇬🇧United Kingdom
 
@@ -566,7 +514,6 @@ A list of groups that have been actively setting up Meshtastic networks in their
 - [Swansea Meshtastic Group / Meshtastic Wales](https://swansea.localmesh.org/)
 - [UK Meshtastic Berkshire](https://www.facebook.com/groups/1083395923209693) - <sub><sup>(Facebook)</sup></sub>
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ### 🇺🇸United States
 
@@ -686,13 +633,11 @@ A list of groups that have been actively setting up Meshtastic networks in their
 - Washington DC
   - [DC Mesh](https://dcmesh.org)
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ## 🤝Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ## 📝License
 
@@ -700,7 +645,6 @@ This Awesome Meshtastic List is licensed under the [Creative Commons Zero (CC0) 
 
 You are free to copy, modify, and distribute this list, even for commercial purposes, without asking permission.
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
 ## 📢Trademark Notice
 
@@ -708,4 +652,3 @@ Meshtastic&reg; is a registered trademark of Meshtastic LLC. This project is not
 
 All trademarks, service marks, and company names are the property of their respective owners.
 
-⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
