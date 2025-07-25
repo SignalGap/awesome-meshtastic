@@ -364,6 +364,7 @@ A list of groups that have been actively setting up Meshtastic networks in their
 
 ### 🇨🇴Colombia
 
+- [Meshtastic Colombia Community](https://meshcolombia.co) - <sub><sup>(Website)</sup></sub>
 - [Meshtastic Users Colombia](https://t.me/meshtasticco) - <sub><sup>(Telegram)</sup></sub>
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
@@ -555,6 +556,7 @@ A list of groups that have been actively setting up Meshtastic networks in their
 - [Mountain Mesh (North GA / East TN)](https://mtnme.sh)
 - [DMV (DC-MD-VA) Mesh](https://www.reddit.com/r/Meshtastic_DMV_Users/)
 - Alabama
+  - [Alabama Meshtastic Community](https://discord.gg/HdK9Rhr2ch) - <sub><sup>(Discord)</sup></sub>
   - [Birmingham Mesh](https://birminghammesh.org/)
 - Arizona
   - [Tucson Meshtastic Community](https://discord.gg/7MzbMMd2kg) - <sub><sup>(Discord)</sup></sub>
