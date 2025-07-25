@@ -31,6 +31,7 @@ This is a curated list of useful resources, tools, tutorials, projects, and comm
   - 🇦🇹 [Austria](#austria)
   - 🇧🇷 [Brazil](#brazil)
   - 🇧🇬 [Bulgaria](#bulgaria)
+  - 🇧🇪 [Belgium](#belgium)
   - 🇨🇦 [Canada](#canada)
   - 🇨🇳 [China](#china)
   - 🇨🇴 [Colombia](#colombia)
@@ -324,6 +325,13 @@ A list of groups that have been actively setting up Meshtastic networks in their
 
 - [Meshtastic Community Bulgaria](https://facebook.com/groups/meshtasticbulgaria) - <sub><sup>(Facebook)</sup></sub>
 - [Burgas Mesh](https://discord.gg/Kbs233rmq3) - <sub><sup>(Discord)</sup></sub>
+
+⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
+
+### 🇧🇪Belgium
+
+- [Meshtastic BE](https://www.facebook.com/groups/368474532644811/) - <sub><sup>(Facebook)</sup></sub>
+- [ON-tastic (433MHz)](https://www.facebook.com/groups/1159312151703920) - <sub><sup>(Facebook)</sup></sub>
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
