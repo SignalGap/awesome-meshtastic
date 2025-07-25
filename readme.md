@@ -596,6 +596,10 @@ A list of groups that have been actively setting up Meshtastic networks in their
 - Illinois
   - [Chicagoland Mesh](https://chicagolandmesh.org)
   - [Clark County Illinois Meshtastic Network](https://clarkcountyill.localmesh.org/)
+- Indiana
+  - [Indiana Mesh](https://discord.gg/qHH6E84wFg)
+  - [Indiana Mesh Facebook](https://www.facebook.com/share/g/1Gbm8Sujgm/)
+  - [B-Town Mesh (Bloomington Area)](https://btownmesh.org)
 - Iowa
   - [Iowa Mesh](https://iowamesh.org)
 - Kansas
