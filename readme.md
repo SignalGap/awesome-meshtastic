@@ -589,6 +589,8 @@ A list of groups that have been actively setting up Meshtastic networks in their
   - [Colorado Springs Meshtastic Network](https://www.facebook.com/groups/cosmeshtastic) - <sub><sup>(Facebook)</sup></sub>
 - Connecticut
   - [CT Mesh](https://ctmesh.org)
+- Delaware
+  - [Delaware Meshtastic User Group](https://deme.sh) - <sub><sup>(Website)</sup></sub>
 - Florida
   - [Space Coast Mesh](https://scmesh.org/)
   - [JAXMesh](https://jaxmesh.com/)
