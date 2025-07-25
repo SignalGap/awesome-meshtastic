@@ -28,6 +28,7 @@ This is a curated list of useful resources, tools, tutorials, projects, and comm
 - [Local Groups](#local-groups)
   - 🇦🇷 [Argentina](#argentina)
   - 🇦🇺 [Australia](#australia)
+  - 🇦🇹 [Austria](#austria)
   - 🇧🇷 [Brazil](#brazil)
   - 🇧🇬 [Bulgaria](#bulgaria)
   - 🇨🇦 [Canada](#canada)
@@ -302,6 +303,12 @@ A list of groups that have been actively setting up Meshtastic networks in their
   - [Melbourne Meshtastic Users, Australia](https://github.com/orgs/meshtastic/discussions/7) - <sub><sup>(Github Discussions)</sup></sub>
   - [Meshtastic Victoria](https://www.facebook.com/groups/meshtasticvictoria) - <sub><sup>(Facebook)</sup></sub>
   - [VicMesh - r/VicMesh](https://www.reddit.com/r/VicMesh/) - <sub><sup>(Reddit)</sup></sub>
+
+⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
+
+### 🇦🇹Austria
+
+- [Meshtastic Austria](https://meshtastic.at) - <sub><sup>(Website)</sup></sub>
 
 ⇡ [<sub><sup>Table of Contents</sup></sub>](#table-of-contents)
 
