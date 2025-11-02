@@ -50,7 +50,7 @@ This is a curated list of useful resources, tools, tutorials, projects, and comm
   - 🇳🇱 [Netherlands](#netherlands)
   - 🇳🇿 [New Zealand](#new-zealand)
   - 🇵🇱 [Poland](#poland)
-  - 🇵🇹 [Portugal](#ortugal)
+  - 🇵🇹 [Portugal](#portugal)
   - 🇸🇮 [Slovenia](#slovenia)
   - 🇿🇦 [South Africa](#south-africa)
   - 🇪🇸 [Spain](#spain)
@@ -448,8 +448,10 @@ A list of groups that have been actively setting up Meshtastic networks in their
 
 
 ### 🇵🇹Portugal
-
+- [Meshtastic PT](https://meshtastic.pt) - <sub><sup>(Website)</sup></sub>
 - [Comunidade Meshtastic Portugal](https://t.me/comunidademeshtasticpt) - <sub><sup>(Telegram)</sup></sub>
+- [Mapa Meshtastic PT](https://meshtastic.pt/map) - <sub><sup>(Nodes map)</sup></sub>
+- [Malha Meshtastic.PT](https://malha.meshtastic.pt) - <sub><sup>(Nodes dashboards and analysis)</sup></sub>
 
 
 ### 🇸🇮Slovenia
