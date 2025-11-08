@@ -275,6 +275,7 @@ A list of groups that have been actively setting up Meshtastic networks in their
   - [Canberra Meshtastic Community](https://www.meshcanberra.com/) - <sub><sup>(Website)</sup></sub>
   - [Canberra Meshtastic Community](https://discord.com/invite/4QgFsuaC3Z) - <sub><sup>(Discord)</sup></sub>
 - New South Wales
+  - [Sydney Mesh Users Group](https://nswmesh.au/) - <sub><sup>(Website)</sup></sub>
   - [Meshtastic & Meshcore Sydney Community](https://www.facebook.com/groups/1041534027106861) - <sub><sup>(Facebook)</sup></sub>
   - [Sydney and Greater NSW Community](https://gitHub.com/orgs/meshtastic/discussions/10) - <sub><sup>(GitHub Discussions)</sup></sub>
 - Queensland
