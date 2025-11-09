@@ -381,6 +381,7 @@ A list of groups that have been actively setting up Meshtastic networks in their
 - [Autour de Meshtastic](https://t.me/+EYBkU17mlcU2MWI8) - <sub><sup>(Telegram)</sup></sub>
 - [Collectif Meshtastic France](https://www.facebook.com/groups/meshtastic.france) - <sub><sup>(Facebook)</sup></sub>
 - [Réseau Gaulix](https://t.me/+bkCEaiI-i-Q2ZTBk) - <sub><sup>(Telegram)</sup></sub>
+- [AlsaMesh](https://alsamesh.org/) - <sub><sup>(Website)</sup></sub>
 
 
 ### 🇩🇪Germany
