@@ -365,7 +365,8 @@ A list of groups that have been actively setting up Meshtastic networks in their
 
 ### Denmark
 
-- [Danske Meshtastic Brugere](https://discord.gg/EXWWwDmfBN)
+- [Danske Meshtastic Brugere](https://discord.gg/EXWWwDmfBN) - <sub><sup>(Discord)</sup></sub>
+- [Danske Meshtastic Brugere](https://meshbrugere.dk/) - <sub><sup>(Website)</sup></sub>
 
 
 ### 🇫🇮Finland
