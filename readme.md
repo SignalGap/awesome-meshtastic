@@ -29,6 +29,7 @@ This is a curated list of useful resources, tools, tutorials, projects, and comm
   - 🇦🇷 [Argentina](#argentina)
   - 🇦🇺 [Australia](#australia)
   - 🇦🇹 [Austria](#austria)
+  - 🇧🇸 [Bahamas](#bahamas)
   - 🇧🇷 [Brazil](#brazil)
   - 🇧🇬 [Bulgaria](#bulgaria)
   - 🇧🇪 [Belgium](#belgium)
@@ -292,6 +293,9 @@ A list of groups that have been actively setting up Meshtastic networks in their
 
 - [Meshtastic Austria](https://meshtastic.at) - <sub><sup>(Website)</sup></sub>
 
+### 🇧🇸Bahamas
+
+- [Mesh Bahamas Meshtastic Users Group](https://mesh.bs/) - <sub><sup>(Website)</sup></sub>
 
 ### 🇧🇷Brazil
 
