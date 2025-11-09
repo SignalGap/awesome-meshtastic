@@ -312,6 +312,7 @@ A list of groups that have been actively setting up Meshtastic networks in their
 
 - [Meshtastic BE](https://www.facebook.com/groups/368474532644811/) - <sub><sup>(Facebook)</sup></sub>
 - [ON-tastic (433MHz)](https://www.facebook.com/groups/1159312151703920) - <sub><sup>(Facebook)</sup></sub>
+- [Namur Mesh 868](https://t.me/namurmesh868) - <sub><sup>(Telegram)</sup></sub>
 
 
 ### 🇨🇦Canada
