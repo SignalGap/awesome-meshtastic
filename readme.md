@@ -127,6 +127,7 @@ Repos related to the hardware components and sensor integration for Meshtastic.
 ## How Tos
 
 - [Meshtastic for Makers](https://www.youtube.com/watch?v=qjJIVBOWvfc&list=PLPK2l9Knytg6jzOfcqk5y0iBH48ZATVVD) - A 1-hour video course that teaches you how to use the LoRa-powered Meshtastic network to wirelessly send data with microcontrollers, covering setup, sensor data transmission, hardware control, and MQTT integration for long-range maker projects.
+- [Disaster Comms with Meshtastic + MeshCore](https://pamfinds.com/guides/disaster-comms-meshtastic-meshcore/) - A practical guide to surviving infrastructure meltdown with LoRa mesh radios, covering a 3-node household kit (Heltec base station, T-Beam go-bag node with GPS, RAK WisBlock solar relay), pre-event configuration to lock in before the disaster hits, realistic range expectations (3-15 mi per hop), power budgeting for week-long unattended runtime, and the Meshtastic vs MeshCore tradeoff for household vs city-scale deployments.
 
 
 ## Applications
