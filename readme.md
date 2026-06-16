@@ -401,7 +401,7 @@ A list of groups that have been actively setting up Meshtastic networks in their
 
 ### 🇮🇱Israel
 
-- [Israel Meshtastic Club](https://www.mesh-il.com)
+- ~~Israel Meshtastic Club~~ [Archived](https://web.archive.org/web/20250813160138/https://www.mesh-il.com/)
 
 
 ### 🇮🇹Italy
