@@ -171,7 +171,7 @@ Reputable stores known for offering high-quality hardware, organized alphabetica
 
 - [AT Labs](https://at-labs.tech) - <sub><sup>(Jonesborough, Tennessee, USA)</sup></sub> Specializes in developing rugged Mobile Ad Hoc Network (MANET) radios, including their flagship RM-1 series, designed for resilient off-grid communication.
 
-- [B&Q Consulting](https://shop.uniteng.com) - <sub><sup>(Shenzhen, Guangdong, China)</sup></sub> Personal R&D lab and documentation hub by Neil Hao, focusing on embedded systems, RF design, and open-source hardware projects like Meshtastic mesh devices and smart home technologies.
+- [B&Q Consulting](https://store.bqvoy.com/) - <sub><sup>(Shenzhen, Guangdong, China)</sup></sub> Personal R&D lab and documentation hub by Neil Hao, focusing on embedded systems, RF design, and open-source hardware projects like Meshtastic mesh devices and smart home technologies.
 
 - [Canary Radio](https://canaryradio.io) - <sub><sup>(Portland, Oregon, USA)</sup></sub> Specializes in rugged, ready-to-use Meshtastic-compatible communication devices like the CanaryOne, designed for reliable off-grid networking in austere environments.
 
