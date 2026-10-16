@@ -27,6 +27,7 @@ This is a curated list of useful resources, tools, tutorials, projects, and comm
   - [Unofficial Communities](#unofficial-communities)
 - [Local Groups](#local-groups)
   - 🇦🇷 [Argentina](#argentina)
+  - 🇦🇲 [Armenia](#armenia)
   - 🇦🇺 [Australia](#australia)
   - 🇦🇹 [Austria](#austria)
   - 🇧🇸 [Bahamas](#bahamas)
@@ -275,6 +276,11 @@ A list of groups that have been actively setting up Meshtastic networks in their
 - [Meshtastic Argentina Community](xmpp:mesharg@conference.conversations.im) - <sub><sup>(XMPP)</sup></sub>
 - [Meshtastic Argentina Community](https://matrix.to/#/%23meshtastic-argentina:matrix.org) - <sub><sup>(Matrix)</sup></sub>
 - [Buenos Aires Mesh](https://www.instagram.com/bairesmesh/) - <sub><sup>(Instagram)</sup></sub>
+
+
+### 🇦🇲Armenia
+
+- [Armenia Mesh](https://t.me/armeniamesh) - <sub><sup>(Telegram)</sup></sub>
 
 
 ### 🇦🇺Australia
