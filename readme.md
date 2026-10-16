@@ -548,7 +548,7 @@ A list of groups that have been actively setting up Meshtastic networks in their
   - [Meshtastic Bay Area Group](https://bayme.sh/)
   - [MontereyBayMesh](https://mrymesh.net/)
   - [San Diego Mesh](https://discord.gg/k8RputgWgD) - <sub><sup>(Discord)</sup></sub>
-  - [Antelope Valley Mesh](https://www.avmesh.org/)
+  - ~~Antelope Valley Mesh~~ - [Archived](https://web.archive.org/web/20251216120736/https://www.avmesh.org/)
   - ~~AltaMesh~~ - [Archived](https://web.archive.org/web/20250122193410/https://altamesh.net/)
   - [Central Valley](https://centralvalleymesh.net/)
   - [Sac Valley Mesh](http://www.sacvalleymesh.com)
