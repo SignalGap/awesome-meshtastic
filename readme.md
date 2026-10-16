@@ -266,8 +266,15 @@ A list of groups that have been actively setting up Meshtastic networks in their
 
 ### 🇦🇷Argentina
 
+- [Mesh Argentina](https://mesharg.com.ar) - <sub><sup>(Website)</sup></sub>
 - [Meshtastic Argentina Community](https://gitHub.com/Meshtastic-Argentina/) - <sub><sup>(GitHub)</sup></sub>
 - [Meshtastic Argentina Community](https://t.me/meshtastic_argentina) - <sub><sup>(Telegram)</sup></sub>
+- [Meshtastic Argentina Community](https://www.facebook.com/groups/1174679143561270/) - <sub><sup>(Facebook)</sup></sub>
+- [Meshtastic Argentina Community](https://discord.gg/wQUntsrU3a) - <sub><sup>(Discord)</sup></sub>
+- [Meshtastic Argentina Community](https://xmpp.link/#mesharg%40conference.conversations.im%3Fjoin) - <sub><sup>(XMPP Link)</sup></sub>
+- [Meshtastic Argentina Community](xmpp:mesharg@conference.conversations.im) - <sub><sup>(XMPP)</sup></sub>
+- [Meshtastic Argentina Community](https://matrix.to/#/%23meshtastic-argentina:matrix.org) - <sub><sup>(Matrix)</sup></sub>
+- [Buenos Aires Mesh](https://www.instagram.com/bairesmesh/) - <sub><sup>(Instagram)</sup></sub>
 
 
 ### 🇦🇺Australia
