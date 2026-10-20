@@ -225,7 +225,7 @@ Firmware and on-device user interfaces that let a handheld Meshtastic device sen
 
 - [Camillia](https://gitHub.com/oumike/camillia-mt) - Meshtastic-compatible firmware for ESP32 handhelds including the LILYGO T-Deck, T-Lora Pager, M5Stack Cardputer, Heltec V4 with TFT and Elecrow ThinkNode M9, featuring eight channels, browser-based setup and YAML config import/export via microSD.
 
-- [Plai](https://gitHub.com/d4rkmen/plai) - A standalone Meshtastic messaging terminal for the M5Stack Cardputer ADV with the Cap LoRa module, with no WiFi or BLE, storing profiles, message history and the node database on SD card.
+- [Plai](https://gitHub.com/d4rkmen/plai) - A standalone Meshtastic messaging terminal for the M5Stack Cardputer ADV with the Cap LoRa module, with no Wi-Fi or BLE, storing profiles, message history and the node database on SD card.
 
 - [Meshtastic ADV](https://gitHub.com/anton-vinogradov/meshtastic-adv) - A keyboard-first Meshtastic client for the M5Stack Cardputer ADV that runs standalone on the Cap LoRa-1262 or as a companion to any stock node over BLE, with one-click browser install.
 
