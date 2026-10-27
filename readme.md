@@ -213,6 +213,8 @@ Reputable stores known for offering high-quality hardware, organized alphabetica
 
 - [Contact - A Console UI for Meshtastic](https://gitHub.com/pdxlocations/contact) - A terminal-based Python chat and configuration client for Meshtastic devices.
 
+- [MeshSat](https://github.com/meshsat/meshsat) - An open-source gateway for a Raspberry Pi that bridges a Meshtastic mesh to Iridium satellite, SMS, APRS, TAK and Reticulum, so messages can leave the mesh when there's no internet.
+
 
 ## Hardware Projects
 
