@@ -18,6 +18,7 @@ This is a curated list of useful resources, tools, tutorials, projects, and comm
   - [Community Apps](#community-apps)
 - [Hardware Stores](#hardware-stores)
 - [Software Projects](#software-projects)
+- [Standalone Firmware](#standalone-firmware)
 - [Hardware Projects](#hardware-projects)
   - [Solar Powered Hardware Projects](#solar-powered-hardware-projects)
   - [Fun Hardware Projects](#fun-hardware-projects)
@@ -212,6 +213,25 @@ Reputable stores known for offering high-quality hardware, organized alphabetica
 - [Connect - A Nodeless MQTT Client for Meshtastic](https://gitHub.com/pdxlocations/connect) - A standalone Python client for communicating with Meshtastic devices via MQTT.
 
 - [Contact - A Console UI for Meshtastic](https://gitHub.com/pdxlocations/contact) - A terminal-based Python chat and configuration client for Meshtastic devices.
+
+
+## Standalone Firmware
+
+Firmware and on-device user interfaces that let a handheld Meshtastic device send and receive messages on its own, without a paired phone or computer.
+
+- [Meshtastic UI (MUI)](https://gitHub.com/meshtastic/device-ui) - The official on-device touchscreen interface for TFT devices such as the LILYGO T-Deck, T-Deck Plus and T-Lora Pager, selectable in the Meshtastic Web Flasher. See the [Meshtastic UI docs](https://meshtastic.org/docs/configuration/device-uis/meshtasticui/).
+
+- [Meshtastic Standalone UI](https://gitHub.com/meshtastic/standalone-ui) - Official firmware that runs MUI on ESP32 TFT display boards (LILYGO T-HMI, WT32-SC01 Plus, ESP32-4848S040, Makerfabs MaTouch and others) connected to a Meshtastic radio over serial, plus a native Linux client.
+
+- [Camillia](https://gitHub.com/oumike/camillia-mt) - Meshtastic-compatible firmware for ESP32 handhelds including the LILYGO T-Deck, T-Lora Pager, M5Stack Cardputer, Heltec V4 with TFT and Elecrow ThinkNode M9, featuring eight channels, browser-based setup and YAML config import/export via microSD.
+
+- [Plai](https://gitHub.com/d4rkmen/plai) - A standalone Meshtastic messaging terminal for the M5Stack Cardputer ADV with the Cap LoRa module, with no Wi-Fi or BLE, storing profiles, message history and the node database on SD card.
+
+- [Meshtastic ADV](https://gitHub.com/anton-vinogradov/meshtastic-adv) - A keyboard-first Meshtastic client for the M5Stack Cardputer ADV that runs standalone on the Cap LoRa-1262 or as a companion to any stock node over BLE, with one-click browser install.
+
+- [Meshtastic for Cardputer ADV](https://gitHub.com/mariovirgili/Meshtastic-for-Cardputer-ADV) - A fork of the Meshtastic firmware adapted to run standalone on the M5Stack Cardputer ADV with the Cap LoRa-1262.
+
+- [Trail Mate](https://gitHub.com/vicliu624/trail-mate) - An offline-first handheld firmware for GPS navigation, team awareness and off-grid messaging over Meshtastic, MeshCore and Reticulum, targeting the LILYGO T-Lora Pager, T-Deck and other ESP32 and nRF52 devices.
 
 
 ## Hardware Projects
