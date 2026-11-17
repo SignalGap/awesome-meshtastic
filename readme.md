@@ -166,6 +166,10 @@ Official **Web Client** is a browser-based interface that allows users to manage
 
 - [MeshChess on Google Play](https://play.google.com/store/apps/details?id=com.specfive.chess)
 
+**World Without Web** is a paid offline survival app for Windows and Linux Mint. Its Messages tab sends texts over a Meshtastic radio plugged in by USB, with no cell towers, alongside offline maps, an offline library and a local AI.
+
+- [World Without Web](https://worldwithoutweb.com/)
+
 
 ## Hardware Stores
 
