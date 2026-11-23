@@ -150,6 +150,7 @@ Official **macOS, iPhone, and iPad** application allows you to connect to your M
 Official **Web Client** is a browser-based interface that allows users to manage and configure their Meshtastic devices, offering functionalities such as messaging, device settings, and location tracking, all without the need for a mobile app.
 
 - [Official hosted version](https://client.meshtastic.org)
+- [Official web flasher](https://flasher.meshtastic.org/)
 - [Served directly from an ESP32 based node](http://meshtastic.local)
 
 ### Community Apps
