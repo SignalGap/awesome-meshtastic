@@ -267,6 +267,7 @@ These aren't directly related to Meshtastic but may inspire you.
 
 ### Official Community
 
+- [Official Bluesky](https://bsky.app/profile/meshtastic.org)
 - [Official Discord Server](https://discord.com/invite/ktMAKGBnBs)
 - [Official Facebook](https://facebook.com/themeshtastic)
 - [Official GitHub Discussions](https://gitHub.com/orgs/meshtastic/discussions)
@@ -274,6 +275,7 @@ These aren't directly related to Meshtastic but may inspire you.
 - [Official Mastodon](https://mastodon.social/@meshtastic)
 - [Official Reddit](https://www.reddit.com/r/meshtastic/)
 - [Official Telegram](https://t.me/meshint)
+- [Official Threads](https://www.threads.com/@themeshtastic)
 - [Official X (formar Twitter)](https://x.com/TheMeshtastic)
 - [Official YouTube](https://www.youtube.com/@Meshtastic)
 
