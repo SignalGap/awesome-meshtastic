@@ -627,6 +627,7 @@ A list of groups that have been actively setting up Meshtastic networks in their
   - [Boston Meshnet](https://gitHub.com/Darachnid/Boston-Meshnet)
   - [Pioneer Valley Meshtastic Network](https://pvmesh.org)
   - [SouthCoast Mesh](https://southcoastmesh.com)
+  - [Greater Boston Mesh](https://discord.gg/MUVASVEEES) - <sub><sup>(Discord)</sup></sub>
 - Michigan
   - [Michigan Meshtastic Network](https://discord.gg/3A5RREcBcc) - <sub><sup>(Discord)</sup></sub>
 - Minnesota
