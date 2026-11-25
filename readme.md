@@ -649,8 +649,9 @@ A list of groups that have been actively setting up Meshtastic networks in their
   - [Southern Tier Mesh](https://stmesh.net) - <sub><sup>(Website)</sup></sub>
   - [CNYMesh](https://cnymesh.org) - <sub><sup>(Website)</sup></sub>
 - North Carolina
-  - [North Carolina Mesh](https://ncmesh.net/)
-  - [BackCountrySignal - Graham County](https://backcountrysignal.org/) - <sub><sup>(Website)</sup></sub>
+  - [North Carolina Mesh](https://ncmesh.net/) - <sub><sup>(Website)</sup></sub>
+  - [BackCountrySignal](https://backcountrysignal.org/) - <sub><sup>(Website)</sup></sub>
+  - [MeshAVL](https://meshavl.com) - <sub><sup>(Website)</sup></sub>
 - Ohio
   - [Cincy Mesh](https://www.cincymesh.org)
   - [Dayton Mesh](https://daytonmesh.org/)
