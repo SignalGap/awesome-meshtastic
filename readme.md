@@ -633,8 +633,9 @@ A list of groups that have been actively setting up Meshtastic networks in their
   - [MSP Mesh](https://mspmesh.org/) - <sub><sup>(Website)</sup></sub>
 - Missouri
   - [Kansas City Meshtastic Group](https://www.facebook.com/share/XZ9jnhxy1YT4wWqC/) - <sub><sup>(Facebook)</sup></sub>
-  - [MeshSTL - St. Louis](https://discord.gg/QYxUdKZpBd) - <sub><sup>(Discord)</sup></sub>
-  - [CMRG Mesh - Jefferson City](https://www.mo-mesh.com)
+  - [MeshSTL](https://discord.gg/QYxUdKZpBd) - <sub><sup>(Discord)</sup></sub>
+  - [CMRG Mesh ](https://www.mo-mesh.com) - <sub><sup>(Website)</sup></sub>
+  - [Missouri Mesh](https://missourimesh.org) - <sub><sup>(Website)</sup></sub>
 - Nevada
   - [VegasMesh](https://discord.gg/vUmWuZxYPh) - <sub><sup>(Discord)</sup></sub>
 - New Hampshire
