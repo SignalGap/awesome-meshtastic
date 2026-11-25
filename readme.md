@@ -641,6 +641,13 @@ A list of groups that have been actively setting up Meshtastic networks in their
   - [NHMesh](https://discord.gg/PkbHWSEXBv) - <sub><sup>(Discord)</sup></sub>
 - New Mexico
   - [Albuquerque Mesh](https://www.abqm.net)
+- New York
+  - [New York Mesh](https://nyme.sh) - <sub><sup>(Website)</sup></sub>
+  - [BuffaLoRa](https://buffalora.org) - <sub><sup>(Website)</sup></sub>
+  - [ROCMesh](https://rocmesh.com/) - <sub><sup>(Website)</sup></sub>
+  - [Upstate Mesh](https://www.upstatemesh.org/) - <sub><sup>(Website)</sup></sub>
+  - [Southern Tier Mesh](https://stmesh.net) - <sub><sup>(Website)</sup></sub>
+  - [CNYMesh](https://cnymesh.org) - <sub><sup>(Website)</sup></sub>
 - North Carolina
   - [North Carolina Mesh](https://ncmesh.net/)
   - [BackCountrySignal - Graham County](https://backcountrysignal.org/) - <sub><sup>(Website)</sup></sub>
